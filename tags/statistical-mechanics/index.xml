@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Statistical Mechanics on Buttered Cat</title>
+    <link>https://htsod.github.io/tags/statistical-mechanics/</link>
+    <description>Recent content in Statistical Mechanics on Buttered Cat</description>
+    <image>
+      <title>Buttered Cat</title>
+      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://htsod.github.io/tags/statistical-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ising Model</title>
+      <link>https://htsod.github.io/dir1/ising_model/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/dir1/ising_model/</guid>
+      <description>Solving the 1D Ising model with three methods: numerical method, transfer matrix method and renormalization group method. Then, solve particular systems with 2D and 3D Ising model numerically.</description>
+    </item>
+    
+    <item>
+      <title>Renormalization Group Method on Period Doubling</title>
+      <link>https://htsod.github.io/dir1/period_doubling/</link>
+      <pubDate>Sat, 10 Jun 2023 22:10:03 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/dir1/period_doubling/</guid>
+      <description>This blog will demonstrate the method of renormalization group as simple as possible in the context of understanding period doubling. I hope you find the great charm as much as I did when I first learn about it.</description>
+    </item>
+    
+  </channel>
+</rss>

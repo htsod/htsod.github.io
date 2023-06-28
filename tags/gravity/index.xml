@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gravity on Buttered Cat</title>
+    <link>https://htsod.github.io/tags/gravity/</link>
+    <description>Recent content in Gravity on Buttered Cat</description>
+    <image>
+      <title>Buttered Cat</title>
+      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://htsod.github.io/tags/gravity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deriving Maxwell&#39;s Equations</title>
+      <link>https://htsod.github.io/dir1/maxwell_eqns_derive/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/dir1/maxwell_eqns_derive/</guid>
+      <description>An alternative way derving Maxwell&amp;#39;s equation</description>
+    </item>
+    
+  </channel>
+</rss>
