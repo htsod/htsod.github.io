@@ -14,10 +14,10 @@
     <lastBuildDate>Sat, 10 Jun 2023 22:10:03 +0000</lastBuildDate><atom:link href="https://htsod.github.io/tags/dynamical-system/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Renormalization Group Method on Period Doubling</title>
-      <link>https://htsod.github.io/dir1/period_doubling/</link>
+      <link>https://htsod.github.io/posts/period_doubling/</link>
       <pubDate>Sat, 10 Jun 2023 22:10:03 +0000</pubDate>
       
-      <guid>https://htsod.github.io/dir1/period_doubling/</guid>
+      <guid>https://htsod.github.io/posts/period_doubling/</guid>
       <description>This blog will demonstrate the method of renormalization group as simple as possible in the context of understanding period doubling. I hope you find the great charm as much as I did when I first learn about it.</description>
     </item>
     

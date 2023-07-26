@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ising Model on Buttered Cat</title>
+    <link>https://htsod.github.io/tags/ising-model/</link>
+    <description>Recent content in Ising Model on Buttered Cat</description>
+    <image>
+      <title>Buttered Cat</title>
+      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://htsod.github.io/tags/ising-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ising Model with Transfer Matrix Method</title>
+      <link>https://htsod.github.io/posts/ising_model_transfer/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/posts/ising_model_transfer/</guid>
+      <description>This blog will breifly go through the steps to find the analytical solution to one and two dimension Ising Model for ferromagnetism. Approximation to the Hamiltonian is assumed to simplify the calculation while retaining its essential features.</description>
+    </item>
+    
+    <item>
+      <title>Renormalization Group Method on Ising Model</title>
+      <link>https://htsod.github.io/posts/ising_model_renormalization/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/posts/ising_model_renormalization/</guid>
+      <description>Solving the 1D Ising model with three methods: numerical method, transfer matrix method and renormalization group method. Then, solve particular systems with 2D and 3D Ising model numerically.</description>
+    </item>
+    
+  </channel>
+</rss>

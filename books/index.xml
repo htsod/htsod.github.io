@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Recent Posts on Buttered Cat</title>
+    <link>https://htsod.github.io/books/</link>
+    <description>Recent content in Recent Posts on Buttered Cat</description>
+    <image>
+      <title>Buttered Cat</title>
+      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 May 2023 01:44:19 -0700</lastBuildDate><atom:link href="https://htsod.github.io/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Continuous Group</title>
+      <link>https://htsod.github.io/books/groups/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/books/groups/</guid>
+      <description>Classification of all continuous groups.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Computation</title>
+      <link>https://htsod.github.io/books/quantum_computation/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/books/quantum_computation/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Axiomatic Quantum Mechanics</title>
+      <link>https://htsod.github.io/books/qm_rules/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/books/qm_rules/</guid>
+      <description>Stating the postulates of quantum mechanics.</description>
+    </item>
+    
+    <item>
+      <title>Deriving the Maxwell&#39;s Equations</title>
+      <link>https://htsod.github.io/books/maxwell_eqns_derive/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/books/maxwell_eqns_derive/</guid>
+      <description>An alternative way derving Maxwell&amp;#39;s equation</description>
+    </item>
+    
+    <item>
+      <title>The Hidden Subgroup Problem</title>
+      <link>https://htsod.github.io/books/hidden_subgroup/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/books/hidden_subgroup/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>

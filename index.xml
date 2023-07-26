@@ -11,77 +11,104 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://htsod.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://htsod.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Continuous Group</title>
-      <link>https://htsod.github.io/dir1/groups/</link>
+      <link>https://htsod.github.io/books/groups/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://htsod.github.io/dir1/groups/</guid>
+      <guid>https://htsod.github.io/books/groups/</guid>
       <description>Classification of all continuous groups.</description>
     </item>
     
     <item>
-      <title>Rules for Quantum Mechanics</title>
-      <link>https://htsod.github.io/dir1/qm_rules/</link>
-      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Quantum Approximate Optimization Algorithm</title>
+      <link>https://htsod.github.io/posts/variational_quantum_eigensolver/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://htsod.github.io/dir1/qm_rules/</guid>
-      <description>Stating the postulates of quantum mechanics.</description>
-    </item>
-    
-    <item>
-      <title>Ising Model</title>
-      <link>https://htsod.github.io/dir1/ising_model/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/dir1/ising_model/</guid>
-      <description>Solving the 1D Ising model with three methods: numerical method, transfer matrix method and renormalization group method. Then, solve particular systems with 2D and 3D Ising model numerically.</description>
-    </item>
-    
-    <item>
-      <title>Deriving Maxwell&#39;s Equations</title>
-      <link>https://htsod.github.io/dir1/maxwell_eqns_derive/</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/dir1/maxwell_eqns_derive/</guid>
-      <description>An alternative way derving Maxwell&amp;#39;s equation</description>
-    </item>
-    
-    <item>
-      <title>Invisble Cloacking</title>
-      <link>https://htsod.github.io/dir1/invisible_cloaking/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/dir1/invisible_cloaking/</guid>
+      <guid>https://htsod.github.io/posts/variational_quantum_eigensolver/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
+      <title>Variatioal Quantum Eigensolver</title>
+      <link>https://htsod.github.io/posts/qaoa/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/posts/qaoa/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Computation</title>
+      <link>https://htsod.github.io/books/quantum_computation/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/books/quantum_computation/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Ising Model with Transfer Matrix Method</title>
+      <link>https://htsod.github.io/posts/ising_model_transfer/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/posts/ising_model_transfer/</guid>
+      <description>This blog will breifly go through the steps to find the analytical solution to one and two dimension Ising Model for ferromagnetism. Approximation to the Hamiltonian is assumed to simplify the calculation while retaining its essential features.</description>
+    </item>
+    
+    <item>
+      <title>Axiomatic Quantum Mechanics</title>
+      <link>https://htsod.github.io/books/qm_rules/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/books/qm_rules/</guid>
+      <description>Stating the postulates of quantum mechanics.</description>
+    </item>
+    
+    <item>
+      <title>Ising Model with Numerical Analysis</title>
+      <link>https://htsod.github.io/posts/ising_model_numerical/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/posts/ising_model_numerical/</guid>
+      <description>Solving the 1D Ising model with three methods: numerical method, transfer matrix method and renormalization group method. Then, solve particular systems with 2D and 3D Ising model numerically.</description>
+    </item>
+    
+    <item>
+      <title>Renormalization Group Method on Ising Model</title>
+      <link>https://htsod.github.io/posts/ising_model_renormalization/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/posts/ising_model_renormalization/</guid>
+      <description>Solving the 1D Ising model with three methods: numerical method, transfer matrix method and renormalization group method. Then, solve particular systems with 2D and 3D Ising model numerically.</description>
+    </item>
+    
+    <item>
+      <title>Deriving the Maxwell&#39;s Equations</title>
+      <link>https://htsod.github.io/books/maxwell_eqns_derive/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/books/maxwell_eqns_derive/</guid>
+      <description>An alternative way derving Maxwell&amp;#39;s equation</description>
+    </item>
+    
+    <item>
       <title>The Hidden Subgroup Problem</title>
-      <link>https://htsod.github.io/dir1/hidden_subgroup/</link>
+      <link>https://htsod.github.io/books/hidden_subgroup/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://htsod.github.io/dir1/hidden_subgroup/</guid>
+      <guid>https://htsod.github.io/books/hidden_subgroup/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Renormalization Group Method on Period Doubling</title>
-      <link>https://htsod.github.io/dir1/period_doubling/</link>
+      <link>https://htsod.github.io/posts/period_doubling/</link>
       <pubDate>Sat, 10 Jun 2023 22:10:03 +0000</pubDate>
       
-      <guid>https://htsod.github.io/dir1/period_doubling/</guid>
+      <guid>https://htsod.github.io/posts/period_doubling/</guid>
       <description>This blog will demonstrate the method of renormalization group as simple as possible in the context of understanding period doubling. I hope you find the great charm as much as I did when I first learn about it.</description>
-    </item>
-    
-    <item>
-      <title>Example Template</title>
-      <link>https://htsod.github.io/dir2/example/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/dir2/example/</guid>
-      <description>Desc Text.</description>
     </item>
     
     

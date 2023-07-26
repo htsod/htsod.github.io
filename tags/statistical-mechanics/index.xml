@@ -11,22 +11,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://htsod.github.io/tags/statistical-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://htsod.github.io/tags/statistical-mechanics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ising Model</title>
-      <link>https://htsod.github.io/dir1/ising_model/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Ising Model with Transfer Matrix Method</title>
+      <link>https://htsod.github.io/posts/ising_model_transfer/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://htsod.github.io/dir1/ising_model/</guid>
+      <guid>https://htsod.github.io/posts/ising_model_transfer/</guid>
+      <description>This blog will breifly go through the steps to find the analytical solution to one and two dimension Ising Model for ferromagnetism. Approximation to the Hamiltonian is assumed to simplify the calculation while retaining its essential features.</description>
+    </item>
+    
+    <item>
+      <title>Renormalization Group Method on Ising Model</title>
+      <link>https://htsod.github.io/posts/ising_model_renormalization/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/posts/ising_model_renormalization/</guid>
       <description>Solving the 1D Ising model with three methods: numerical method, transfer matrix method and renormalization group method. Then, solve particular systems with 2D and 3D Ising model numerically.</description>
     </item>
     
     <item>
       <title>Renormalization Group Method on Period Doubling</title>
-      <link>https://htsod.github.io/dir1/period_doubling/</link>
+      <link>https://htsod.github.io/posts/period_doubling/</link>
       <pubDate>Sat, 10 Jun 2023 22:10:03 +0000</pubDate>
       
-      <guid>https://htsod.github.io/dir1/period_doubling/</guid>
+      <guid>https://htsod.github.io/posts/period_doubling/</guid>
       <description>This blog will demonstrate the method of renormalization group as simple as possible in the context of understanding period doubling. I hope you find the great charm as much as I did when I first learn about it.</description>
     </item>
     

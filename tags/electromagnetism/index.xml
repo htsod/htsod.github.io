@@ -13,21 +13,12 @@
     <language>en</language>
     <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://htsod.github.io/tags/electromagnetism/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Deriving Maxwell&#39;s Equations</title>
-      <link>https://htsod.github.io/dir1/maxwell_eqns_derive/</link>
+      <title>Deriving the Maxwell&#39;s Equations</title>
+      <link>https://htsod.github.io/books/maxwell_eqns_derive/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://htsod.github.io/dir1/maxwell_eqns_derive/</guid>
+      <guid>https://htsod.github.io/books/maxwell_eqns_derive/</guid>
       <description>An alternative way derving Maxwell&amp;#39;s equation</description>
-    </item>
-    
-    <item>
-      <title>Invisble Cloacking</title>
-      <link>https://htsod.github.io/dir1/invisible_cloaking/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/dir1/invisible_cloaking/</guid>
-      <description>Desc Text.</description>
     </item>
     
   </channel>
