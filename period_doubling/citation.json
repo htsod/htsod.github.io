@@ -1,63 +1,5 @@
 [
   {
-    "author": [
-      {
-        "family": "Smyrlis",
-        "given": "Yiorgos S"
-      },
-      {
-        "family": "Papageorgiou",
-        "given": "Demetrios T"
-      }
-    ],
-    "container-title": "Proceedings of the National Academy of Sciences",
-    "id": "smyrlis1991predicting",
-    "issue": "24",
-    "issued": {
-      "date-parts": [
-        [
-          1991
-        ]
-      ]
-    },
-    "page": "11129-11132",
-    "publisher": "National Acad Sciences",
-    "title": "Predicting chaos for infinite dimensional dynamical systems: The kuramoto-sivashinsky equation, a case study.",
-    "title-short": "Predicting chaos for infinite dimensional dynamical systems",
-    "type": "article-journal",
-    "volume": "88"
-  },
-  {
-    "DOI": "10.1103/PhysRevE.58.3028",
-    "URL": "https://link.aps.org/doi/10.1103/PhysRevE.58.3028",
-    "author": [
-      {
-        "family": "Kim",
-        "given": "Sang-Yoon"
-      },
-      {
-        "family": "Hu",
-        "given": "Bambi"
-      }
-    ],
-    "container-title": "Phys. Rev. E",
-    "id": "pendulum",
-    "issue": "3",
-    "issued": {
-      "date-parts": [
-        [
-          1998,
-          9
-        ]
-      ]
-    },
-    "page": "3028-3035",
-    "publisher": "American Physical Society",
-    "title": "Bifurcations and transitions to chaos in an inverted pendulum",
-    "type": "article-journal",
-    "volume": "58"
-  },
-  {
     "URL": "http://arxiv.org/abs/1210.2262",
     "author": [
       {
@@ -85,6 +27,13 @@
     ],
     "container-title": "American Journal of Physics",
     "id": "S:1999",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
     "page": "52-54",
     "title": "<span class=\"nocase\">A simpler derivation of Feigenbaum’s renormalization group equation for the period-doubling bifurcation sequence</span>",
     "type": "article-journal",
@@ -101,7 +50,14 @@
       }
     ],
     "edition": "1",
-    "id": "PLF;2010",
+    "id": "PLF:2010",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
     "publisher": "Springer, Berlin Heidelberg 2010",
     "title": "<span class=\"nocase\">Introduction to the Functional Renormalization Group</span>",
     "type": "book"
@@ -114,32 +70,16 @@
       }
     ],
     "edition": "2",
-    "id": "James;2020",
-    "publisher": "Clarendon Press",
-    "title": "<span class=\"nocase\">Entropy, Order Parameters, and Complexity</span>",
-    "type": "book"
-  },
-  {
-    "author": [
-      {
-        "family": "Choudhuri",
-        "given": "Arnab Rai"
-      },
-      {
-        "literal": "others"
-      }
-    ],
-    "id": "choudhuri1998physics",
+    "id": "James:2020",
     "issued": {
       "date-parts": [
         [
-          1998
+          2020
         ]
       ]
     },
-    "publisher": "Cambridge University Press",
-    "title": "The physics of fluids and plasmas: An introduction for astrophysicists",
-    "title-short": "The physics of fluids and plasmas",
+    "publisher": "Clarendon Press",
+    "title": "<span class=\"nocase\">Entropy, Order Parameters, and Complexity</span>",
     "type": "book"
   }
 ]

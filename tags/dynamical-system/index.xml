@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Dynamical System on Buttered Cat</title>
+    <title>Dynamical System on ButterCat</title>
     <link>https://htsod.github.io/tags/dynamical-system/</link>
-    <description>Recent content in Dynamical System on Buttered Cat</description>
+    <description>Recent content in Dynamical System on ButterCat</description>
     <image>
-      <title>Buttered Cat</title>
+      <title>ButterCat</title>
       <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -18,7 +18,7 @@
       <pubDate>Sat, 10 Jun 2023 22:10:03 +0000</pubDate>
       
       <guid>https://htsod.github.io/posts/period_doubling/</guid>
-      <description>This blog will demonstrate the method of renormalization group as simple as possible in the context of understanding period doubling. I hope you find the great charm as much as I did when I first learn about it.</description>
+      <description>This blog will demonstrate the method of renormalization group as an alternative way of understanding the phenomena of period doubling.</description>
     </item>
     
   </channel>

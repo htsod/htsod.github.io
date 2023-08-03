@@ -45,6 +45,13 @@
       }
     ],
     "id": "exact_solu;2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
     "title": "<span class=\"nocase\">Exact Solutions of the Ising Model</span>",
     "type": "article-journal"
   },
@@ -57,6 +64,13 @@
     ],
     "edition": "2",
     "id": "James;2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
     "publisher": "Clarendon Press",
     "title": "<span class=\"nocase\">Entropy, Order Parameters, and Complexity</span>",
     "type": "book"
@@ -70,6 +84,13 @@
     ],
     "edition": "2",
     "id": "James;2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
     "publisher": "Clarendon Press",
     "title": "<span class=\"nocase\">Entropy, Order Parameters, and Complexity</span>",
     "type": "book"
@@ -86,6 +107,13 @@
     ],
     "edition": "1",
     "id": "PLF;2010",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
     "publisher": "Springer, Berlin Heidelberg 2010",
     "title": "<span class=\"nocase\">Introduction to the Functional Renormalization Group</span>",
     "type": "book"

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Recent Posts on Buttered Cat</title>
+    <title>Blog Posts on ButterCat</title>
     <link>https://htsod.github.io/posts/</link>
-    <description>Recent content in Recent Posts on Buttered Cat</description>
+    <description>Recent content in Blog Posts on ButterCat</description>
     <image>
-      <title>Buttered Cat</title>
+      <title>ButterCat</title>
       <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -14,15 +14,6 @@
     <lastBuildDate>Mon, 29 May 2023 01:44:19 -0700</lastBuildDate><atom:link href="https://htsod.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quantum Approximate Optimization Algorithm</title>
-      <link>https://htsod.github.io/posts/variational_quantum_eigensolver/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/posts/variational_quantum_eigensolver/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Variatioal Quantum Eigensolver</title>
       <link>https://htsod.github.io/posts/qaoa/</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
       
@@ -31,12 +22,21 @@
     </item>
     
     <item>
+      <title>Variational Quantum Eigensolver in Ground States Estimation of Molecules</title>
+      <link>https://htsod.github.io/posts/variational_quantum_eigensolver/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://htsod.github.io/posts/variational_quantum_eigensolver/</guid>
+      <description>This blog page provides a summary of a particular application of VQE on chemistry, which is to evalue the ground states of a molecules.</description>
+    </item>
+    
+    <item>
       <title>Ising Model with Transfer Matrix Method</title>
       <link>https://htsod.github.io/posts/ising_model_transfer/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://htsod.github.io/posts/ising_model_transfer/</guid>
-      <description>This blog will breifly go through the steps to find the analytical solution to one and two dimension Ising Model for ferromagnetism. Approximation to the Hamiltonian is assumed to simplify the calculation while retaining its essential features.</description>
+      <description>This blog will breifly go through the steps to find the analytical solution to one  dimension Ising Model for ferromagnetism via transfer matrix method.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://htsod.github.io/posts/ising_model_numerical/</guid>
-      <description>Solving the 1D Ising model with three methods: numerical method, transfer matrix method and renormalization group method. Then, solve particular systems with 2D and 3D Ising model numerically.</description>
+      <description>This blog aims to give a breif walkthrough to the numerical solution of the Ising Model.</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@
       <pubDate>Sat, 10 Jun 2023 22:10:03 +0000</pubDate>
       
       <guid>https://htsod.github.io/posts/period_doubling/</guid>
-      <description>This blog will demonstrate the method of renormalization group as simple as possible in the context of understanding period doubling. I hope you find the great charm as much as I did when I first learn about it.</description>
+      <description>This blog will demonstrate the method of renormalization group as an alternative way of understanding the phenomena of period doubling.</description>
     </item>
     
   </channel>

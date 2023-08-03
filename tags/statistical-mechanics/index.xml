@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Statistical Mechanics on Buttered Cat</title>
+    <title>Statistical Mechanics on ButterCat</title>
     <link>https://htsod.github.io/tags/statistical-mechanics/</link>
-    <description>Recent content in Statistical Mechanics on Buttered Cat</description>
+    <description>Recent content in Statistical Mechanics on ButterCat</description>
     <image>
-      <title>Buttered Cat</title>
+      <title>ButterCat</title>
       <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -18,7 +18,7 @@
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://htsod.github.io/posts/ising_model_transfer/</guid>
-      <description>This blog will breifly go through the steps to find the analytical solution to one and two dimension Ising Model for ferromagnetism. Approximation to the Hamiltonian is assumed to simplify the calculation while retaining its essential features.</description>
+      <description>This blog will breifly go through the steps to find the analytical solution to one  dimension Ising Model for ferromagnetism via transfer matrix method.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Sat, 10 Jun 2023 22:10:03 +0000</pubDate>
       
       <guid>https://htsod.github.io/posts/period_doubling/</guid>
-      <description>This blog will demonstrate the method of renormalization group as simple as possible in the context of understanding period doubling. I hope you find the great charm as much as I did when I first learn about it.</description>
+      <description>This blog will demonstrate the method of renormalization group as an alternative way of understanding the phenomena of period doubling.</description>
     </item>
     
   </channel>
