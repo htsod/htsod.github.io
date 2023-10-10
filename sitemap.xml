@@ -2,82 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://htsod.github.io/books/groups/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
+    <loc>https://htsod.github.io/archives/</loc>
   </url><url>
     <loc>https://htsod.github.io/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/posts/qaoa/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/posts/variational_quantum_eigensolver/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/books/quantum_computation/</loc>
-    <lastmod>2023-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/tags/ising-model/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/posts/ising_model_transfer/</loc>
-    <lastmod>2023-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/tags/statistical-mechanics/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/tags/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/books/qm_rules/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/posts/ising_model_numerical/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/tags/quantum-mechanics/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/posts/ising_model_renormalization/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/books/maxwell_eqns_derive/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/tags/electromagnetism/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/tags/gravity/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/tags/computer-science/</loc>
-    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/tags/group-theory/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/books/hidden_subgroup/</loc>
-    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/tags/dynamical-system/</loc>
-    <lastmod>2023-06-10T22:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/posts/period_doubling/</loc>
-    <lastmod>2023-06-10T22:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/posts/</loc>
-    <lastmod>2023-05-29T01:44:19-07:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/books/</loc>
-    <lastmod>2023-05-29T01:44:19-07:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/projects/</loc>
-    <lastmod>2023-05-29T01:44:19-07:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/archives/</loc>
   </url><url>
     <loc>https://htsod.github.io/categories/</loc>
   </url><url>
     <loc>https://htsod.github.io/search/</loc>
+  </url><url>
+    <loc>https://htsod.github.io/tags/</loc>
   </url>
 </urlset>
