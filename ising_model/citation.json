@@ -1,0 +1,121 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ashkan Shekaari",
+        "given": "Mahmoud Jafari"
+      }
+    ],
+    "id": "ising_simulate",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "Theory and simulation of the ising model",
+    "type": "article-journal"
+  },
+  {
+    "URL": "http://arxiv.org/abs/1210.2262",
+    "author": [
+      {
+        "family": "Sfondrini",
+        "given": "Alessandro"
+      }
+    ],
+    "id": "Alessandro:2012",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Introduction to universality and renormalization group techniques</span>",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://www.diva-portal.org/smash/get/diva2:1139470/FULLTEXT01.pdf",
+    "author": [
+      {
+        "family": "Ridderstolpe",
+        "given": "Ludwig"
+      }
+    ],
+    "id": "exact_solu;2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Exact Solutions of the Ising Model</span>",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Sethna",
+        "given": "James P."
+      }
+    ],
+    "edition": "2",
+    "id": "James;2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "Clarendon Press",
+    "title": "<span class=\"nocase\">Entropy, Order Parameters, and Complexity</span>",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sethna",
+        "given": "James P."
+      }
+    ],
+    "edition": "2",
+    "id": "James;2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "Clarendon Press",
+    "title": "<span class=\"nocase\">Entropy, Order Parameters, and Complexity</span>",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1007/978-3-642-05094-7",
+    "author": [
+      {
+        "comma-suffix": false,
+        "family": "P. Kopietz",
+        "given": "F. Schutz",
+        "suffix": "L. Bartosch"
+      }
+    ],
+    "edition": "1",
+    "id": "PLF;2010",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "publisher": "Springer, Berlin Heidelberg 2010",
+    "title": "<span class=\"nocase\">Introduction to the Functional Renormalization Group</span>",
+    "type": "book"
+  }
+]

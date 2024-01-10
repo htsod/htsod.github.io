@@ -1,0 +1,61 @@
+[
+  {
+    "author": [
+      {
+        "family": "Commins",
+        "given": "Eugene D."
+      }
+    ],
+    "edition": "1",
+    "id": "ExpApp:2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Cambridge University Press",
+    "title": "<span class=\"nocase\">Quantum Mechanics An Experimentalist’s Approach</span>",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zee",
+        "given": "A."
+      }
+    ],
+    "edition": "1",
+    "id": "GTNut:2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Princeton University Press",
+    "title": "<span class=\"nocase\">Group Theory in a Nutshell for Physicists</span>",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Michael A. Nielsen",
+        "given": "Isaac L. Chuang"
+      }
+    ],
+    "id": "QCQI:2010",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "publisher": "Cambridge University Press",
+    "title": "Quantum computation and quantum information",
+    "type": "book"
+  }
+]
