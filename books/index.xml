@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ButterCat</title>
-    <link>https://htsod.github.io/</link>
-    <description>Recent content on ButterCat</description>
+    <title>Book Summary Notes on ButterCat</title>
+    <link>https://htsod.github.io/books/</link>
+    <description>Recent content in Book Summary Notes on ButterCat</description>
     <image>
       <title>ButterCat</title>
       <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,16 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://htsod.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>记首马</title>
-      <link>https://htsod.github.io/life/first_marathon/</link>
-      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/life/first_marathon/</guid>
-      <description>跑步时我能进入一种很好的精神状态，无论跑步之前的心情如何，跑步之后总能让我心情舒畅</description>
-    </item>
-    
+    <lastBuildDate>Mon, 29 May 2023 01:44:19 -0700</lastBuildDate><atom:link href="https://htsod.github.io/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Group Theory</title>
       <link>https://htsod.github.io/books/groups/</link>
@@ -40,48 +31,12 @@
     </item>
     
     <item>
-      <title>Artificial Intelligent</title>
-      <link>https://htsod.github.io/posts/ai_md/</link>
-      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/posts/ai_md/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Computational Biology</title>
-      <link>https://htsod.github.io/posts/computaitonal_biology/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/posts/computaitonal_biology/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Quantum Computation</title>
-      <link>https://htsod.github.io/posts/quantum_computation/</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/posts/quantum_computation/</guid>
-      <description>Computation </description>
-    </item>
-    
-    <item>
       <title>Different approaches to Quantum Mechanics</title>
       <link>https://htsod.github.io/books/qm_rules/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://htsod.github.io/books/qm_rules/</guid>
       <description>Stating the postulates of quantum mechanics.</description>
-    </item>
-    
-    <item>
-      <title>Ising Model</title>
-      <link>https://htsod.github.io/posts/ising_model/</link>
-      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/posts/ising_model/</guid>
-      <description>Ising model </description>
     </item>
     
     <item>
@@ -92,8 +47,6 @@
       <guid>https://htsod.github.io/books/maxwell_eqns_derive/</guid>
       <description>An alternative way derving Maxwell&amp;#39;s equation</description>
     </item>
-    
-    
     
   </channel>
 </rss>
