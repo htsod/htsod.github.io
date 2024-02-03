@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book Summary Notes on ButterCat</title>
     <link>https://htsod.github.io/books/</link>
@@ -11,42 +11,35 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 May 2023 01:44:19 -0700</lastBuildDate><atom:link href="https://htsod.github.io/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 May 2023 01:44:19 -0700</lastBuildDate>
+    <atom:link href="https://htsod.github.io/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Group Theory</title>
       <link>https://htsod.github.io/books/groups/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://htsod.github.io/books/groups/</guid>
       <description>Based on the Books 《Group Theory in a Nutshell》,</description>
     </item>
-    
     <item>
-      <title>2023阅读总结</title>
-      <link>https://htsod.github.io/books/reading_2023/</link>
-      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/books/reading_2023/</guid>
-      <description>阅读是一种跨越时空的沟通方式，在阅读中发现不同时代的共性，不同身份的我们也能在感触中找到内心的平静。</description>
+      <title>Linux Cheat Sheet</title>
+      <link>https://htsod.github.io/books/linux_cheat_sheet/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/books/linux_cheat_sheet/</guid>
+      <description>This summary content is based on the book: The Linux Command Line, Fifth Internet Edition, William Shotts</description>
     </item>
-    
     <item>
-      <title>Different approaches to Quantum Mechanics</title>
-      <link>https://htsod.github.io/books/qm_rules/</link>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/books/qm_rules/</guid>
-      <description>Stating the postulates of quantum mechanics.</description>
+      <title>Quantum Computation</title>
+      <link>https://htsod.github.io/books/quantum_computation/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/books/quantum_computation/</guid>
+      <description>Computation </description>
     </item>
-    
     <item>
       <title>Another theoretical perspective on Maxwell&#39;s Equation</title>
       <link>https://htsod.github.io/books/maxwell_eqns_derive/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://htsod.github.io/books/maxwell_eqns_derive/</guid>
       <description>An alternative way derving Maxwell&amp;#39;s equation</description>
     </item>
-    
   </channel>
 </rss>

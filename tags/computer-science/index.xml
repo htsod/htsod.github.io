@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science on ButterCat</title>
+    <link>https://htsod.github.io/tags/computer-science/</link>
+    <description>Recent content in Computer Science on ButterCat</description>
+    <image>
+      <title>ButterCat</title>
+      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://htsod.github.io/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantum Computation</title>
+      <link>https://htsod.github.io/books/quantum_computation/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/books/quantum_computation/</guid>
+      <description>Computation </description>
+    </item>
+  </channel>
+</rss>

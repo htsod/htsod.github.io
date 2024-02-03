@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>生活 on ButterCat</title>
     <link>https://htsod.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
@@ -11,15 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://htsod.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://htsod.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>记首马</title>
       <link>https://htsod.github.io/life/first_marathon/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://htsod.github.io/life/first_marathon/</guid>
       <description>跑步时我能进入一种很好的精神状态，无论跑步之前的心情如何，跑步之后总能让我心情舒畅</description>
     </item>
-    
   </channel>
 </rss>

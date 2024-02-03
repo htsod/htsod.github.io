@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum Mechanics on ButterCat</title>
     <link>https://htsod.github.io/tags/quantum-mechanics/</link>
@@ -11,15 +11,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://htsod.github.io/tags/quantum-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://htsod.github.io/tags/quantum-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantum Computation</title>
+      <link>https://htsod.github.io/books/quantum_computation/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/books/quantum_computation/</guid>
+      <description>Computation </description>
+    </item>
     <item>
       <title>Different approaches to Quantum Mechanics</title>
-      <link>https://htsod.github.io/books/qm_rules/</link>
+      <link>https://htsod.github.io/posts/qm_rules/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/books/qm_rules/</guid>
+      <guid>https://htsod.github.io/posts/qm_rules/</guid>
       <description>Stating the postulates of quantum mechanics.</description>
     </item>
-    
   </channel>
 </rss>

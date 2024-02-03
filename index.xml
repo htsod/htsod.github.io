@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ButterCat</title>
     <link>https://htsod.github.io/</link>
@@ -11,89 +11,88 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://htsod.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://htsod.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>记首马</title>
       <link>https://htsod.github.io/life/first_marathon/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://htsod.github.io/life/first_marathon/</guid>
       <description>跑步时我能进入一种很好的精神状态，无论跑步之前的心情如何，跑步之后总能让我心情舒畅</description>
     </item>
-    
     <item>
       <title>Group Theory</title>
       <link>https://htsod.github.io/books/groups/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://htsod.github.io/books/groups/</guid>
       <description>Based on the Books 《Group Theory in a Nutshell》,</description>
     </item>
-    
+    <item>
+      <title>Linux Cheat Sheet</title>
+      <link>https://htsod.github.io/books/linux_cheat_sheet/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/books/linux_cheat_sheet/</guid>
+      <description>This summary content is based on the book: The Linux Command Line, Fifth Internet Edition, William Shotts</description>
+    </item>
+    <item>
+      <title>现代社会侦探社</title>
+      <link>https://htsod.github.io/life/modern_detective/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/life/modern_detective/</guid>
+      <description>侦探小说想必大家都不陌生，其中侦探能从交错复杂的现实细节中还原出事件真相，最后在万人醉我独自清醒的氛围下揭露真相，使得广大侦探爱好者欲罢不能。虽然小说家笔下的侦探公正、洞察、智慧且成功，但侦探工作和侦探社在现实生活中真的现实？为了验证理想，就要把理想摆放在最苛刻的现实批判之下，通过不断否定它的存在来得到存在的肯定。</description>
+    </item>
     <item>
       <title>2023阅读总结</title>
-      <link>https://htsod.github.io/books/reading_2023/</link>
+      <link>https://htsod.github.io/life/reading_2023/</link>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/books/reading_2023/</guid>
+      <guid>https://htsod.github.io/life/reading_2023/</guid>
       <description>阅读是一种跨越时空的沟通方式，在阅读中发现不同时代的共性，不同身份的我们也能在感触中找到内心的平静。</description>
     </item>
-    
+    <item>
+      <title>人、社会与自然——《西伯利亚森林中》</title>
+      <link>https://htsod.github.io/life/self_society_nature/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/life/self_society_nature/</guid>
+      <description>人在社会的洪流中总想找一个独立的窗口来接受阳光和空气，但城市里的窗口从来都不是独立的，一眼望去我们的左邻右舍都是重复一律的生活样貌，一旁堆积起来的办公楼也是从里到外的单一，我们在这样的环境下不以为然地踏进了预设轨道，毫不意外地走到了人生尽头，路途间或许会有颇感不平的人想要穿过社会的滤网去追求自由，但是我们内心中那被社会塑造而成的人格会与我们的自由意愿做抗争，作为个体究竟能否走出这个名为社会的低势力场？《西伯利亚森林中》呈现了这么一个人物反抗的尝试，主角Teddy是发达国家的一个白领阶层，他对日复一日的生活、职业、家庭感到怠倦，从而逃离到西伯利亚森林无人区中独自生活，途中识得俄罗斯在逃杀人犯Aleksei，我们可以把故事分解成Teddy的外在与内在矛盾，其中故事通过Teddy在自然环境下生存来凸显出了他的外在矛盾，而通过Teddy与Aleksei敞开心扉沟通发展来反映出他的内心矛盾。
+展开阐述之前我想问个问题，即人的本质是他的社会关系叠加所定义的吗?远在古希腊的神话中个人名字都是以父名来命名，所以社会对个人的影响与延续是有根深蒂固的历史根源，同时社会形式也迎合着这种共识去改变，在这个前提下如果有人坚持着自己拥有与社会属性独立的自我人格，要么那个人就需要拥有完全属于自己且与社会无关独立的性质，在这个思想基础上在深山逃亡几十年的Aleksei有着充足的独立性，而逃离时代潮流的Teddy也有着往那个方向发展的趋势。
+回到男主的内在与外在矛盾的讨论中，他的外在矛盾体现在他与当地社会的文化思想不吻合，还有与大自然共存的物理性冲突上。影片中提到过，西伯利亚本地每个人都想去经济发达的欧洲国家去过不一样的生活，众人都非常不理解男主这种逆流行为，而当男主把自己的动机分享出去后也没有得到理解，只是换来了“逃避社会责任”的评价。而同时男主与大自然的冲突是对抗性的，主要体现在男主惧怕野兽、缺乏野外生存能力力，换句话说就是男主难以融入自然生态当中。外在矛盾的主要作用是推动故事情节和人物发展，为后续的内在矛盾埋下铺垫。融入不了当地社交与自然生态的男主在机缘巧合下认识了Aleksei，虽然说是机缘巧合，但一切偶发事件背后都有必然性，在当时Teddy遭遇当地社会与自然的双重否定下，他迫切地需要一个能对他主观意识做出反映的个体存在，而Aleksei就成为了这么一个沟通的渠道。
+同时，Teddy也是是社会期待与个人追求的矛盾体现，在尝试着将自我与社会隔离的过程中又不断地将自我与社会结合，假装自信地向外界表露出自己选择上的合理性和必要性，但这种自证行为在本质上又否定着他语句里自由与理想的大义。在这摇摆不定的烛火中坐在他对面的是Aleksei，一个逃忙了社会环境的杀人犯，对于他而言，时间早已停止在他被迫逃离社会的那一刻，他是男主对自我追求极端化的体现，他对现在与未来麻木，对社会麻木，对自我麻木，因为被迫逃离社会体系的他虽然能依靠本能融入自然生态中，但这并不能让他感受到“动”的一面，静止的时间使人失去存在的实感，然而男主的加入触动了他社会的时钟，让他回想起动杀心时的嫉妒心，也回想起夺取他人性命时的罪恶感。在他躲藏在男主房间的那一刻时，Aleksei透过木缝胆战心惊地看着屋内世界的特写来反映出他心中无法磨灭的罪恶感，而他重新跑动的社会“时钟”不出意外地导致了他最后的死亡。
+社会提倡着个人自由，自由是发自人物内心真挚的自我追求，而一方面社会又提倡着集体繁荣，追求集体繁荣的社会意识潜移默化地对个人追求产生影响，对我们的道德观和行为进行内在规范。或许Teddy与Aleksei在某一时刻追求集体繁荣的内心包装松懈了，使得他们内心欲望和追求外在化最后导致了他们的行动，无论他们行为结果的好坏，这都是集体社会的侧影，也是电影向我们展示的一种对于现代生活的反思方式。</description>
+    </item>
     <item>
       <title>Artificial Intelligent</title>
       <link>https://htsod.github.io/posts/ai_md/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://htsod.github.io/posts/ai_md/</guid>
       <description>Desc Text.</description>
     </item>
-    
-    <item>
-      <title>Computational Biology</title>
-      <link>https://htsod.github.io/posts/computaitonal_biology/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/posts/computaitonal_biology/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
     <item>
       <title>Quantum Computation</title>
-      <link>https://htsod.github.io/posts/quantum_computation/</link>
+      <link>https://htsod.github.io/books/quantum_computation/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/posts/quantum_computation/</guid>
+      <guid>https://htsod.github.io/books/quantum_computation/</guid>
       <description>Computation </description>
     </item>
-    
     <item>
       <title>Different approaches to Quantum Mechanics</title>
-      <link>https://htsod.github.io/books/qm_rules/</link>
+      <link>https://htsod.github.io/posts/qm_rules/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://htsod.github.io/books/qm_rules/</guid>
+      <guid>https://htsod.github.io/posts/qm_rules/</guid>
       <description>Stating the postulates of quantum mechanics.</description>
     </item>
-    
     <item>
       <title>Ising Model</title>
       <link>https://htsod.github.io/posts/ising_model/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://htsod.github.io/posts/ising_model/</guid>
       <description>Ising model </description>
     </item>
-    
     <item>
       <title>Another theoretical perspective on Maxwell&#39;s Equation</title>
       <link>https://htsod.github.io/books/maxwell_eqns_derive/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://htsod.github.io/books/maxwell_eqns_derive/</guid>
       <description>An alternative way derving Maxwell&amp;#39;s equation</description>
     </item>
-    
-    
-    
   </channel>
 </rss>
