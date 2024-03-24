@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on ButterCat</title>
+    <link>http://localhost:1313/tags/reviews/</link>
+    <description>Recent content in Reviews on ButterCat</description>
+    <image>
+      <title>ButterCat</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Groups Theory in Quantum Mechanics📮</title>
+      <link>http://localhost:1313/posts/groups/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/groups/</guid>
+      <description>Based on the Books 《Group Theory in a Nutshell》,</description>
+    </item>
+    <item>
+      <title>Linux Cheat Sheet📚</title>
+      <link>http://localhost:1313/posts/linux_cheat_sheet/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/linux_cheat_sheet/</guid>
+      <description>This summary content is based on the book: The Linux Command Line, Fifth Internet Edition, William Shotts.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Posts on ButterCat</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Blog Posts on ButterCat</description>
+    <image>
+      <title>ButterCat</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 May 2023 01:44:19 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Full-Marathon🏃‍♂</title>
+      <link>http://localhost:1313/posts/first_marathon/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first_marathon/</guid>
+      <description>When I&amp;#39;m running, I will enter a great mental state. No matter how I felt before the run, I always end up feeling relieved and refreshed afterward.</description>
+    </item>
+    <item>
+      <title>Groups Theory in Quantum Mechanics📮</title>
+      <link>http://localhost:1313/posts/groups/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/groups/</guid>
+      <description>Based on the Books 《Group Theory in a Nutshell》,</description>
+    </item>
+    <item>
+      <title>Wave or Particles📮</title>
+      <link>http://localhost:1313/posts/wave_particle/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wave_particle/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Linux Cheat Sheet📚</title>
+      <link>http://localhost:1313/posts/linux_cheat_sheet/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/linux_cheat_sheet/</guid>
+      <description>This summary content is based on the book: The Linux Command Line, Fifth Internet Edition, William Shotts.</description>
+    </item>
+    <item>
+      <title>2023阅读总结📚</title>
+      <link>http://localhost:1313/posts/reading_2023/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/reading_2023/</guid>
+      <description>Life is enriched by the details.</description>
+    </item>
+    <item>
+      <title>人、社会、自然 - In the Forests of Siberia📚</title>
+      <link>http://localhost:1313/posts/self_society_nature/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/self_society_nature/</guid>
+      <description>Life is enriched by the details.</description>
+    </item>
+    <item>
+      <title>Axioms of Quantum Mechanics📚</title>
+      <link>http://localhost:1313/posts/qm_rules/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/qm_rules/</guid>
+      <description>Stating the postulates of quantum mechanics.</description>
+    </item>
+    <item>
+      <title>Ising Model📮</title>
+      <link>http://localhost:1313/posts/ising_model/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ising_model/</guid>
+      <description>Ising model </description>
+    </item>
+    <item>
+      <title>Top-down derivation of Gravity📚</title>
+      <link>http://localhost:1313/posts/maxwell_eqns_derive/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/maxwell_eqns_derive/</guid>
+      <description>An alternative way derving Maxwell&amp;#39;s equation</description>
+    </item>
+  </channel>
+</rss>

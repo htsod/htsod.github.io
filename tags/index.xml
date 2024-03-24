@@ -21,10 +21,17 @@
       <description></description>
     </item>
     <item>
-      <title>Life</title>
-      <link>https://htsod.github.io/tags/life/</link>
+      <title>Review</title>
+      <link>https://htsod.github.io/tags/review/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movie</title>
+      <link>https://htsod.github.io/tags/movie/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/tags/life/</guid>
+      <guid>https://htsod.github.io/tags/movie/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thermodynamics on ButterCat</title>
+    <link>http://localhost:1313/tags/thermodynamics/</link>
+    <description>Recent content in Thermodynamics on ButterCat</description>
+    <image>
+      <title>ButterCat</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/thermodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ising Model📮</title>
+      <link>http://localhost:1313/posts/ising_model/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ising_model/</guid>
+      <description>Ising model </description>
+    </item>
+  </channel>
+</rss>
