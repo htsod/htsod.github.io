@@ -2,26 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://htsod.github.io/life_trivia/first_marathon/</loc>
+    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://htsod.github.io/</loc>
+    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://htsod.github.io/posts/fourier/</loc>
+    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://htsod.github.io/tags/blog-post/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://htsod.github.io/posts/reading_2023/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>https://htsod.github.io/posts/wave_particle/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://htsod.github.io/tags/reading/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://htsod.github.io/tags/review/</loc>
-    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
+    <loc>https://htsod.github.io/tags/quantum-mechanics/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://htsod.github.io/tags/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://htsod.github.io/tags/life/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://htsod.github.io/tags/movie/</loc>
+    <loc>https://htsod.github.io/tags/sport/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://htsod.github.io/posts/self_society_nature/</loc>
-    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
+    <loc>https://htsod.github.io/tags/ising-model/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://htsod.github.io/posts/ising_model/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://htsod.github.io/tags/statistical-mechanics/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://htsod.github.io/tags/thermodynamics/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://htsod.github.io/archives/</loc>
   </url><url>

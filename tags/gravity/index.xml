@@ -14,11 +14,14 @@
     <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/gravity/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Top-down derivation of Gravity📚</title>
+      <title>Top-down derivation of Electromagnetism</title>
       <link>http://localhost:1313/posts/maxwell_eqns_derive/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/maxwell_eqns_derive/</guid>
-      <description>An alternative way derving Maxwell&amp;#39;s equation</description>
+      <description>Relativisty action principle constrain how light and matters could interact within our spacetime. By placing the potential term either inside or outside the action square root, we get gravity or electromagnetism interaction between matters
+Relativistic Action The action taking into the relativistic effect could be written as the following integral
+$$ S = -m \int{ \sqrt{-\eta_{\mu \nu} dx^{\mu} dx^{\nu}} } = -m \sqrt{dt^{2} - d\vec{x}^{2}} $$
+In contrast, the classical action with the potential term added is stated as</description>
     </item>
   </channel>
 </rss>

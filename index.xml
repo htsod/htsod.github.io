@@ -11,21 +11,35 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://htsod.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2023阅读总结📚</title>
-      <link>https://htsod.github.io/posts/reading_2023/</link>
-      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/reading_2023/</guid>
-      <description>Life is enriched by the details.</description>
+      <title>My First Marathon</title>
+      <link>https://htsod.github.io/life_trivia/first_marathon/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/life_trivia/first_marathon/</guid>
+      <description>When I&amp;#39;m running, I will enter a great mental state. No matter how I felt before the run, I always end up feeling relieved and refreshed afterward.</description>
     </item>
     <item>
-      <title>人、社会、自然 - In the Forests of Siberia📚</title>
-      <link>https://htsod.github.io/posts/self_society_nature/</link>
-      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/self_society_nature/</guid>
-      <description>Life is enriched by the details.</description>
+      <title>Group Theoretic Approach on Fourier Method</title>
+      <link>https://htsod.github.io/posts/fourier/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/fourier/</guid>
+      <description>Group theory is powerful in analysis problem with symmetry. This blog aims at giving an example on how Fourier Theorem could be derived on the ground of group theory.</description>
+    </item>
+    <item>
+      <title>Quantum Mechanical Historian</title>
+      <link>https://htsod.github.io/posts/wave_particle/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/wave_particle/</guid>
+      <description>Along in the journey of studying quantum mechanics, we recognize the experimental weirdness of this field of study, poking its strangeness with different method of approaches. We throw away the ones that deviate from experiment leaving behind the one that hold true under test. One might stop and ponder how different approaches lead to the exact same result regardless of their different starting point and interpretation.</description>
+    </item>
+    <item>
+      <title>Solving the Ising Model</title>
+      <link>https://htsod.github.io/posts/ising_model/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/ising_model/</guid>
+      <description>This blogh reprodcues the transfer matrix solution to one dimensional Ising model and the numerical solution to the two dimensional Ising model. </description>
     </item>
   </channel>
 </rss>

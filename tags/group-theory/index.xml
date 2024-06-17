@@ -14,11 +14,13 @@
     <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/group-theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Groups Theory in Quantum Mechanics📮</title>
-      <link>http://localhost:1313/posts/groups/</link>
+      <title>Study Notes on Group Theory</title>
+      <link>http://localhost:1313/review/group_theory/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/groups/</guid>
-      <description>Based on the Books 《Group Theory in a Nutshell》,</description>
+      <guid>http://localhost:1313/review/group_theory/</guid>
+      <description>Preview From permutation to group theory Everyone knows permutation. Permutation counts the number of ways that we can exchange a set of element. Take a simple example of permutation of three objects naming it with integer (123). There are \( 3!=6 \) ways of rearranging these three elements into different orders. Let&amp;rsquo;s list out all the six orders:
+$$ (123), (132), (231), (213), (312), (321)$$
+Looking at a different perspective, we can also treat each permutation of the element \( (123) \) as a transformation to \( (123) \).</description>
     </item>
   </channel>
 </rss>

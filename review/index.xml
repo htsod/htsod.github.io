@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on ButterCat</title>
+    <link>http://localhost:1313/review/</link>
+    <description>Recent content in Reviews on ButterCat</description>
+    <image>
+      <title>ButterCat</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 May 2023 01:44:19 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Study Notes on Group Theory</title>
+      <link>http://localhost:1313/review/group_theory/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/review/group_theory/</guid>
+      <description>From permutation to group theory Everyone knows permutation. Permutation counts the number of ways that we can exchange a set of element. Take a simple example of permutation of three objects naming it with integer (123). There are \( 3!=6 \) ways of rearranging these three elements into different orders. Let&amp;rsquo;s list out all the six orders:
+$$ (123), (132), (231), (213), (312), (321)$$
+Looking at a different perspective, we can also treat each permutation of the element \( (123) \) as a transformation to \( (123) \).</description>
+    </item>
+    <item>
+      <title>Study Notes on Statistical Mechanics</title>
+      <link>http://localhost:1313/review/statistical_mechanics/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/review/statistical_mechanics/</guid>
+      <description>Preview Why system approaches Equilibrium? Why do systems approach equilibrium?. When one of my classmates asked this question in a highschool chemistry class, I was astonished by how naturally we took in the concept that system eventually reaches equilibrium but never asked why. This inquiry of equilibrium had stucked in my head for quite a while until reading upon a statistical mechanics textbook which offers a elegant explanation to equilibrium. The short answer is that the states of equilibrium is much more probable than some other non-equlibrium states for microcanonical ensembles.</description>
+    </item>
+    <item>
+      <title>Study Notes on Quantum Mechanics</title>
+      <link>http://localhost:1313/review/quantum_mechanics/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/review/quantum_mechanics/</guid>
+      <description>Preview If one struggle to convince themselves the sanity of quantum mechanics, the best advice to them is to move on and put yourself into practical question and work out the math. That&amp;rsquo;s the core spirit of this reivew note about. All we need to know is the necessary axioms which were verified long ago, and then to make use of these axioms to draw meaningful observation on the theory itself or practical problems to draw in more intuition.</description>
+    </item>
+  </channel>
+</rss>

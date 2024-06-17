@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>运动 on ButterCat</title>
+    <link>http://localhost:1313/tags/%E8%BF%90%E5%8A%A8/</link>
+    <description>Recent content in 运动 on ButterCat</description>
+    <image>
+      <title>ButterCat</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%BF%90%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>记首马</title>
+      <link>http://localhost:1313/life_trivia/first_marathon/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/life_trivia/first_marathon/</guid>
+      <description>跑步时我能进入一种很好的精神状态，无论跑步之前的心情如何，跑步之后总能让我心情舒畅</description>
+    </item>
+  </channel>
+</rss>

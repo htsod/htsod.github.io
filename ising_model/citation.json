@@ -18,6 +18,19 @@
     "type": "article-journal"
   },
   {
+    "URL": "https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm",
+    "id": "metropolis",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "Metropolis-hastings algorithm",
+    "type": "no-type"
+  },
+  {
     "URL": "http://arxiv.org/abs/1210.2262",
     "author": [
       {
@@ -44,14 +57,7 @@
         "given": "Ludwig"
       }
     ],
-    "id": "exact_solu;2017",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
+    "id": "exact_solu_2017",
     "title": "<span class=\"nocase\">Exact Solutions of the Ising Model</span>",
     "type": "article-journal"
   },
@@ -64,13 +70,6 @@
     ],
     "edition": "2",
     "id": "James;2020",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
     "publisher": "Clarendon Press",
     "title": "<span class=\"nocase\">Entropy, Order Parameters, and Complexity</span>",
     "type": "book"
@@ -87,15 +86,66 @@
     ],
     "edition": "1",
     "id": "PLF;2010",
-    "issued": {
-      "date-parts": [
-        [
-          2010
-        ]
-      ]
-    },
     "publisher": "Springer, Berlin Heidelberg 2010",
     "title": "<span class=\"nocase\">Introduction to the Functional Renormalization Group</span>",
     "type": "book"
+  },
+  {
+    "URL": "http://arxiv.org/abs/1610.09845",
+    "author": [
+      {
+        "family": "Jalal",
+        "given": "Somenath"
+      },
+      {
+        "family": "Khare",
+        "given": "Rishabh"
+      },
+      {
+        "family": "Lal",
+        "given": "Siddhartha"
+      }
+    ],
+    "id": "jalal2016topological",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "Topological transitions in ising models",
+    "type": "no-type"
+  },
+  {
+    "DOI": "10.2140/gt.2022.26.1907",
+    "ISSN": "1465-3060",
+    "URL": "http://dx.doi.org/10.2140/gt.2022.26.1907",
+    "author": [
+      {
+        "family": "Freed",
+        "given": "Daniel S"
+      },
+      {
+        "family": "Teleman",
+        "given": "Constantin"
+      }
+    ],
+    "container-title": "Geometry &amp; Topology",
+    "id": "Freed_2022",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    },
+    "page": "1907-1984",
+    "publisher": "Mathematical Sciences Publishers",
+    "title": "Topological dualities in the ising model",
+    "type": "article-journal",
+    "volume": "26"
   }
 ]

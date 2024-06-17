@@ -1,0 +1,15 @@
+canvas {
+    display: inline-block;
+    align-self: center;
+
+  }
+
+#parent {
+    width: 30%;
+    margin: 20;
+  }
+
+#defaultCanvas0 {
+    display: inline-block;
+    align-self: center;
+  }

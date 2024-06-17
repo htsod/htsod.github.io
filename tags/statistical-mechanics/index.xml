@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistical Mechanics on ButterCat</title>
-    <link>http://localhost:1313/tags/statistical-mechanics/</link>
+    <link>https://htsod.github.io/tags/statistical-mechanics/</link>
     <description>Recent content in Statistical Mechanics on ButterCat</description>
     <image>
       <title>ButterCat</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/statistical-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://htsod.github.io/tags/statistical-mechanics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ising Model📮</title>
-      <link>http://localhost:1313/posts/ising_model/</link>
+      <title>Solving the Ising Model</title>
+      <link>https://htsod.github.io/posts/ising_model/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ising_model/</guid>
-      <description>Ising model </description>
+      <guid>https://htsod.github.io/posts/ising_model/</guid>
+      <description>This blogh reprodcues the transfer matrix solution to one dimensional Ising model and the numerical solution to the two dimensional Ising model. </description>
     </item>
   </channel>
 </rss>

@@ -14,67 +14,42 @@
     <lastBuildDate>Mon, 29 May 2023 01:44:19 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Full-Marathon🏃‍♂</title>
-      <link>http://localhost:1313/posts/first_marathon/</link>
-      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first_marathon/</guid>
-      <description>When I&amp;#39;m running, I will enter a great mental state. No matter how I felt before the run, I always end up feeling relieved and refreshed afterward.</description>
+      <title>Group Theoretic Approach on Fourier Method</title>
+      <link>http://localhost:1313/posts/fourier/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fourier/</guid>
+      <description>Group theory is powerful in analysis problem with symmetry. This blog aims at giving an example on how Fourier Theorem could be derived on the ground of group theory.</description>
     </item>
     <item>
-      <title>Groups Theory in Quantum Mechanics📮</title>
-      <link>http://localhost:1313/posts/groups/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/groups/</guid>
-      <description>Based on the Books 《Group Theory in a Nutshell》,</description>
-    </item>
-    <item>
-      <title>Wave or Particles📮</title>
+      <title>Quantum Mechanical Historian</title>
       <link>http://localhost:1313/posts/wave_particle/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/wave_particle/</guid>
-      <description>Desc Text.</description>
+      <description>Along in the journey of studying quantum mechanics, we recognize the experimental weirdness of this field of study, poking its strangeness with different method of approaches. We throw away the ones that deviate from experiment leaving behind the one that hold true under test. One might stop and ponder how different approaches lead to the exact same result regardless of their different starting point and interpretation.</description>
     </item>
     <item>
-      <title>Linux Cheat Sheet📚</title>
-      <link>http://localhost:1313/posts/linux_cheat_sheet/</link>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/linux_cheat_sheet/</guid>
-      <description>This summary content is based on the book: The Linux Command Line, Fifth Internet Edition, William Shotts.</description>
-    </item>
-    <item>
-      <title>2023阅读总结📚</title>
-      <link>http://localhost:1313/posts/reading_2023/</link>
-      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/reading_2023/</guid>
-      <description>Life is enriched by the details.</description>
-    </item>
-    <item>
-      <title>人、社会、自然 - In the Forests of Siberia📚</title>
-      <link>http://localhost:1313/posts/self_society_nature/</link>
-      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/self_society_nature/</guid>
-      <description>Life is enriched by the details.</description>
-    </item>
-    <item>
-      <title>Axioms of Quantum Mechanics📚</title>
-      <link>http://localhost:1313/posts/qm_rules/</link>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/qm_rules/</guid>
-      <description>Stating the postulates of quantum mechanics.</description>
-    </item>
-    <item>
-      <title>Ising Model📮</title>
+      <title>Solving the Ising Model</title>
       <link>http://localhost:1313/posts/ising_model/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/ising_model/</guid>
-      <description>Ising model </description>
+      <description>This blogh reprodcues the transfer matrix solution to one dimensional Ising model and the numerical solution to the two dimensional Ising model. </description>
     </item>
     <item>
-      <title>Top-down derivation of Gravity📚</title>
+      <title>Top-down derivation of Electromagnetism</title>
       <link>http://localhost:1313/posts/maxwell_eqns_derive/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/maxwell_eqns_derive/</guid>
-      <description>An alternative way derving Maxwell&amp;#39;s equation</description>
+      <description>Relativisty action principle constrain how light and matters could interact within our spacetime. By placing the potential term either inside or outside the action square root, we get gravity or electromagnetism interaction between matters
+Relativistic Action The action taking into the relativistic effect could be written as the following integral
+$$ S = -m \int{ \sqrt{-\eta_{\mu \nu} dx^{\mu} dx^{\nu}} } = -m \sqrt{dt^{2} - d\vec{x}^{2}} $$
+In contrast, the classical action with the potential term added is stated as</description>
+    </item>
+    <item>
+      <title>Renormalization Group method with examples</title>
+      <link>http://localhost:1313/posts/rg_method/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rg_method/</guid>
+      <description>Overview the methodoloy of Renormalization group method. Using the method to solve for the one dimensional Ising model and the Logistic mapping.</description>
     </item>
   </channel>
 </rss>
