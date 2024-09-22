@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Special Relativity on ButterCat</title>
-    <link>http://localhost:1313/tags/special-relativity/</link>
+    <link>https://htsod.github.io/tags/special-relativity/</link>
     <description>Recent content in Special Relativity on ButterCat</description>
     <image>
       <title>ButterCat</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/special-relativity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://htsod.github.io/tags/special-relativity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top-down derivation of Electromagnetism</title>
-      <link>http://localhost:1313/posts/maxwell_eqns_derive/</link>
+      <link>https://htsod.github.io/posts/maxwell_eqns_derive/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/maxwell_eqns_derive/</guid>
-      <description>Relativisty action principle constrain how light and matters could interact within our spacetime. By placing the potential term either inside or outside the action square root, we get gravity or electromagnetism interaction between matters
-Relativistic Action The action taking into the relativistic effect could be written as the following integral
-$$ S = -m \int{ \sqrt{-\eta_{\mu \nu} dx^{\mu} dx^{\nu}} } = -m \sqrt{dt^{2} - d\vec{x}^{2}} $$
-In contrast, the classical action with the potential term added is stated as</description>
+      <guid>https://htsod.github.io/posts/maxwell_eqns_derive/</guid>
+      <description>&lt;p&gt;Relativity&amp;rsquo;s action principle constrains how light and matter interact within spacetime. By placing the potential term either inside or outside the action square root, we derive the familiar interactions of gravity or electromagnetism between matter. This post offers a top-down view of electromagnetism&amp;rsquo;s derivation from these fundamental principles.&lt;/p&gt;
+&lt;h2 id=&#34;relativistic-action&#34;&gt;Relativistic Action&lt;/h2&gt;
+&lt;p&gt;To incorporate relativistic effects, the action is written as:&lt;/p&gt;
+&lt;p&gt;$$ S = -m \int{ \sqrt{-\eta_{\mu \nu} dx^{\mu} dx^{\nu}} } = -m \sqrt{dt^{2} - d\vec{x}^{2}} $$&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

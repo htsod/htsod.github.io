@@ -11,5 +11,32 @@
     "publisher": "Clarendon Press",
     "title": "<span class=\"nocase\">Entropy, Order Parameters, and Complexity</span>",
     "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lebowitz",
+        "given": "Joel L"
+      },
+      {
+        "family": "Penrose",
+        "given": "Oliver"
+      }
+    ],
+    "container-title": "Physics Today",
+    "id": "lebowitz1973modern",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1973
+        ]
+      ]
+    },
+    "page": "23-29",
+    "publisher": "American Institute of Physics",
+    "title": "Modern ergodic theory",
+    "type": "article-journal",
+    "volume": "26"
   }
 ]

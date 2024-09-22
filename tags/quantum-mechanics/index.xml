@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Quantum Mechanics on ButterCat</title>
     <link>https://htsod.github.io/tags/quantum-mechanics/</link>
@@ -9,7 +9,7 @@
       <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
     <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://htsod.github.io/tags/quantum-mechanics/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <link>https://htsod.github.io/posts/wave_particle/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/posts/wave_particle/</guid>
-      <description>Along in the journey of studying quantum mechanics, we recognize the experimental weirdness of this field of study, poking its strangeness with different method of approaches. We throw away the ones that deviate from experiment leaving behind the one that hold true under test. One might stop and ponder how different approaches lead to the exact same result regardless of their different starting point and interpretation.</description>
+      <description>Both the Schrödinger wave equation and the Heisenberg matrix method are fundamental approaches to quantum mechanics, each offering a unique perspective. To unify them, we recognize that while they approach the problem differently, they ultimately describe the same quantum phenomena.</description>
     </item>
   </channel>
 </rss>

@@ -47,7 +47,7 @@
     "volume": "28"
   },
   {
-    "abstract": "In July 1925 Heisenberg published a paper \\[Z. Phys. 33, 879-893 (1925)\\] which ended the period of ‘the Old Quantum Theory’ and ushered in the new era of Quantum Mechanics. This epoch-making paper is generally regarded as being difficult to follow, perhaps partly because Heisenberg provided few clues as to how he arrived at the results which he reported. Here we give details of calculations of the type which, we suggest, Heisenberg may have performed. We take as a specific example one of the anharmonic oscillator problems considered by Heisenberg, and use our reconstruction of his approach to solve it up to second order in perturbation theory. We emphasize that the results are precisely those obtained in standard quantum mechanics, and suggest that some discussion of the approach - based on the direct computation of transition amplitudes - could usefully be included in undergraduate courses in quantum mechanics.",
+    "abstract": "In July 1925 Heisenberg published a paper [Z. Phys. 33, 879-893 (1925)] which ended the period of “the Old Quantum Theory” and ushered in the new era of Quantum Mechanics. This epoch-making paper is generally regarded as being difficult to follow, perhaps partly because Heisenberg provided few clues as to how he arrived at the results which he reported. Here we give details of calculations of the type which, we suggest, Heisenberg may have performed. We take as a specific example one of the anharmonic oscillator problems considered by Heisenberg, and use our reconstruction of his approach to solve it up to second order in perturbation theory. We emphasize that the results are precisely those obtained in standard quantum mechanics, and suggest that some discussion of the approach - based on the direct computation of transition amplitudes - could usefully be included in undergraduate courses in quantum mechanics.",
     "author": [
       {
         "family": "Aitchison",
@@ -153,28 +153,6 @@
     "type": "book"
   },
   {
-    "ISBN": "9780691162690",
-    "URL": "https://books.google.co.jp/books?id=FWkujgEACAAJ",
-    "author": [
-      {
-        "family": "Zee",
-        "given": "A."
-      }
-    ],
-    "collection-title": "In a nutshell",
-    "id": "zee2016group",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "publisher": "Princeton University Press",
-    "title": "Group theory in a nutshell for physicists",
-    "type": "book"
-  },
-  {
     "URL": "https://cds.cern.ch/record/100771",
     "author": [
       {
@@ -197,7 +175,7 @@
     },
     "publisher": "McGraw-Hill",
     "publisher-place": "New York, NY",
-    "title": "<span class=\"nocase\">Quantum mechanics and path integrals</span>",
+    "title": "Quantum mechanics and path integrals",
     "type": "book"
   }
 ]

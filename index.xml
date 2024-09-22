@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ButterCat</title>
     <link>https://htsod.github.io/</link>
@@ -9,17 +9,10 @@
       <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://htsod.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Marathon</title>
-      <link>https://htsod.github.io/life_trivia/first_marathon/</link>
-      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/life_trivia/first_marathon/</guid>
-      <description>When I&amp;#39;m running, I will enter a great mental state. No matter how I felt before the run, I always end up feeling relieved and refreshed afterward.</description>
-    </item>
     <item>
       <title>Group Theoretic Approach on Fourier Method</title>
       <link>https://htsod.github.io/posts/fourier/</link>
@@ -32,7 +25,7 @@
       <link>https://htsod.github.io/posts/wave_particle/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/posts/wave_particle/</guid>
-      <description>Along in the journey of studying quantum mechanics, we recognize the experimental weirdness of this field of study, poking its strangeness with different method of approaches. We throw away the ones that deviate from experiment leaving behind the one that hold true under test. One might stop and ponder how different approaches lead to the exact same result regardless of their different starting point and interpretation.</description>
+      <description>Both the Schrödinger wave equation and the Heisenberg matrix method are fundamental approaches to quantum mechanics, each offering a unique perspective. To unify them, we recognize that while they approach the problem differently, they ultimately describe the same quantum phenomena.</description>
     </item>
     <item>
       <title>Solving the Ising Model</title>
@@ -40,6 +33,16 @@
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/posts/ising_model/</guid>
       <description>This blogh reprodcues the transfer matrix solution to one dimensional Ising model and the numerical solution to the two dimensional Ising model. </description>
+    </item>
+    <item>
+      <title>Top-down derivation of Electromagnetism</title>
+      <link>https://htsod.github.io/posts/maxwell_eqns_derive/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/maxwell_eqns_derive/</guid>
+      <description>&lt;p&gt;Relativity&amp;rsquo;s action principle constrains how light and matter interact within spacetime. By placing the potential term either inside or outside the action square root, we derive the familiar interactions of gravity or electromagnetism between matter. This post offers a top-down view of electromagnetism&amp;rsquo;s derivation from these fundamental principles.&lt;/p&gt;
+&lt;h2 id=&#34;relativistic-action&#34;&gt;Relativistic Action&lt;/h2&gt;
+&lt;p&gt;To incorporate relativistic effects, the action is written as:&lt;/p&gt;
+&lt;p&gt;$$ S = -m \int{ \sqrt{-\eta_{\mu \nu} dx^{\mu} dx^{\nu}} } = -m \sqrt{dt^{2} - d\vec{x}^{2}} $$&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

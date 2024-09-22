@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on ButterCat</title>
     <link>https://htsod.github.io/tags/</link>
@@ -9,7 +9,7 @@
       <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
     <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://htsod.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -25,20 +25,6 @@
       <link>https://htsod.github.io/tags/quantum-mechanics/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/tags/quantum-mechanics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Life</title>
-      <link>https://htsod.github.io/tags/life/</link>
-      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/tags/life/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sport</title>
-      <link>https://htsod.github.io/tags/sport/</link>
-      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/tags/sport/</guid>
       <description></description>
     </item>
     <item>
@@ -60,6 +46,41 @@
       <link>https://htsod.github.io/tags/thermodynamics/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/tags/thermodynamics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electromagnetism</title>
+      <link>https://htsod.github.io/tags/electromagnetism/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/electromagnetism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General Relativity</title>
+      <link>https://htsod.github.io/tags/general-relativity/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/general-relativity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gravity</title>
+      <link>https://htsod.github.io/tags/gravity/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/gravity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>https://htsod.github.io/tags/review/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Special Relativity</title>
+      <link>https://htsod.github.io/tags/special-relativity/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/special-relativity/</guid>
       <description></description>
     </item>
   </channel>

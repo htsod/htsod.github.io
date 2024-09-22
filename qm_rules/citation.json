@@ -57,5 +57,24 @@
     "publisher": "Cambridge University Press",
     "title": "Quantum computation and quantum information",
     "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Griffiths",
+        "given": "David"
+      }
+    ],
+    "id": "griffiths:quantum",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "publisher": "Prentice Hall, Inc.",
+    "title": "Introduction of quantum mechanics",
+    "type": "book"
   }
 ]
