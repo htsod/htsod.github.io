@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://htsod.github.io/tags/statistical-mechanics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solving the Ising Model</title>
@@ -19,6 +19,79 @@
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/posts/ising_model/</guid>
       <description>This blogh reprodcues the transfer matrix solution to one dimensional Ising model and the numerical solution to the two dimensional Ising model. </description>
+    </item>
+    <item>
+      <title>Study Notes on Statistical Mechanics</title>
+      <link>https://htsod.github.io/review/statistical_mechanics/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/review/statistical_mechanics/</guid>
+      <description>&lt;h2 id=&#34;entropy--order-parameters-and-complexity&#34;&gt;Entropy,  Order Parameters and Complexity&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-statistical-mechanics&#34;&gt;What is statistical mechanics?&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Ensemble&lt;/em&gt;
+How to connect microscopic law with macroscopic phenomenon? The concept of ensemble provides a method that connects the two. Treating a large system(macroscopic) as collection of similarly prepared systems(microscopic).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Entropy&lt;/em&gt;
+Entropy to be defined as a function of probability distribution \(p_{i}\) must satisfy the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Maximum at \(\frac{1}{p_{i}}\)&lt;/li&gt;
+&lt;li&gt;Minimum at \(p_{i} = 0 , S = 0\)&lt;/li&gt;
+&lt;li&gt;Minimum at \(p_{i} = 1, S = 0\)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The unique function that satisfies the above requirement is \(S=-p_{i}\log{p_{i}}\), giving rise to the information interpretation of entropy. From the first requirement, we could see that entropy is maximized when the distribution is more even, or in other words, more mixed, leading to the disorder interpretation of entropy. If entropy is zero, the probability distribution is either \(0\) or \(1\). Then, if the value of entropy is the only thing we know about the system, we could easily reproduce the system distribution with certainty. As entropy increases, it will be less likely that we could reproduce the system from scratch, making the system irreversible. And this gives rise to the reversibility interpretation of entropy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Study Notes on Network Theory</title>
+      <link>https://htsod.github.io/review/network/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/review/network/</guid>
+      <description>This blog aims to summerize the essential theory and method of network study</description>
+    </item>
+    <item>
+      <title>Renormalization Group method with Examples</title>
+      <link>https://htsod.github.io/posts/rg_method/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/rg_method/</guid>
+      <description>&lt;h2 id=&#34;renormalization-group-approach-in-dynamical-system&#34;&gt;Renormalization Group Approach in Dynamical System&lt;/h2&gt;
+&lt;p&gt;The renormalization group (RG) method is an approximation technique initially developed for solving strongly interacting many-body problems in quantum field theory, where perturbative solutions deviate from the actual solutions. The fundamental concept of the renormalization group approach is to eliminate irrelevant degrees of freedom in a physical system while preserving its essential characteristics 
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;span class=&#34;hugo-cite-group&#34;&gt;
+
+          &lt;a href=&#34;#plf2010&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;F. Schutz&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;P. Kopietz&lt;/span&gt;&lt;/span&gt;,&amp;#32;&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;&lt;/a&gt;&lt;span class=&#34;hugo-cite-citation&#34;&gt; 
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope 
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;P. Kopietz&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;F. Schutz&#34; /&gt;
+    F.&lt;/span&gt;&amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;&lt;!-- raw HTML omitted --&gt;Introduction to the Functional Renormalization Group&lt;!-- raw HTML omitted --&gt;&lt;/i&gt;&lt;/span&gt; (&lt;span&gt;1&lt;/span&gt;).
+  &amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/Organization&#34;
+             itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Springer, Berlin Heidelberg 2010&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/978-3-642-05094-7&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/978-3-642-05094-7&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;
+. This method has been extended to the field of statistical mechanics, providing a quantitative description of universality and scale invariance phenomena.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

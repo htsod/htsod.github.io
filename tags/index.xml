@@ -11,8 +11,29 @@
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://htsod.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network</title>
+      <link>https://htsod.github.io/tags/network/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>https://htsod.github.io/tags/review/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistical Mechanics</title>
+      <link>https://htsod.github.io/tags/statistical-mechanics/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/statistical-mechanics/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blog Post</title>
       <link>https://htsod.github.io/tags/blog-post/</link>
@@ -28,17 +49,24 @@
       <description></description>
     </item>
     <item>
+      <title>Life</title>
+      <link>https://htsod.github.io/tags/life/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sport</title>
+      <link>https://htsod.github.io/tags/sport/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/sport/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ising Model</title>
       <link>https://htsod.github.io/tags/ising-model/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/tags/ising-model/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Statistical Mechanics</title>
-      <link>https://htsod.github.io/tags/statistical-mechanics/</link>
-      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/tags/statistical-mechanics/</guid>
       <description></description>
     </item>
     <item>
@@ -70,17 +98,31 @@
       <description></description>
     </item>
     <item>
-      <title>Review</title>
-      <link>https://htsod.github.io/tags/review/</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/tags/review/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Special Relativity</title>
       <link>https://htsod.github.io/tags/special-relativity/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/tags/special-relativity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dynamics</title>
+      <link>https://htsod.github.io/tags/dynamics/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/dynamics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Group Theory</title>
+      <link>https://htsod.github.io/tags/group-theory/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/group-theory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Renormalization Group</title>
+      <link>https://htsod.github.io/tags/renormalization-group/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/tags/renormalization-group/</guid>
       <description></description>
     </item>
   </channel>
