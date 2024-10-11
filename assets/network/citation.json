@@ -1,0 +1,49 @@
+[
+  {
+    "ISBN": "9780192527493",
+    "URL": "https://books.google.com/books?id=YdZjDwAAQBAJ",
+    "author": [
+      {
+        "family": "Newman",
+        "given": "M."
+      }
+    ],
+    "id": "newman2018networks",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "OUP Oxford",
+    "title": "Networks",
+    "type": "book"
+  },
+  {
+    "ISSN": "00280836",
+    "URL": "http://dx.doi.org/10.1038/35065725",
+    "author": [
+      {
+        "family": "Strogatz",
+        "given": "Steven H."
+      }
+    ],
+    "container-title": "Nature",
+    "id": "strogatz2001exploring",
+    "issue": "6825",
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          3
+        ]
+      ]
+    },
+    "keyword": "komplexesysteme",
+    "page": "268-276",
+    "title": "Exploring complex networks",
+    "type": "article-journal",
+    "volume": "410"
+  }
+]

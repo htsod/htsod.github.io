@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog Posts on ButterCat</title>
+    <link>https://htsod.github.io/posts/</link>
+    <description>Recent content in Blog Posts on ButterCat</description>
+    <image>
+      <title>ButterCat</title>
+      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.123.7</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://htsod.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Before you read: Here are the updates</title>
+      <link>https://htsod.github.io/posts/read_me/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/read_me/</guid>
+      <description>Updates 2024/10/11 Distinguishing Microscopic and Emergent Properties Microscopic theories, whether classical or quantum mechanics, do not inherently lead to an increase in entropy. Entropy is an emergent property, arising from the complex interactions of many-body systems. In some cases, we can simplify the behavior of weakly perturbed systems by adding microscopic interactions. However, in strongly interacting systems, complexity increases, often requiring nonlinear models. Yet, we can still derive meaningful rules at the phenomenological level to describe emergent patterns.</description>
+    </item>
+    <item>
+      <title>Ginzburg-Landau Eqaution and its Applications</title>
+      <link>https://htsod.github.io/posts/gl_eqn_application/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/gl_eqn_application/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phases Transition in Random Graphs</title>
+      <link>https://htsod.github.io/posts/small_world/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/small_world/</guid>
+      <description>This investigation effort started off from a problem sets in a amazing statistical mechanics textbook by James Sethna. ( Citation: 2021,&amp;#32;pp.&amp;nbsp;10-13 Sethna,&amp;#32; J.&amp;#32; (2021). &amp;#32; Statistical mechanics: Entropy, order parameters, and complexity. &amp;#32; OUP Oxford.&amp;#32;Retrieved from&amp;#32; https://books.google.com/books?id=anEWEAAAQBAJ ) Six degree of separation: a inquiry about social cloesness In addition to your cloesest aquitances, if you know six people preferrably internationally, then you basically could connect to everyone in this globe in a effective way.</description>
+    </item>
+    <item>
+      <title>Comparative Study on Tight-binding and Free electron Model</title>
+      <link>https://htsod.github.io/posts/free_tight/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/free_tight/</guid>
+      <description>Sommerfeld free electron model Sommerfeld free electron model describe \( N \) number of fermions without any interaction, not even the columbic interaction between those \(N\) electron. Therefore, the model is more like the study of fermions statistics without charge.
+Theory The statistical properties of fermions with a occupation function of
+$$n_{F}(\beta (E-\mu))= \frac{1}{e^{\beta (E-\mu)}+1}$$
+Also meaning the number of electrons allowed at energy \( E \) and chemical potential \( \mu \).</description>
+    </item>
+    <item>
+      <title>Fourier Transforms: A Group Theoretic Perspective</title>
+      <link>https://htsod.github.io/posts/fourier/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/fourier/</guid>
+      <description>Group theory is powerful in analysis problem with symmetry. This blog aims at giving an example on how Fourier Theorem could be derived on the ground of group theory.</description>
+    </item>
+    <item>
+      <title>Quantum Mechanical Historian</title>
+      <link>https://htsod.github.io/posts/wave_particle/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/wave_particle/</guid>
+      <description>Both the Schrödinger wave equation and the Heisenberg matrix method are fundamental approaches to quantum mechanics, each offering a unique perspective. To unify them, we recognize that while they approach the problem differently, they ultimately describe the same quantum phenomena.</description>
+    </item>
+    <item>
+      <title>Solving the Ising Model</title>
+      <link>https://htsod.github.io/posts/ising_model/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/ising_model/</guid>
+      <description>This blogh reprodcues the transfer matrix solution to one dimensional Ising model and the numerical solution to the two dimensional Ising model. </description>
+    </item>
+    <item>
+      <title>Variational Method as Approximation to Simplify Quantum Circuit</title>
+      <link>https://htsod.github.io/posts/nisq/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/nisq/</guid>
+      <description>Preview This blog provides a concise overview of some key noise-resilient, intermediate-scale quantum algorithms, designed for a general audience. We&amp;rsquo;ll first explore the core mechanics of these algorithms, followed by their applicability to existing classical counterparts. Lastly, we&amp;rsquo;ll discuss the hardware requirements necessary to implement these algorithms, with a focus on managing noise in quantum systems.
+Variational Quantum Eigenvalue (VQE) With the quantum hardware progressing, promising quantum algorithm has been devised to harness the exotic nature of quantum computer.</description>
+    </item>
+    <item>
+      <title>Top-down derivation of Electromagnetism</title>
+      <link>https://htsod.github.io/posts/maxwell_eqns_derive/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/maxwell_eqns_derive/</guid>
+      <description>Relativity&amp;rsquo;s action principle constrains how light and matter interact within spacetime. By placing the potential term either inside or outside the action square root, we derive the familiar interactions of gravity or electromagnetism between matter. This post offers a top-down view of electromagnetism&amp;rsquo;s derivation from these fundamental principles.
+Relativistic Action To incorporate relativistic effects, the action is written as:
+$$ S = -m \int{ \sqrt{-\eta_{\mu \nu} dx^{\mu} dx^{\nu}} } = -m \sqrt{dt^{2} - d\vec{x}^{2}} $$</description>
+    </item>
+    <item>
+      <title>Renormalization Group method with Examples</title>
+      <link>https://htsod.github.io/posts/rg_method/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/posts/rg_method/</guid>
+      <description>Renormalization Group Approach in Dynamical System The renormalization group (RG) method is an approximation technique initially developed for solving strongly interacting many-body problems in quantum field theory, where perturbative solutions deviate from the actual solutions. The fundamental concept of the renormalization group approach is to eliminate irrelevant degrees of freedom in a physical system while preserving its essential characteristics ( Citation: P. Kopietz,&amp;#32;2010 P. Kopietz,&amp;#32; F.&amp;#32; (2010). &amp;#32; Introduction to the Functional Renormalization Group (1).</description>
+    </item>
+  </channel>
+</rss>
