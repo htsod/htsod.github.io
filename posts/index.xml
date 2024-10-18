@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://htsod.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Before you read: Here are the updates</title>
@@ -21,21 +21,25 @@
       <description>Updates 2024/10/11 Distinguishing Microscopic and Emergent Properties Microscopic theories, whether classical or quantum mechanics, do not inherently lead to an increase in entropy. Entropy is an emergent property, arising from the complex interactions of many-body systems. In some cases, we can simplify the behavior of weakly perturbed systems by adding microscopic interactions. However, in strongly interacting systems, complexity increases, often requiring nonlinear models. Yet, we can still derive meaningful rules at the phenomenological level to describe emergent patterns.</description>
     </item>
     <item>
-      <title>Ginzburg-Landau Eqaution and its Applications</title>
+      <title>The form of Ginzburg-Landau Eqaution in Chemical system</title>
       <link>https://htsod.github.io/posts/gl_eqn_application/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/posts/gl_eqn_application/</guid>
-      <description></description>
+      <description>Title A concise and descriptive title that captures the essence of your research project.
+Abstract A brief summary of the research project, highlighting the key research question, methodology, expected outcomes, and significance.
+Introduction Background: Provide a comprehensive overview of the relevant physics concepts and current understanding of the research area.
+Motivation: Explain the rationale behind your research, including the gap in knowledge or unanswered questions you aim to address.
+Literature Review Relevant Studies: Critically analyze existing research related to your topic, highlighting key findings, limitations, and potential areas for further exploration.</description>
     </item>
     <item>
-      <title>Phases Transition in Random Graphs</title>
+      <title>Phases Transition and Renormalization Group method applied in Random Graphs Model</title>
       <link>https://htsod.github.io/posts/small_world/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/posts/small_world/</guid>
-      <description>This investigation effort started off from a problem sets in a amazing statistical mechanics textbook by James Sethna. ( Citation: 2021,&amp;#32;pp.&amp;nbsp;10-13 Sethna,&amp;#32; J.&amp;#32; (2021). &amp;#32; Statistical mechanics: Entropy, order parameters, and complexity. &amp;#32; OUP Oxford.&amp;#32;Retrieved from&amp;#32; https://books.google.com/books?id=anEWEAAAQBAJ ) Six degree of separation: a inquiry about social cloesness In addition to your cloesest aquitances, if you know six people preferrably internationally, then you basically could connect to everyone in this globe in a effective way.</description>
+      <description>This investigation began as a problem sets in the excellent statistical mechanics textbook by James Sethna. ( Citation: 2021,&amp;#32;pp.&amp;nbsp;10-13 Sethna,&amp;#32; J.&amp;#32; (2021). &amp;#32; Statistical mechanics: Entropy, order parameters, and complexity. &amp;#32; OUP Oxford. ) In this blog, we start with a qualitative overview of the small-world effect, also known as the &amp;ldquo;six degrees of separation,&amp;rdquo; followed by a quantitative analysis using computational methods, and finally, a description of the phenomenon through the framework of phase transitions and critical phenomena.</description>
     </item>
     <item>
-      <title>Comparative Study on Tight-binding and Free electron Model</title>
+      <title>Topology of the Fermi surface in a Periodic Potential</title>
       <link>https://htsod.github.io/posts/free_tight/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/posts/free_tight/</guid>
