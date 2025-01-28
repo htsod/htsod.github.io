@@ -11,14 +11,40 @@
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://htsod.github.io/life_trivia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review of Continuous Phase Transition, Ginzburg-Landau Equation and Renormalization Group</title>
+      <link>https://htsod.github.io/life_trivia/gl_eqn_criticality/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/life_trivia/gl_eqn_criticality/</guid>
+      <description>Title A concise and descriptive title that captures the essence of your research project.
+Abstract A brief summary of the research project, highlighting the key research question, methodology, expected outcomes, and significance.
+Introduction Background: Provide a comprehensive overview of the relevant physics concepts and current understanding of the research area.
+Motivation: Explain the rationale behind your research, including the gap in knowledge or unanswered questions you aim to address.
+Literature Review Relevant Studies: Critically analyze existing research related to your topic, highlighting key findings, limitations, and potential areas for further exploration.</description>
+    </item>
     <item>
       <title>My First Full-Marathon</title>
       <link>https://htsod.github.io/life_trivia/first_marathon/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/life_trivia/first_marathon/</guid>
       <description>When I&amp;#39;m running, I will enter a great mental state. No matter how I felt before the run, I always end up feeling relieved and refreshed afterward.</description>
+    </item>
+    <item>
+      <title>Variational Method as Approximation to Simplify Quantum Circuit</title>
+      <link>https://htsod.github.io/life_trivia/nisq/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/life_trivia/nisq/</guid>
+      <description>Preview This blog provides a concise overview of some key noise-resilient, intermediate-scale quantum algorithms, designed for a general audience. We&amp;rsquo;ll first explore the core mechanics of these algorithms, followed by their applicability to existing classical counterparts. Lastly, we&amp;rsquo;ll discuss the hardware requirements necessary to implement these algorithms, with a focus on managing noise in quantum systems.
+Variational Quantum Eigenvalue (VQE) With the quantum hardware progressing, promising quantum algorithm has been devised to harness the exotic nature of quantum computer.</description>
+    </item>
+    <item>
+      <title>Study Notes on Network Theory</title>
+      <link>https://htsod.github.io/life_trivia/network/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://htsod.github.io/life_trivia/network/</guid>
+      <description>This blog aims to summerize the essential theory and method of network study.</description>
     </item>
   </channel>
 </rss>
