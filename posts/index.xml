@@ -18,7 +18,7 @@
       <link>https://htsod.github.io/posts/read_me/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/posts/read_me/</guid>
-      <description>Universality and Scale Invriance at the Criticality of Site-Bond Percolation Network
+      <description>Universality and Scale Invriance at the Criticality of Site-Bond Percolation Network (drafting)
 Site and bond percolation models exhibit a phase transition at a shared critical point, where both demonstrate self-similarity and scale invariance—hallmarks of continuous phase transitions. Using the Renormalization Group (RG) method from a top-down approach, which derive a scaling procedure from the assumption of self-similar, we compute the scaling exponents for the percolation universality class. While this top-down approach offers pedagogical simplicity, it lacks the physical intuition provided by the Ginzburg-Landau framework.</description>
     </item>
     <item>
@@ -26,7 +26,7 @@ Site and bond percolation models exhibit a phase transition at a shared critical
       <link>https://htsod.github.io/posts/percolation_network/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/posts/percolation_network/</guid>
-      <description>Abstract Site and bond percolation models exhibit a phase transition at a shared critical point, where both demonstrate self-similarity and scale invariance—hallmarks of continuous phase transitions. Using the Renormalization Group (RG) method proposed in ( Citation: Sethna,&amp;#32; Sethna,&amp;#32; J.&amp;#32; (n.d.). &amp;#32; Entropy, Order Parameters, and Complexity (2). &amp;#32; Clarendon Press. ) , which proposed a scaling procedure from the assumption of self-similar, we derive the scaling exponents for the percolation universality class.</description>
+      <description>Abstract Site and bond percolation models exhibit a phase transition at a shared critical point, where both demonstrate self-similarity and scale invariance—hallmarks of continuous phase transitions. Using the Renormalization Group (RG) method in ( Citation: Sethna,&amp;#32;2020 Sethna,&amp;#32; J.&amp;#32; (2020). &amp;#32; Entropy, Order Parameters, and Complexity (2). &amp;#32; Clarendon Press. ) , which proposed a scaling procedure from the assumption of self-similar, we derive the scaling exponents for the percolation universality class.</description>
     </item>
     <item>
       <title>Phases Transition and Renormalization Group method applied in Random Graphs Model</title>
