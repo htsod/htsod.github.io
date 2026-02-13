@@ -11,8 +11,37 @@
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Formulation of the Complexity Problem</title>
+      <link>http://localhost:1313/posts/complexity/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/complexity/</guid>
+      <description>Statistical equilibrium. Regularity arises from large N and high complexity.
+Equality of time average and statistical average. Equility of dynamics and structure.
+Kinetics. process to reach equilibrium. the time average and statistical average is not equal. Dynamics and structure of the system has to be studied separtely.
+Complexity: how each part of the system interact that leads to the dynamics. That its structure has a nontrivial effects on its evolution, often nonlinear.</description>
+    </item>
+    <item>
+      <title>Relativistic Effects on Communication Devices</title>
+      <link>http://localhost:1313/posts/relativsitic_communication/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/relativsitic_communication/</guid>
+      <description>Electrical system is to take input to produce the desired output.
+Relativistic Effects
+Landau proof on invariant of distribution
+Relativistic Modeling &amp;amp; Correction: Implementing algorithms in hardware (FPGAs) or software to calculate and apply corrections for known velocities and gravitational potentials.
+Hardware Latency Management: Designing systems (like FPGAs for quantum proofs) to account for all physical signal travel and processing delays to maintain timing integrity.
+Adaptive Systems: Developing hardware/software that can dynamically adjust for changing relativistic conditions, particularly crucial for deep space missions.</description>
+    </item>
+    <item>
+      <title>The Necessity of Contravariant and Covariant Tensors</title>
+      <link>http://localhost:1313/posts/contra_covariant/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/contra_covariant/</guid>
+      <description>A Common Mathematical Representation in Physics: Contravariant and Covariant Tensor The terms contravariant and covariant tensor often arise in the field of physics. It captures the necessity of two different kind of physical quantities that transform differently under rotation. However, most physics textbook breify mention tensor analysis as a mathematical tool with certain rules but lacking explanation on the necessity of introducing such mathematical tools in the particular setting. It is important in the study of physics because we are interested in how a physical quantity transform in different coordinate system, curvillinear coordinate system to be particular.</description>
+    </item>
     <item>
       <title>Universality and Scale Invaraince at the Criticality of Site-Bond Percolation Network</title>
       <link>http://localhost:1313/posts/percolation_network/</link>
@@ -26,6 +55,21 @@
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/small_world/</guid>
       <description>In this blog, we start with a qualitative overview of the small-world effect, also known as the &amp;ldquo;six degrees of separation,&amp;rdquo; followed by a quantitative analysis using computational methods, and finally, a description of the phenomenon through the framework of phase transitions and critical phenomena. From the surface level to deeper insights, I aim to explore the mechanics underlying this phenomenon and how this understanding can be extended to other large-scale phenomena.</description>
+    </item>
+    <item>
+      <title>Group Theory Application in Quantum Mechanics</title>
+      <link>http://localhost:1313/posts/group_solid/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/group_solid/</guid>
+      <description>This investigation started in the consideration of quantum solids which invariably have to solve for a many-bodies quantum problem. Many particles quantum mechanics, just like its classical counter parts, is desparately intractable. The exactly solvable problem, to name a few, are the free particle, harmonics oscilator and hydrogen atom. The question is then, to solve the many-particles quantum problem with the tools we have in these solvable models. All these solvable model has a potential energy term that is invariant under a symmetrical transformation, thus allowing for specifying the quantum system with integers labeling the irreducible representation.</description>
+    </item>
+    <item>
+      <title>Fermi suface: A Geometry Interpretation of Conductors</title>
+      <link>http://localhost:1313/posts/fermi_surface/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fermi_surface/</guid>
+      <description>Introduction Free Electron Model: Sommerfield Model Bands structure tells us the availible states in a unit cell. The number of electrons in a unit cell determine the occupation of those bands. One way to evaluate these effect is through the examination of the Fermi surface, which determine the equal energy surface of the electrons.
+Free electron surface Sommerfeld free electron model describe \( N \) number of fermions without any interaction, not even the columbic interaction between those \(N\) electron.</description>
     </item>
     <item>
       <title>Fourier Transforms: A Group Theoretic Perspective</title>

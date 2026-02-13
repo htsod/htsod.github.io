@@ -20,5 +20,12 @@
       <guid>http://localhost:1313/posts/wave_particle/</guid>
       <description>Both the Schrödinger wave equation and the Heisenberg matrix method are fundamental approaches to quantum mechanics, each offering a unique perspective. To unify them, we recognize that while they approach the problem differently, they ultimately describe the same quantum phenomena.</description>
     </item>
+    <item>
+      <title>Study Notes on Quantum Mechanics</title>
+      <link>http://localhost:1313/review/quantum_mechanics/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/review/quantum_mechanics/</guid>
+      <description>Preview If one struggle to convince themselves the sanity of quantum mechanics, the best advice to them is to move on and put yourself into practical question and work out the math. That&amp;rsquo;s the core spirit of this reivew note about. All we need to know is the necessary axioms which were verified long ago, and then to make use of these axioms to draw meaningful observation on the theory itself or practical problems to draw in more intuition.</description>
+    </item>
   </channel>
 </rss>
