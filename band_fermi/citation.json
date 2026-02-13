@@ -1,0 +1,178 @@
+[
+  {
+    "DOI": "10.1088/0031-8949/91/5/053009",
+    "URL": "https://dx.doi.org/10.1088/0031-8949/91/5/053009",
+    "abstract": "The concept of the Fermi surface is at the very heart of our understanding of the metallic state. Displaying intricate and often complicated shapes, the Fermi surfaces of real metals are both aesthetically beautiful and subtly powerful. A range of examples is presented of the startling array of physical phenomena whose origin can be traced to the shape of the Fermi surface, together with experimental observations of the particular Fermi surface features.",
+    "author": [
+      {
+        "family": "Dugdale",
+        "given": "S B"
+      }
+    ],
+    "container-title": "Physica Scripta",
+    "id": "Dugdale_2016",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          4
+        ]
+      ]
+    },
+    "page": "053009",
+    "publisher": "IOP Publishing",
+    "title": "Life on the edge: A beginner’s guide to the fermi surface",
+    "title-short": "Life on the edge",
+    "type": "article-journal",
+    "volume": "91"
+  },
+  {
+    "ISBN": "9780198513308",
+    "URL": "https://books.google.com/books?id=N8B4AAAAIAAJ",
+    "author": [
+      {
+        "family": "Cracknell",
+        "given": "A. P."
+      },
+      {
+        "family": "Wong",
+        "given": "K. C."
+      }
+    ],
+    "collection-title": "Monographs on the physics and chemistry of materials",
+    "id": "cracknell1973fermi",
+    "issued": {
+      "date-parts": [
+        [
+          1973
+        ]
+      ]
+    },
+    "publisher": "Clarendon Press",
+    "title": "The fermi surface: Its concept, determination, and use in the physics of metals",
+    "title-short": "The fermi surface",
+    "type": "book"
+  },
+  {
+    "ISBN": "9783540328995",
+    "URL": "https://books.google.com/books?id=SPiqKWk_h2sC",
+    "author": [
+      {
+        "family": "Dresselhaus",
+        "given": "M. S."
+      },
+      {
+        "family": "Dresselhaus",
+        "given": "G."
+      },
+      {
+        "family": "Jorio",
+        "given": "A."
+      }
+    ],
+    "collection-title": "SpringerLink: Springer e-books",
+    "id": "dresselhaus2007group",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "Group theory: Application to the physics of condensed matter",
+    "title-short": "Group theory",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1070/PU1963v005n06ABEH003463",
+    "URL": "https://dx.doi.org/10.1070/PU1963v005n06ABEH003463",
+    "abstract": "Introduction 878 1. Fermi Energy. Fermi Surface. Number of Electrons 878 2. Density of Electron States per Unit Energy Range 884 3. Thermodynamics of Conduction Electrons 886 4. Anomalies of Electronic Properties of a Metal at High Pressures 888 5. Para- and Diamagnetism (Weak Magnetic Fields) 890 6. The de Haas-van Alphen Effect (Strong Magnetic Fields) 892 7. The de Haas-van Alphen Effect and the Theory of the Fermi Liquid 896 8. The de Haas-van Alphen Effect (Special Problems) 898 9. Determination of the Electron Energy Spectrum from Experimental Data 900 10. General Theory of Oscillatory Phenomena 902 Appendix 903 1. The Definition of the Effective Mass of a Conduction Electron 903 2. Motion in a Time-varying Inhomogeneous Electromagnetic Field 903 3. Quasiclassical Quantization Near Singular Classical Trajectories 905 Literature References 906",
+    "author": [
+      {
+        "family": "Lifshitz",
+        "given": "I M"
+      },
+      {
+        "family": "Kaganov",
+        "given": "Moisei I"
+      }
+    ],
+    "container-title": "Soviet Physics Uspekhi",
+    "id": "IMLifshitz_1963",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          1963,
+          6
+        ]
+      ]
+    },
+    "page": "878",
+    "title": "SOME PROBLEMS OF THE ELECTRON THEORY OF METALS II. STATISTICAL MECHANICS AND THERMODYNAMICS OF ELECTRONS IN METALS",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
+    "DOI": "10.1070/PU1966v008n06ABEH002922",
+    "URL": "https://dx.doi.org/10.1070/PU1966v008n06ABEH002922",
+    "abstract": "Introduction 1. Boltzmann Kinetic Equation 805 2. Specific Conductivity. Ohm’s Law 810 3. Thermal Conductivity. The Wiedemann-Franz law. Thermoelectric Phenomena 815 4. Galvanomagnetic Phenomena. Introduction 819 5. Galvanomagnetic Phenomena. High Fields. Closed Trajectories 821 6. Galvanomagnetic Phenomena. High Fields. Open Trajectories 826 7. Thermal Conductivity and Thermoelectric Phenomena in a Strong Magnetic Field 833 8. Normal Skin Effect 834 9. Anomalous Skin Effect 837 10. Absorption of Ultrasonics by Metals 840 Appendices 842 Literature references 849",
+    "author": [
+      {
+        "family": "Lifshitz",
+        "given": "I M"
+      },
+      {
+        "family": "Kaganov",
+        "given": "Moisei I"
+      }
+    ],
+    "container-title": "Soviet Physics Uspekhi",
+    "id": "IMLifshitz_1966",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          1966,
+          6
+        ]
+      ]
+    },
+    "page": "805",
+    "title": "SOME PROBLEMS OF THE ELECTRON THEORY OF METALS III. KINETIC PROPERTIES OF ELECTRONS IN METALS",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "DOI": "10.1070/PU1979v022n11ABEH005648",
+    "URL": "https://dx.doi.org/10.1070/PU1979v022n11ABEH005648",
+    "abstract": "Modern electron theory of metals abounds in geometric terminology and, by using geometric ideas, provides clear descriptions of many complicated phenomena. Some problems in the theory of normal metals that can be interpreted geometrically are examined in this paper in a language accessible to many physicists. Particular attention is devoted to those phenomena and properties that are connected with qualitative (topological) changes in geometric figures such as Fermi surfaces, plane sections though such surfaces, \"belts\" on the Fermi surface, and so on. Graphical illustrations of these ideas are provided.",
+    "author": [
+      {
+        "family": "Kaganov",
+        "given": "Moisei I"
+      },
+      {
+        "family": "Lifshits",
+        "given": "I M"
+      }
+    ],
+    "container-title": "Soviet Physics Uspekhi",
+    "id": "MoiseiIKaganov_1979",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          1979,
+          11
+        ]
+      ]
+    },
+    "page": "904",
+    "title": "Electron theory of metals and geometry",
+    "type": "article-journal",
+    "volume": "22"
+  }
+]
