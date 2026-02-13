@@ -37,6 +37,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  math: true
 
   
 # enable mathjax
@@ -57,8 +58,6 @@ goldmark:
           - \\)
 
       enable: true
-params:
-  math: true
 
 
   # home-info mode
