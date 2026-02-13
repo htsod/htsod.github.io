@@ -1,0 +1,181 @@
+[
+  {
+    "ISBN": "9787030208064",
+    "URL": "https://books.google.co.jp/books?id=foQcPwAACAAJ",
+    "author": [
+      {
+        "family": "Zeng",
+        "given": "Jinyan"
+      }
+    ],
+    "collection-title": "普通高等教育\"十一五\"国家级规划教材",
+    "id": "2008量子力学教程",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "publisher": "科学出版社",
+    "title": "量子力学教程",
+    "type": "book"
+  },
+  {
+    "abstract": "The paper gives an account of the author’s work on a new form of quantum theory. §1. The Hamiltonian analogy between mechanics and optics. §2. The analogy is to be extended to include real “physical” or “undulatory” mechanics instead of mere geometrical mechanics. §3. The significance of wave-length; macro-mechanical and micro-mechanical problems. §4. The wave-equation and its application to the hydrogen atom. §5. The intrinsic reason for the appearance of discrete characteristic frequencies. §6. Other problems; intensity of emitted light. §7. The wave-equation derived from a Hamiltonian variation-principle; generalization to an arbitrary conservative system. §8. The wave-function physically means and determines a continuous distribution of electricity in space, the fluctuations of which determine the radiation by the laws of ordinary electrodynamics. §9. Non-conservative systems. Theory of dispersion and scattering and of the “transitions” between the “stationary states.” §10. The question of relativity and the action of a magnetic field. Incompleteness of that part of the theory.",
+    "author": [
+      {
+        "family": "Schrödinger",
+        "given": "E"
+      }
+    ],
+    "container-title": "Phys. Rev.",
+    "id": "Schrodinger1926-ib",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          1926,
+          12
+        ]
+      ]
+    },
+    "page": "1049-1070",
+    "publisher": "American Physical Society (APS)",
+    "title": "An undulatory theory of the mechanics of atoms and molecules",
+    "type": "article-journal",
+    "volume": "28"
+  },
+  {
+    "abstract": "In July 1925 Heisenberg published a paper [Z. Phys. 33, 879-893 (1925)] which ended the period of “the Old Quantum Theory” and ushered in the new era of Quantum Mechanics. This epoch-making paper is generally regarded as being difficult to follow, perhaps partly because Heisenberg provided few clues as to how he arrived at the results which he reported. Here we give details of calculations of the type which, we suggest, Heisenberg may have performed. We take as a specific example one of the anharmonic oscillator problems considered by Heisenberg, and use our reconstruction of his approach to solve it up to second order in perturbation theory. We emphasize that the results are precisely those obtained in standard quantum mechanics, and suggest that some discussion of the approach - based on the direct computation of transition amplitudes - could usefully be included in undergraduate courses in quantum mechanics.",
+    "author": [
+      {
+        "family": "Aitchison",
+        "given": "Ian J R"
+      },
+      {
+        "family": "MacManus",
+        "given": "David A"
+      },
+      {
+        "family": "Snyder",
+        "given": "Thomas M"
+      }
+    ],
+    "id": "Aitchison2004-iy",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "publisher": "arXiv",
+    "title": "Understanding heisenberg’s ’magical’ paper of july 1925: A new look at the calculational details",
+    "title-short": "Understanding heisenberg’s ’magical’ paper of july 1925",
+    "type": "article-journal"
+  },
+  {
+    "abstract": "It is well known that the experimental facts of atomic physics necessitate a departure from the classical theory of electrodynamics in the description of atomic phenomena. This departure takes the form, in Bohr’s theory, of the special assumptions of the existence of stationary states of an atom, in which it does not radiate, and of certain rules, called quantum conditions, which fix the stationary states and the frequencies of the radiation emitted during transitions between them. These assumptions are quite foreign to the classical theory, but have been very successful in the interpretation of a restricted region of atomic phenomena. The only way in which the classical theory is used is through the assumption that the classical laws hold for the description of the motion in the stationary states, although they fail completely during transitions, and the assumption, called the Correspondence Principle, that the classical theory gives the right results in the limiting case when the action per cycle of the system is large compared to Planck’s constant h , and in certain other special cases. In a recent paper Heisenberg puts forward a new theory, which suggests that it is not the equations of classical mechanics that are in any way at fault, but that the mathematical operations by which physical results are deduced from them require modification. All the information supplied by the classical theory can thus be made use of in the new theory.",
+    "author": [
+      {
+        "family": "Dirac",
+        "given": "P A M"
+      }
+    ],
+    "container-title": "Proc. R. Soc. Lond. A Math. Phys. Sci.",
+    "id": "Dirac1925-gz",
+    "issue": "752",
+    "issued": {
+      "date-parts": [
+        [
+          1925,
+          12
+        ]
+      ]
+    },
+    "page": "642-653",
+    "publisher": "The Royal Society",
+    "title": "The fundamental equations of quantum mechanics",
+    "type": "article-journal",
+    "volume": "109"
+  },
+  {
+    "abstract": "The 1925 paper “On quantum mechanics” by M. Born and P. Jordan, and the sequel “On quantum mechanics II” by M. Born, W. Heisenberg, and P. Jordan, developed Heisenberg’s pioneering theory into the first complete formulation of quantum mechanics. The Born and Jordan paper is the subject of the present article. This paper introduced matrices to physicists. We discuss the original postulates of quantum mechanics, present the two-part discovery of the law of commutation, and clarify the origin of Heisenberg’s equation. We show how the 1925 proof of energy conservation and Bohr’s frequency condition served as the gold standard with which to measure the validity of the new quantum mechanics.",
+    "author": [
+      {
+        "family": "Fedak",
+        "given": "William A"
+      },
+      {
+        "family": "Prentis",
+        "given": "Jeffrey J"
+      }
+    ],
+    "container-title": "Am. J. Phys.",
+    "id": "Fedak2009-wg",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          2
+        ]
+      ]
+    },
+    "page": "128-139",
+    "publisher": "American Association of Physics Teachers (AAPT)",
+    "title": "The 1925 born and jordan paper “on quantum mechanics”",
+    "type": "article-journal",
+    "volume": "77"
+  },
+  {
+    "ISBN": "9780691028934",
+    "URL": "https://books.google.co.jp/books?id=JLyCo3RO4qUC",
+    "author": [
+      {
+        "dropping-particle": "von",
+        "family": "Neumann",
+        "given": "J."
+      }
+    ],
+    "collection-title": "Goldstine printed materials",
+    "id": "von1955mathematical",
+    "issued": {
+      "date-parts": [
+        [
+          1955
+        ]
+      ]
+    },
+    "publisher": "Princeton University Press",
+    "title": "Mathematical foundations of quantum mechanics",
+    "type": "book"
+  },
+  {
+    "URL": "https://cds.cern.ch/record/100771",
+    "author": [
+      {
+        "family": "Feynman",
+        "given": "Richard Phillips"
+      },
+      {
+        "family": "Hibbs",
+        "given": "Albert Roach"
+      }
+    ],
+    "collection-title": "International series in pure and applied physics",
+    "id": "Feynman:100771",
+    "issued": {
+      "date-parts": [
+        [
+          1965
+        ]
+      ]
+    },
+    "publisher": "McGraw-Hill",
+    "publisher-place": "New York, NY",
+    "title": "Quantum mechanics and path integrals",
+    "type": "book"
+  }
+]

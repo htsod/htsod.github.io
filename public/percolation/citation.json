@@ -1,0 +1,214 @@
+[
+  {
+    "author": [
+      {
+        "family": "Sethna",
+        "given": "James P."
+      }
+    ],
+    "edition": "2",
+    "id": "James_2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "Clarendon Press",
+    "title": "Entropy, Order Parameters, and Complexity",
+    "type": "book"
+  },
+  {
+    "DOI": "10.21468/scipostphyslectnotes.11",
+    "ISSN": "2590-1990",
+    "URL": "http://dx.doi.org/10.21468/SciPostPhysLectNotes.11",
+    "author": [
+      {
+        "family": "Beekman",
+        "given": "Aron"
+      },
+      {
+        "family": "Rademaker",
+        "given": "Louk"
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Wezel",
+        "given": "Jasper"
+      }
+    ],
+    "container-title": "SciPost Physics Lecture Notes",
+    "id": "Beekman_2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          12
+        ]
+      ]
+    },
+    "publisher": "Stichting SciPost",
+    "title": "An introduction to spontaneous symmetry breaking",
+    "type": "article-journal"
+  },
+  {
+    "ISBN": "9780429973123",
+    "author": [
+      {
+        "family": "Goldenfeld",
+        "given": "N."
+      }
+    ],
+    "id": "goldenfeld2018lectures",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "CRC Press",
+    "title": "Lectures on phase transitions and the renormalization group",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1103/PhysRevLett.27.1719",
+    "URL": "https://link.aps.org/doi/10.1103/PhysRevLett.27.1719",
+    "author": [
+      {
+        "family": "Last",
+        "given": "B. J."
+      },
+      {
+        "family": "Thouless",
+        "given": "D. J."
+      }
+    ],
+    "container-title": "Phys. Rev. Lett.",
+    "id": "electrical_conductivity1971",
+    "issued": {
+      "date-parts": [
+        [
+          1971,
+          12
+        ]
+      ]
+    },
+    "page": "1719-1721",
+    "publisher": "American Physical Society",
+    "title": "Percolation theory and electrical conductivity",
+    "type": "article-journal",
+    "volume": "27"
+  },
+  {
+    "ISBN": "9781420074796",
+    "author": [
+      {
+        "family": "Stauffer",
+        "given": "D."
+      },
+      {
+        "family": "Aharony",
+        "given": "A."
+      }
+    ],
+    "id": "stauffer1994introduction",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "publisher": "Taylor & Francis",
+    "title": "Introduction to percolation theory",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1016/j.physrep.2015.01.001",
+    "ISSN": "0370-1573",
+    "URL": "http://dx.doi.org/10.1016/j.physrep.2015.01.001",
+    "author": [
+      {
+        "family": "Hohenberg",
+        "given": "P. C."
+      },
+      {
+        "family": "Krekhov",
+        "given": "A. P."
+      }
+    ],
+    "container-title": "Physics Reports",
+    "id": "hohenberg_2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "page": "1-42",
+    "publisher": "Elsevier BV",
+    "title": "An introduction to the ginzburg–landau theory of phase transitions and nonequilibrium patterns",
+    "type": "article-journal",
+    "volume": "572"
+  },
+  {
+    "ISBN": "9780367091187",
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "P. W."
+      }
+    ],
+    "collection-title": "Advanced book classics",
+    "id": "anderson2019basic",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "publisher": "Taylor & Francis Limited",
+    "title": "Basic notions of condensed matter physics",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1103/physreve.110.064303",
+    "ISSN": "2470-0053",
+    "URL": "http://dx.doi.org/10.1103/PhysRevE.110.064303",
+    "author": [
+      {
+        "family": "Cirigliano",
+        "given": "Lorenzo"
+      },
+      {
+        "family": "Timár",
+        "given": "Gábor"
+      },
+      {
+        "family": "Castellano",
+        "given": "Claudio"
+      }
+    ],
+    "container-title": "Physical Review E",
+    "id": "Cirigliano_2024",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "publisher": "American Physical Society (APS)",
+    "title": "Scaling and universality for percolation in random networks: A unified view",
+    "title-short": "Scaling and universality for percolation in random networks",
+    "type": "article-journal",
+    "volume": "110"
+  }
+]

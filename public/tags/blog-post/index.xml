@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog Post on ButterCat</title>
+    <link>http://localhost:1313/tags/blog-post/</link>
+    <description>Recent content in Blog Post on ButterCat</description>
+    <image>
+      <title>ButterCat</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.123.7</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wave Equation Approach and Matrix Method Derivation of the Schrodinger Equation</title>
+      <link>http://localhost:1313/posts/wave_particle/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wave_particle/</guid>
+      <description>Both the Schrödinger wave equation and the Heisenberg matrix method are fundamental approaches to quantum mechanics, each offering a unique perspective. To unify them, we recognize that while they approach the problem differently, they ultimately describe the same quantum phenomena.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,202 @@
+[
+  {
+    "author": [
+      {
+        "family": "Kandala",
+        "given": "Abhinav"
+      },
+      {
+        "family": "Mezzacapo",
+        "given": "Antonio"
+      },
+      {
+        "family": "Temme",
+        "given": "Kristan"
+      },
+      {
+        "family": "Takita",
+        "given": "Maika"
+      },
+      {
+        "family": "Brink",
+        "given": "Markus"
+      },
+      {
+        "family": "Chow",
+        "given": "Jerry M"
+      },
+      {
+        "family": "Gambetta",
+        "given": "Jay M"
+      }
+    ],
+    "container-title": "nature",
+    "id": "kandala2017hardware",
+    "issue": "7671",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "242-246",
+    "publisher": "Nature Publishing Group",
+    "title": "Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets",
+    "type": "article-journal",
+    "volume": "549"
+  },
+  {
+    "author": [
+      {
+        "family": "Nakaji",
+        "given": "Kouhei"
+      },
+      {
+        "family": "Yamamoto",
+        "given": "Naoki"
+      }
+    ],
+    "container-title": "Quantum",
+    "id": "nakaji2021expressibility",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "434",
+    "publisher": "Verein zur Förderung des Open Access Publizierens in den Quantenwissenschaften",
+    "title": "Expressibility of the alternating layered ansatz for quantum computation",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
+    "author": [
+      {
+        "family": "Seeley",
+        "given": "Jacob T"
+      },
+      {
+        "family": "Richard",
+        "given": "Martin J"
+      },
+      {
+        "family": "Love",
+        "given": "Peter J"
+      }
+    ],
+    "container-title": "The Journal of chemical physics",
+    "id": "seeley2012bravyi",
+    "issue": "22",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "publisher": "AIP Publishing",
+    "title": "The bravyi-kitaev transformation for quantum computation of electronic structure",
+    "type": "article-journal",
+    "volume": "137"
+  },
+  {
+    "author": [
+      {
+        "family": "Tranter",
+        "given": "Andrew"
+      },
+      {
+        "family": "Love",
+        "given": "Peter J"
+      },
+      {
+        "family": "Mintert",
+        "given": "Florian"
+      },
+      {
+        "family": "Coveney",
+        "given": "Peter V"
+      }
+    ],
+    "container-title": "Journal of chemical theory and computation",
+    "id": "tranter2018comparison",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "5617-5630",
+    "publisher": "ACS Publications",
+    "title": "A comparison of the bravyi–kitaev and jordan–wigner transformations for the quantum simulation of quantum chemistry",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "family": "Bharti",
+        "given": "Kishor"
+      },
+      {
+        "family": "Cervera-Lierta",
+        "given": "Alba"
+      },
+      {
+        "family": "Kyaw",
+        "given": "Thi Ha"
+      },
+      {
+        "family": "Haug",
+        "given": "Tobias"
+      },
+      {
+        "family": "Alperin-Lea",
+        "given": "Sumner"
+      },
+      {
+        "family": "Anand",
+        "given": "Abhinav"
+      },
+      {
+        "family": "Degroote",
+        "given": "Matthias"
+      },
+      {
+        "family": "Heimonen",
+        "given": "Hermanni"
+      },
+      {
+        "family": "Kottmann",
+        "given": "Jakob S"
+      },
+      {
+        "family": "Menke",
+        "given": "Tim"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Reviews of Modern Physics",
+    "id": "bharti2022noisy",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "015004",
+    "publisher": "APS",
+    "title": "Noisy intermediate-scale quantum algorithms",
+    "type": "article-journal",
+    "volume": "94"
+  }
+]

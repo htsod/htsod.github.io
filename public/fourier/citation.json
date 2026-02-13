@@ -1,0 +1,48 @@
+[
+  {
+    "ISBN": "9780691162690",
+    "URL": "https://books.google.co.jp/books?id=FWkujgEACAAJ",
+    "author": [
+      {
+        "family": "Zee",
+        "given": "A."
+      }
+    ],
+    "collection-title": "In a nutshell",
+    "id": "zee2016group",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Princeton University Press",
+    "title": "Group theory in a nutshell for physicists",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dresselhaus",
+        "given": "Mildred S."
+      },
+      {
+        "family": "Dresselhaus",
+        "given": "Gene"
+      }
+    ],
+    "id": "dresselhaus_group_theory_condensed_matter",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "publisher": "Springer",
+    "title": "Group theory: Application to the physics of condensed matter",
+    "title-short": "Group theory",
+    "type": "book"
+  }
+]
