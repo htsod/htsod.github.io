@@ -188,5 +188,9 @@ outputs:
       - RSS
       - JSON # is necessary
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 
       
