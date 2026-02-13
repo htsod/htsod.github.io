@@ -11,18 +11,8 @@
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Formulation of the Complexity Problem</title>
-      <link>http://localhost:1313/posts/complexity/</link>
-      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/complexity/</guid>
-      <description>Statistical equilibrium. Regularity arises from large N and high complexity.
-Equality of time average and statistical average. Equility of dynamics and structure.
-Kinetics. process to reach equilibrium. the time average and statistical average is not equal. Dynamics and structure of the system has to be studied separtely.
-Complexity: how each part of the system interact that leads to the dynamics. That its structure has a nontrivial effects on its evolution, often nonlinear.</description>
-    </item>
     <item>
       <title>Relativistic Effects on Communication Devices</title>
       <link>http://localhost:1313/posts/relativsitic_communication/</link>
@@ -34,13 +24,6 @@ Landau proof on invariant of distribution
 Relativistic Modeling &amp;amp; Correction: Implementing algorithms in hardware (FPGAs) or software to calculate and apply corrections for known velocities and gravitational potentials.
 Hardware Latency Management: Designing systems (like FPGAs for quantum proofs) to account for all physical signal travel and processing delays to maintain timing integrity.
 Adaptive Systems: Developing hardware/software that can dynamically adjust for changing relativistic conditions, particularly crucial for deep space missions.</description>
-    </item>
-    <item>
-      <title>The Necessity of Contravariant and Covariant Tensors</title>
-      <link>http://localhost:1313/posts/contra_covariant/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/contra_covariant/</guid>
-      <description>A Common Mathematical Representation in Physics: Contravariant and Covariant Tensor The terms contravariant and covariant tensor often arise in the field of physics. It captures the necessity of two different kind of physical quantities that transform differently under rotation. However, most physics textbook breify mention tensor analysis as a mathematical tool with certain rules but lacking explanation on the necessity of introducing such mathematical tools in the particular setting. It is important in the study of physics because we are interested in how a physical quantity transform in different coordinate system, curvillinear coordinate system to be particular.</description>
     </item>
     <item>
       <title>Universality and Scale Invaraince at the Criticality of Site-Bond Percolation Network</title>

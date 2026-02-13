@@ -20,6 +20,34 @@ minify:
   disableXML: true
   minifyOutput: true
 
+
+  
+# enable mathjax
+markup:
+goldmark:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+  extensions:
+    passthrough:
+      delimiters:
+        block:
+        - - \[
+          - \]
+        - - $$
+          - $$
+        inline:
+        - - \(
+          - \)
+        - - \\(
+          - \\)
+
+      enable: true
+
 params:
   # Display options
   ShowReadingTime: true
@@ -38,34 +66,6 @@ params:
   showtoc: true
   tocopen: true
   math: true
-
-  
-# enable mathjax
-markup:
-  highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
-
-goldmark:
-  extensions:
-    passthrough:
-      delimiters:
-        block:
-        - - \[
-          - \]
-        - - $$
-          - $$
-        inline:
-        - - \(
-          - \)
-        - - \\(
-          - \\)
-
-      enable: true
 
 
   # home-info mode
@@ -188,10 +188,6 @@ outputs:
       - HTML
       - RSS
       - JSON # is necessary
-
-caches:
-  images:
-    dir: :cacheDir/images
 
 
       

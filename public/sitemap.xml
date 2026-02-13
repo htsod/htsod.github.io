@@ -2,20 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/complexity/</loc>
-    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/relativsitic_communication/</loc>
     <lastmod>2026-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ee/ee_core/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/contra_covariant/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/life_trivia/gl_eqn_criticality/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/percolation_network/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
@@ -35,9 +26,6 @@
     <loc>http://localhost:1313/posts/wave_particle/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/life_trivia/first_marathon/</loc>
-    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/archetypes/default/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -46,12 +34,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/maxwell_eqns_derive/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/review/group_theory/</loc>
-    <lastmod>2024-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/review/statistical_mechanics/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ee/passivecomponent/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
@@ -80,43 +62,22 @@
     <loc>http://localhost:1313/ee/</loc>
     <lastmod>2026-01-30T12:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/life_trivia/nisq/</loc>
-    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/network/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/review/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/statistical-mechanics/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/life_trivia/network/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/blog-post/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/quantum-mechanics/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/life/</loc>
-    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sport/</loc>
-    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archetypes/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/review/quantum_mechanics/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/ising-model/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/statistical-mechanics/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/thermodynamics/</loc>
@@ -131,14 +92,17 @@
     <loc>http://localhost:1313/tags/gravity/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/review/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/special-relativity/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dynamics/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/group-theory/</loc>
-    <lastmod>2024-05-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/network/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/renormalization-group/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
@@ -147,12 +111,6 @@
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2023-05-29T01:44:19-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/life_trivia/</loc>
-    <lastmod>2023-05-29T01:44:19-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/review/</loc>
     <lastmod>2023-05-29T01:44:19-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>

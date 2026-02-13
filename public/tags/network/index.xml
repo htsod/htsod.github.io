@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/network/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Study Notes on Network Theory</title>
-      <link>http://localhost:1313/life_trivia/network/</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/life_trivia/network/</guid>
-      <description>This blog aims to summerize the essential theory and method of network study.</description>
-    </item>
     <item>
       <title>Renormalization Group: A Descriptive Overview</title>
       <link>http://localhost:1313/posts/rg_method/</link>

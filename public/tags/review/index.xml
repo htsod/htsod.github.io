@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bottom-up derivation of Maxwell&#39;s Equations</title>
@@ -20,38 +20,6 @@
       <guid>http://localhost:1313/posts/maxwell_eqns_derive/</guid>
       <description>Can the order of physics discovery be differernt? From Zee Einstein&amp;rsquo;s Gravity in a nutshell, a hypothetical situation is proposed: a far away civilization where life was evolved from modular planet happen to understand the constancy of light before understanding electromagnetism. A brilliant physicist then could derived E.M. and gravity from the correct conception of space and time.
 The derivation was casted in a simplisitc manner: By placing the potential term either inside or outside the action square root, we obtain the familiar interactions of gravity or electromagnetism, with major concepts left unexplained.</description>
-    </item>
-    <item>
-      <title>Study Notes on Group Theory</title>
-      <link>http://localhost:1313/review/group_theory/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/review/group_theory/</guid>
-      <description>From permutation to group theory Everyone knows permutation. Permutation counts the number of ways that we can exchange a set of element. Take a simple example of permutation of three objects naming it with integer (123). There are \( 3!=6 \) ways of rearranging these three elements into different orders. Let&amp;rsquo;s list out all the six orders:
-$$ (123), (132), (231), (213), (312), (321)$$
-Looking at a different perspective, we can also treat each permutation of the element \( (123) \) as a transformation to \( (123) \).</description>
-    </item>
-    <item>
-      <title>Study Notes on Statistical Mechanics</title>
-      <link>http://localhost:1313/review/statistical_mechanics/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/review/statistical_mechanics/</guid>
-      <description>Entropy, Order Parameters and Complexity What is statistical mechanics? Ensemble How to connect microscopic law with macroscopic phenomenon? The concept of ensemble provides a method that connects the two. Treating a large system(macroscopic) as collection of similarly prepared systems(microscopic).
-Entropy Entropy to be defined as a function of probability distribution \(p_{i}\) must satisfy the following:
-Maximum at \(\frac{1}{p_{i}}\) Minimum at \(p_{i} = 0 , S = 0\) Minimum at \(p_{i} = 1, S = 0\) The unique function that satisfies the above requirement is \(S=-p_{i}\log{p_{i}}\), giving rise to the information interpretation of entropy.</description>
-    </item>
-    <item>
-      <title>Study Notes on Network Theory</title>
-      <link>http://localhost:1313/life_trivia/network/</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/life_trivia/network/</guid>
-      <description>This blog aims to summerize the essential theory and method of network study.</description>
-    </item>
-    <item>
-      <title>Study Notes on Quantum Mechanics</title>
-      <link>http://localhost:1313/review/quantum_mechanics/</link>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/review/quantum_mechanics/</guid>
-      <description>Preview If one struggle to convince themselves the sanity of quantum mechanics, the best advice to them is to move on and put yourself into practical question and work out the math. That&amp;rsquo;s the core spirit of this reivew note about. All we need to know is the necessary axioms which were verified long ago, and then to make use of these axioms to draw meaningful observation on the theory itself or practical problems to draw in more intuition.</description>
     </item>
   </channel>
 </rss>
