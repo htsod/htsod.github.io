@@ -1,0 +1,85 @@
+[
+  {
+    "URL": "http://arxiv.org/abs/1210.2262",
+    "author": [
+      {
+        "family": "Sfondrini",
+        "given": "Alessandro"
+      }
+    ],
+    "id": "Alessandro:2012",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Introduction to universality and renormalization group techniques</span>",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Coppersmith",
+        "given": "S. N."
+      }
+    ],
+    "container-title": "American Journal of Physics",
+    "id": "S:1999",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "52-54",
+    "title": "<span class=\"nocase\">A simpler derivation of Feigenbaum’s renormalization group equation for the period-doubling bifurcation sequence</span>",
+    "type": "article-journal",
+    "volume": "67"
+  },
+  {
+    "DOI": "10.1007/978-3-642-05094-7",
+    "author": [
+      {
+        "comma-suffix": false,
+        "family": "P. Kopietz",
+        "given": "F. Schutz",
+        "suffix": "L. Bartosch"
+      }
+    ],
+    "edition": "1",
+    "id": "PLF:2010",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "publisher": "Springer, Berlin Heidelberg 2010",
+    "title": "<span class=\"nocase\">Introduction to the Functional Renormalization Group</span>",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sethna",
+        "given": "James P."
+      }
+    ],
+    "edition": "2",
+    "id": "James:2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "Clarendon Press",
+    "title": "<span class=\"nocase\">Entropy, Order Parameters, and Complexity</span>",
+    "type": "book"
+  }
+]

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reviews on ButterCat</title>
-    <link>https://htsod.github.io/review/</link>
+    <link>http://localhost:1313/review/</link>
     <description>Recent content in Reviews on ButterCat</description>
     <image>
       <title>ButterCat</title>
-      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://htsod.github.io/review/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Study Notes on Group Theory</title>
-      <link>https://htsod.github.io/review/group_theory/</link>
+      <link>http://localhost:1313/review/group_theory/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/review/group_theory/</guid>
+      <guid>http://localhost:1313/review/group_theory/</guid>
       <description>From permutation to group theory Everyone knows permutation. Permutation counts the number of ways that we can exchange a set of element. Take a simple example of permutation of three objects naming it with integer (123). There are \( 3!=6 \) ways of rearranging these three elements into different orders. Let&amp;rsquo;s list out all the six orders:
 $$ (123), (132), (231), (213), (312), (321)$$
 Looking at a different perspective, we can also treat each permutation of the element \( (123) \) as a transformation to \( (123) \).</description>
     </item>
     <item>
       <title>Study Notes on Statistical Mechanics</title>
-      <link>https://htsod.github.io/review/statistical_mechanics/</link>
+      <link>http://localhost:1313/review/statistical_mechanics/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/review/statistical_mechanics/</guid>
+      <guid>http://localhost:1313/review/statistical_mechanics/</guid>
       <description>Entropy, Order Parameters and Complexity What is statistical mechanics? Ensemble How to connect microscopic law with macroscopic phenomenon? The concept of ensemble provides a method that connects the two. Treating a large system(macroscopic) as collection of similarly prepared systems(microscopic).
 Entropy Entropy to be defined as a function of probability distribution \(p_{i}\) must satisfy the following:
 Maximum at \(\frac{1}{p_{i}}\) Minimum at \(p_{i} = 0 , S = 0\) Minimum at \(p_{i} = 1, S = 0\) The unique function that satisfies the above requirement is \(S=-p_{i}\log{p_{i}}\), giving rise to the information interpretation of entropy.</description>
     </item>
     <item>
       <title>Study Notes on Quantum Mechanics</title>
-      <link>https://htsod.github.io/review/quantum_mechanics/</link>
+      <link>http://localhost:1313/review/quantum_mechanics/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/review/quantum_mechanics/</guid>
+      <guid>http://localhost:1313/review/quantum_mechanics/</guid>
       <description>Preview If one struggle to convince themselves the sanity of quantum mechanics, the best advice to them is to move on and put yourself into practical question and work out the math. That&amp;rsquo;s the core spirit of this reivew note about. All we need to know is the necessary axioms which were verified long ago, and then to make use of these axioms to draw meaningful observation on the theory itself or practical problems to draw in more intuition.</description>
     </item>
   </channel>

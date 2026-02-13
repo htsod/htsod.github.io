@@ -11,30 +11,14 @@
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://htsod.github.io/tags/statistical-mechanics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Solving the Ising Model</title>
+      <title>Solutions to the 2D and 3D Ising Model</title>
       <link>https://htsod.github.io/posts/ising_model/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/posts/ising_model/</guid>
       <description>This blogh reprodcues the transfer matrix solution to one dimensional Ising model and the numerical solution to the two dimensional Ising model. </description>
-    </item>
-    <item>
-      <title>Study Notes on Statistical Mechanics</title>
-      <link>https://htsod.github.io/review/statistical_mechanics/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/review/statistical_mechanics/</guid>
-      <description>Entropy, Order Parameters and Complexity What is statistical mechanics? Ensemble How to connect microscopic law with macroscopic phenomenon? The concept of ensemble provides a method that connects the two. Treating a large system(macroscopic) as collection of similarly prepared systems(microscopic).
-Entropy Entropy to be defined as a function of probability distribution \(p_{i}\) must satisfy the following:
-Maximum at \(\frac{1}{p_{i}}\) Minimum at \(p_{i} = 0 , S = 0\) Minimum at \(p_{i} = 1, S = 0\) The unique function that satisfies the above requirement is \(S=-p_{i}\log{p_{i}}\), giving rise to the information interpretation of entropy.</description>
-    </item>
-    <item>
-      <title>Study Notes on Network Theory</title>
-      <link>https://htsod.github.io/life_trivia/network/</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/life_trivia/network/</guid>
-      <description>This blog aims to summerize the essential theory and method of network study.</description>
     </item>
     <item>
       <title>Renormalization Group: A Descriptive Overview</title>

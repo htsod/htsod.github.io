@@ -11,16 +11,15 @@
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://htsod.github.io/tags/special-relativity/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Top-down derivation of Electromagnetism</title>
+      <title>Bottom-up derivation of Maxwell&#39;s Equations</title>
       <link>https://htsod.github.io/posts/maxwell_eqns_derive/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://htsod.github.io/posts/maxwell_eqns_derive/</guid>
-      <description>Relativity&amp;rsquo;s action principle constrains how light and matter interact within spacetime. By placing the potential term either inside or outside the action square root, we derive the familiar interactions of gravity or electromagnetism between matter. This post offers a top-down view of electromagnetism&amp;rsquo;s derivation from these fundamental principles.
-Relativistic Action To incorporate relativistic effects, the action is written as:
-$$ S = -m \int{ \sqrt{-\eta_{\mu \nu} dx^{\mu} dx^{\nu}} } = -m \sqrt{dt^{2} - d\vec{x}^{2}} $$</description>
+      <description>Can the order of physics discovery be differernt? From Zee Einstein&amp;rsquo;s Gravity in a nutshell, a hypothetical situation is proposed: a far away civilization where life was evolved from modular planet happen to understand the constancy of light before understanding electromagnetism. A brilliant physicist then could derived E.M. and gravity from the correct conception of space and time.
+The derivation was casted in a simplisitc manner: By placing the potential term either inside or outside the action square root, we obtain the familiar interactions of gravity or electromagnetism, with major concepts left unexplained.</description>
     </item>
   </channel>
 </rss>

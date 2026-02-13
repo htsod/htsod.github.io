@@ -1,7 +1,6 @@
 [
   {
     "ISBN": "9781400847457",
-    "URL": "https://books.google.co.jp/books?id=5Dy1hlKvmCYC",
     "author": [
       {
         "family": "Zee",
@@ -19,6 +18,92 @@
     },
     "publisher": "Princeton University Press",
     "title": "Einstein gravity in a nutshell",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-0750628969",
+    "author": [
+      {
+        "family": "Landau",
+        "given": "L. D."
+      },
+      {
+        "family": "Lifshitz",
+        "given": "E. M."
+      }
+    ],
+    "collection-title": "Course of theoretical physics",
+    "edition": "3",
+    "id": "LandauLifshitzMechanics",
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    },
+    "publisher": "Butterworth–Heinemann",
+    "publisher-place": "Oxford",
+    "title": "Mechanics",
+    "type": "book",
+    "volume": "1"
+  },
+  {
+    "ISBN": "978-0750627689",
+    "author": [
+      {
+        "family": "Landau",
+        "given": "L. D."
+      },
+      {
+        "family": "Lifshitz",
+        "given": "E. M."
+      }
+    ],
+    "collection-title": "Course of theoretical physics",
+    "edition": "4",
+    "id": "LandauLifshitzClassicalFields",
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "publisher": "Butterworth–Heinemann",
+    "publisher-place": "Oxford",
+    "title": "The classical theory of fields",
+    "type": "book",
+    "volume": "2"
+  },
+  {
+    "ISBN": "978-0123846549",
+    "author": [
+      {
+        "family": "Arfken",
+        "given": "George B."
+      },
+      {
+        "family": "Weber",
+        "given": "Hans J."
+      },
+      {
+        "family": "Harris",
+        "given": "Frank E."
+      }
+    ],
+    "edition": "7",
+    "id": "ArfkenWeberHarris",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "publisher": "Academic Press",
+    "publisher-place": "Boston",
+    "title": "Mathematical methods for physicists",
     "type": "book"
   }
 ]

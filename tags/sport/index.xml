@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sport on ButterCat</title>
-    <link>https://htsod.github.io/tags/sport/</link>
+    <link>http://localhost:1313/tags/sport/</link>
     <description>Recent content in Sport on ButterCat</description>
     <image>
       <title>ButterCat</title>
-      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
     <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://htsod.github.io/tags/sport/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sport/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Full-Marathon</title>
-      <link>https://htsod.github.io/life_trivia/first_marathon/</link>
+      <link>http://localhost:1313/life_trivia/first_marathon/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/life_trivia/first_marathon/</guid>
+      <guid>http://localhost:1313/life_trivia/first_marathon/</guid>
       <description>When I&amp;#39;m running, I will enter a great mental state. No matter how I felt before the run, I always end up feeling relieved and refreshed afterward.</description>
     </item>
   </channel>
