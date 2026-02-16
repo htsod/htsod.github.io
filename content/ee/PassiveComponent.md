@@ -46,7 +46,7 @@ By the end, you should be able to look at a passive network and predict—withou
 ### Current law
 
 
-In electronics, we are dealing with the flow of a fundmanetal particles known as electrons. These electron carry charges which is measured in \\(C\\) Coulum. Charges flowing through a area per unit time is defined as current \\(I = \frac{dQ}{dt} = \int{J da} \\), where \\(J\\) is the current density and \\(da\\) is the infinitesmal area.
+In electronics, we are dealing with the flow of a fundmanetal particle known as electron. These electrons carry a physical quantity measured in \\(C\\) Coulomb. Charges flowing through a area per unit time is defined as current \\(I = \frac{dQ}{dt} = \int{J da} \\) measured in \\(A\\) Ampere, where \\(J\\) is the current density and \\(da\\) is the infinitesmal area.
 
 The flow of current must follow the __Equation of Continuity__, which states that the net amount of charge flowing from a given volume must lead to the change of charge density in that volume:
 
@@ -58,14 +58,15 @@ $$ \int{\nabla \cdot J dV} = \int{\frac{\partial \rho}{\partial t} dV} $$
 
 $$ \nabla \cdot J = \frac{\partial \rho}{\partial t} $$
 
-When designing the system, we wish the state of the system to be time-independent. Hence, in the transient state, the net flow of current is zero:
+When designing the system, we wish the state of the system to be time-independent \\(\partial \rho / \partial t = 0\\). Hence, in the transient state, the net flow of current is zero:
 
-$$ \nabla \cdot J = 0$$
+$$  \nabla \cdot I = \int{\nabla \cdot J  da } =  0 $$
 
 In a circuitry, we working with network of components with inter-connecting nodes. Applying this to each node, then the net-flow of current into and out of the node must be zero.
 
 $$ \sum_{i}{I} = 0$$
 
+which is known as the __Kichroff's current law__.
 
 ### Voltage law
 
@@ -73,42 +74,72 @@ The motion of charge is determined by the electric field and the magnetic field.
 
 $$ F = q(E + v \times B)$$
 
-With the most general defination of electric fields and magnetic field:
+The electric fields \\(E\\) and magnetic field \\(B\\) in terms of scalar potential \\(V\\) and vector potential \\(A\\):
 
 $$ E = \frac{1}{c}\frac{\partial A}{\partial t} - \nabla V $$
 
 $$ B = \nabla \times A $$
 
-The work down by the field from point b to point a:
+The work done by the field from point b to point a:
 
-$$ W_{ba}=\int_{b}^{a}{F \cdot dr} = q\left(\int_{b}^{a}{E\cdot dr} + \int_{b}^{a}{v\times B\cdot dr}\right)$$
+$$ W_{ba}=\int_{b}^{a}{F \cdot dr} = q\left(\int_{b}^{a}{E\cdot dr} + \int_{b}^{a}{(v\times B)\cdot dr}\right)$$
 
-Since the second term on the right hand side is perpendicular to the path traveled, the dot product vanishes.
+Since the second term on the right hand side is perpendicular to the path traveled, the dot product vanishes. And substitute \\(E\\) into the equation:
 
 $$ W_{ba} = -qV_{ba} + \frac{q}{c}\int_{b}^{a}{\frac{\partial A}{\partial t}} \cdot dr $$
 
-In static magnetic field, where the vector potential \\(A\\) has no time dependent, the work done is now simplified to:
+which represents the work done on the charge by the electric field. The first term is straightforward: a charge gain energy from the __potential difference__ \\(V_{ba}\\) from \\(a\\) to \\(b\\). The second term is related to the change of magnetic flux \\(\Phi = B \cdot A\\). To see this, first assume it is a closed-loop integral \\(a = b\\) which the potential difference \\(V\\) vanishes.
+
+$$ W_{closed} = \frac{q}{c} \frac{\partial }{\partial t}\oint{ A \cdot dr} = \frac{q}{c} \frac{\partial }{\partial t}\int{ \nabla \times A \cdot da}$$
+
+$$ W_{closed} = \frac{q}{c} \frac{\partial \Phi}{\partial t}  $$
+
+Hence, a charge also gains energy moving in a closed loop from a change of magnetic flux. The contribution from the magnetic field is significantly smaller because it is scaled down by the speed of light \\(c = 3\times 10^{8} ms^{-1}\\).
+
+In static magnetic field, where there is no change of flux, the work done is now simplified to:
 
 $$ W_{ba} = -qV_{ba} = -q(V_{b} - V_{a}) $$
 
-When that applies to circuitry, we can identify two nodes in the circuit, then the work done on the charge will be characterized by the voltage difference across these components. Furthermore, if we studying a circuit will closed loop, equivalently this will be taking a closed loop integral:
+When that applies to circuitry, we can identify two nodes in the circuit, then the work done on the charge will be characterized by the voltage difference across these components. Furthermore, if we studying a circuit of a closed loop:
 
 $$ \sum_{i}{V_{i}} = 0$$
 
-which states that the net voltage drop around a loop must be zero.
+
+which states that __the net voltage-drop around a circuit loop must be zero__.
 
 ### Relation between voltage and current
 
-Taking time derivative of the work done by the field from point b to point a and treating the voltages as a constant.
+To characterize how electronics modify the signal, we study how does the energy carried by the charge being modified across the compoenent. This can be done by taking time derivative on the work done by the field from point \\(a\\) to point \\(b\\).
 
-$$ \frac{d W_{ab}}{dt} = I V_{ab} $$
+$$ \frac{d W_{ab}}{dt} = \frac{d}{dt}(qV_{ab}) $$
 
-which states that when a current flow from a potential difference that gains or losses energy.
+The potential difference \\(V_{ab}\\) is determined by the spatial distribution of charges within the region. In designing a stable system, we are generally interested in the transient behavior of the system: the system's microscopic interaction happen in a much smaller time-scale that the system's observables will be stablized immediately. In this case, the charges will equilibrate so fast that their configuration will become stable immediately and leading to a constant voltage difference across the component.
+
+$$ \frac{dW_{ab}}{dt} = \frac{dq}{dt}V_{ab} = I V_{ab}$$
+
+which says that the if a current is flowing through a potential difference of \\(V_{ba}\\), there is a dissipation of energy across the component. Or in other words, a electronics component modifies the signal by changing the energy carried by the charge. And this can be measured from the current flow, the voltage difference and the relation between the two. 
 
 ### Conductor
 
-In discussion both voltage and current we avoided the media in which the charge is being transported. But to deliver electrons from components to components, we use a conductor retains a equal voltage on its surface. That preserves the voltage signal from components to components.
+A conductor, in a simple definition, is a type of material that allows for free movement of electrons. It contains a "sea" of electrons that constantly interacting and react instantly to the external field, such that it equilibrate to a stable configuration at a time-scale of \\(t< 10^{-12}\\). We can then make the assumption that there is no motion of charge within the conductor and hence no electric field within the conductor:
 
+$$ E_{inside} = 0 $$
+
+From the Maxwell's equation we have:
+
+$$ \int_{V}{(\nabla \cdot E_{inside})dV}= \int_{V}{\frac{\rho}{ \epsilon_{0}}dV} = \frac{Q_{enclosed}}{\epsilon_{0}} = 0 $$
+
+The charge does not live inside the conductor but it resides on the surface of the conductor.
+
+If we do a closed line-integral just right above the surface, so that the perpendicular component approach zero, we have:
+
+$$ \oint_{P}{E\cdot dr} = E_{||} d + E_{inside} d = 0$$
+
+where \\(E_{||}\\) represents the parallel Electric field just above the surface. Writing it as potential connecting one point to another point of the conductor:
+
+$$ \int_{a}^{b}{ E_{||} \cdot dr} = -(V_{b} - V_{a}) = 0 $$
+
+Here we arrived at a important result of conductor: the conductor surface is at a equal potential. From our previous discussion, the change of energy across a component is characterized by product of the voltage difference and current. Hence, for current flowing through a conductor, there is no change of energy which preserves the integrity of the signal.
 
 ### Ohm's law
 
@@ -494,7 +525,7 @@ A different perspective on the result is that, the RC circuit with output measur
 
 2. _Case 2: Output Voltage across the Resistor_
 
-{{< figure src="/ee_basic/figures/RC_resistor_sim.png" 
+{{< figure src="/ee_basic/figures/RC_resistor.png" 
            alt="" 
            caption="" 
            target="_blank" 

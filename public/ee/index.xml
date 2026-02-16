@@ -2,30 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Electrical Engineering on ButterCat</title>
-    <link>https://htsod.github.io/ee/</link>
+    <link>http://localhost:1313/ee/</link>
     <description>Recent content in Electrical Engineering on ButterCat</description>
     <image>
       <title>ButterCat</title>
-      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
     <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://htsod.github.io/ee/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Study Notes in Electrical Engineering</title>
-      <link>https://htsod.github.io/ee/ee_core/</link>
+      <link>http://localhost:1313/ee/ee_core/</link>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/ee/ee_core/</guid>
+      <guid>http://localhost:1313/ee/ee_core/</guid>
       <description>Table of Content I. Passive Components 1. Resistor circuit Current law Voltage law Voltage and Current Relation Conductor Resistor and Ohm&amp;rsquo;s law Thevenin&amp;rsquo;s theorem 2. RCL circuit Capacitance Inductance Linear ODE form by R, C and L Time Series Analysis Transfer function Example: Band-stop and Band-pass II. Nonlinear Devices 3. Diode Rectifier Zener diode Shottky diodes 4. Simple Modelling of Bipolar Junction Transistor Bipolar Junction Transistor 5. Mathematical Model of BJT Ebers-Moll-Early Model Gummel-Poon Model 6.</description>
     </item>
     <item>
       <title>Passive Components: Physical Laws, Transient Dynamics, and Resonance</title>
-      <link>https://htsod.github.io/ee/passivecomponent/</link>
+      <link>http://localhost:1313/ee/passivecomponent/</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/ee/passivecomponent/</guid>
+      <guid>http://localhost:1313/ee/passivecomponent/</guid>
       <description>Passive components—resistors, capacitors, and inductors—look deceptively simple on a schematic. Yet every analog circuit you’ll ever trust (filters, amplifiers, sensor front-ends, timing networks, resonators) is built on the way these three elements enforce conservation laws and store or dissipate energy. This post takes a physics-forward route into passives: starting from charge flow and electromagnetic work, we motivate Kirchhoff’s current and voltage laws, connect them to Ohm’s law, and build intuition for why “voltage drops” and “current continuity” are more than rules-of-thumb.</description>
+    </item>
+    <item>
+      <title>Nonlinear Devices</title>
+      <link>http://localhost:1313/ee/nonlineardevices/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ee/nonlineardevices/</guid>
+      <description>3. Diode Diode semiconductor. basic properties. Equation of behavior. Graph.
+Rectifier ((diode circuit: ac to dc))
+half-wave
+full-wave
+Zener diode ((Zener diode for power regulation))
+Schottky Diodes switching
+Example: Cockrofz-Walton Multiplier 4. Simple Model of Transistor Bipolar Junction Transistor Semiconductor understanding of BJT. Characteristic of BJT and region of behavior. Simple model of BJT (beta). Graph of BJT.
+((common mode amplifier, follower, current mirror))
+Example: Radio: AM Demodulation Radio Signal</description>
+    </item>
+    <item>
+      <title>Operational Amplifier Basics</title>
+      <link>http://localhost:1313/ee/opampbasic/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ee/opampbasic/</guid>
+      <description>6. Ideal Op-Amp Op-Amp Basic Basic rules of Op-Amp (refer back to JFET Op-Amp, CMRR)
+Negative Feedback loop ((Unity gain Buffer/Follower))
+((Inverting Amplifier))
+((Non-inverting Amplifier))
+Finite-Gain analysis answer the why to have large gain and feedback loop.
+((Summing Amplifier))
+((Differential Amplifier))
+Op-Amp Filters ((Differentiator))
+((Integrator))
+Non-ideal Op-Amp Deviation from the ideal input-biase current
+impedance balancing
+input offset current
+Power-supply rejection
+7. Noise Analysis Voltage-noise spectral density
+Johnson-Nyquist Noise
+Shot Noise</description>
+    </item>
+    <item>
+      <title>Control Theory</title>
+      <link>http://localhost:1313/ee/controltheory/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ee/controltheory/</guid>
+      <description>9. PID Control Linear control plants Proportion Control
+Integral control
+Derivative control
+Proportion-Integral (PI) Control Proportional-Integral-Derivative (PID) Control ((PID Motor Control Loop))
+10. Optimal Control Theory Multi-In Multi-Out control problem.
+Calculus of Variation Pontryagin&amp;rsquo;s Minimum Principle Example: Radio Transmitter and Receiver </description>
+    </item>
+    <item>
+      <title>Digital Electronics</title>
+      <link>http://localhost:1313/ee/digitalelectronics/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ee/digitalelectronics/</guid>
+      <description>11. Logic Gate and Boolean Algebra Logic table Combinational logic
+Hexadecimal notation
+Programmable array
+Noise Immunity
+Physical realization of logic gate
+TTL and CMOS
+12. Flip-flop Sequential Circuit
+((Dflop/SR flip flop))
+Asychronous and Synchronous Counter
+13. Memory Data Bus
+Memory
+State Machine
+14. Digital-Analog Interface ((ADC))
+((CDA))
+15. Phase-Lock Loops Dynamics model of phase-lock loops Example: </description>
+    </item>
+    <item>
+      <title>Information Processing</title>
+      <link>http://localhost:1313/ee/informationprocessing/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ee/informationprocessing/</guid>
+      <description>16. Microprocessor ((Blink a LED))
+17. Assembly Language ((Compare with C))
+18. Bit Operation 19. Interupt Process 20. Moving Pointers; Serial Bus SPI
+I2C
+UART
+21. Data Table Example: </description>
+    </item>
+    <item>
+      <title>Mathematics and Physics Appendices</title>
+      <link>http://localhost:1313/ee/appendices/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ee/appendices/</guid>
+      <description>Physics and Mathematics Appendics Fourier Series Electromagnetism Voltage, resistance, current capacitance, inductance
+Statistical Mechanics Configuration space, analog and digital Signal, Information and noise Semiconductor (band theory)</description>
     </item>
   </channel>
 </rss>

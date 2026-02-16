@@ -74,12 +74,12 @@ params:
     Content: "Hi there! I'm dedicated this blog to share my study notes on Physics, Math, Computation. Enjoy your stay! :)"
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/Max1466152502"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/tianming-liang-29b670210/"
     - name: github
       url: "https://github.com/htsod"
-    - name: instagram
-      url: "https://instagram.com"
+    # - name: instagram
+    #   url: "https://instagram.com"
     # - name: paypal
     #   url: "https://paypal.com"
 

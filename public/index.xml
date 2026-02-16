@@ -2,79 +2,195 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ButterCat</title>
-    <link>https://htsod.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on ButterCat</description>
     <image>
       <title>ButterCat</title>
-      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
     <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://htsod.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Study Notes in Electrical Engineering</title>
-      <link>https://htsod.github.io/ee/ee_core/</link>
+      <link>http://localhost:1313/ee/ee_core/</link>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/ee/ee_core/</guid>
+      <guid>http://localhost:1313/ee/ee_core/</guid>
       <description>Table of Content I. Passive Components 1. Resistor circuit Current law Voltage law Voltage and Current Relation Conductor Resistor and Ohm&amp;rsquo;s law Thevenin&amp;rsquo;s theorem 2. RCL circuit Capacitance Inductance Linear ODE form by R, C and L Time Series Analysis Transfer function Example: Band-stop and Band-pass II. Nonlinear Devices 3. Diode Rectifier Zener diode Shottky diodes 4. Simple Modelling of Bipolar Junction Transistor Bipolar Junction Transistor 5. Mathematical Model of BJT Ebers-Moll-Early Model Gummel-Poon Model 6.</description>
     </item>
     <item>
       <title>Universality and Scale Invaraince at the Criticality of Site-Bond Percolation Network</title>
-      <link>https://htsod.github.io/posts/percolation_network/</link>
+      <link>http://localhost:1313/posts/percolation_network/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/percolation_network/</guid>
+      <guid>http://localhost:1313/posts/percolation_network/</guid>
       <description>Site and bond percolation models exhibit a phase transition at a shared critical point, where both demonstrate self-similarity and scale invariance—hallmarks of continuous phase transitions. Using the Renormalization Group (RG) method in ( Citation: Sethna,&amp;#32;2020 Sethna,&amp;#32; J.&amp;#32; (2020). &amp;#32; Entropy, Order Parameters, and Complexity (2). &amp;#32; Clarendon Press. ) , which proposed a scaling procedure from the assumption of self-similar, we derive the scaling exponents for the percolation universality class. While this top-down approach offers pedagogical simplicity, it lacks the physical intuition provided by the Ginzburg-Landau framework.</description>
     </item>
     <item>
       <title>Phases Transition and Renormalization Group method applied in Random Graphs Model</title>
-      <link>https://htsod.github.io/posts/small_world/</link>
+      <link>http://localhost:1313/posts/small_world/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/small_world/</guid>
+      <guid>http://localhost:1313/posts/small_world/</guid>
       <description>In this blog, we start with a qualitative overview of the small-world effect, also known as the &amp;ldquo;six degrees of separation,&amp;rdquo; followed by a quantitative analysis using computational methods, and finally, a description of the phenomenon through the framework of phase transitions and critical phenomena. From the surface level to deeper insights, I aim to explore the mechanics underlying this phenomenon and how this understanding can be extended to other large-scale phenomena.</description>
     </item>
     <item>
+      <title>Group Theory Application in Quantum Mechanics</title>
+      <link>http://localhost:1313/posts/group_solid/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/group_solid/</guid>
+      <description>This investigation started in the consideration of quantum solids which invariably have to solve for a many-bodies quantum problem. Many particles quantum mechanics, just like its classical counter parts, is desparately intractable. The exactly solvable problem, to name a few, are the free particle, harmonics oscilator and hydrogen atom. The question is then, to solve the many-particles quantum problem with the tools we have in these solvable models. All these solvable model has a potential energy term that is invariant under a symmetrical transformation, thus allowing for specifying the quantum system with integers labeling the irreducible representation.</description>
+    </item>
+    <item>
+      <title>Fermi suface: A Geometry Interpretation of Conductors</title>
+      <link>http://localhost:1313/posts/fermi_surface/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fermi_surface/</guid>
+      <description>Introduction Free Electron Model: Sommerfield Model Bands structure tells us the availible states in a unit cell. The number of electrons in a unit cell determine the occupation of those bands. One way to evaluate these effect is through the examination of the Fermi surface, which determine the equal energy surface of the electrons.
+Free electron surface Sommerfeld free electron model describe \( N \) number of fermions without any interaction, not even the columbic interaction between those \(N\) electron.</description>
+    </item>
+    <item>
       <title>Fourier Transforms: A Group Theoretic Perspective</title>
-      <link>https://htsod.github.io/posts/fourier/</link>
+      <link>http://localhost:1313/posts/fourier/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/fourier/</guid>
+      <guid>http://localhost:1313/posts/fourier/</guid>
       <description>Group theory is powerful in analysis problem with symmetry. This blog aims at giving an example on how Fourier Theorem could be derived on the ground of group theory.</description>
     </item>
     <item>
       <title>Wave Equation Approach and Matrix Method Derivation of the Schrodinger Equation</title>
-      <link>https://htsod.github.io/posts/wave_particle/</link>
+      <link>http://localhost:1313/posts/wave_particle/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/wave_particle/</guid>
+      <guid>http://localhost:1313/posts/wave_particle/</guid>
       <description>Both the Schrödinger wave equation and the Heisenberg matrix method are fundamental approaches to quantum mechanics, each offering a unique perspective. To unify them, we recognize that while they approach the problem differently, they ultimately describe the same quantum phenomena.</description>
     </item>
     <item>
+      <title>Title</title>
+      <link>http://localhost:1313/archetypes/default/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archetypes/default/</guid>
+      <description>Title A concise and descriptive title that captures the essence of your research project.
+Abstract A brief summary of the research project, highlighting the key research question, methodology, expected outcomes, and significance.
+Introduction Background: Provide a comprehensive overview of the relevant physics concepts and current understanding of the research area.
+Motivation: Explain the rationale behind your research, including the gap in knowledge or unanswered questions you aim to address.
+Literature Review Relevant Studies: Critically analyze existing research related to your topic, highlighting key findings, limitations, and potential areas for further exploration.</description>
+    </item>
+    <item>
       <title>Solutions to the 2D and 3D Ising Model</title>
-      <link>https://htsod.github.io/posts/ising_model/</link>
+      <link>http://localhost:1313/posts/ising_model/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/ising_model/</guid>
+      <guid>http://localhost:1313/posts/ising_model/</guid>
       <description>This blogh reprodcues the transfer matrix solution to one dimensional Ising model and the numerical solution to the two dimensional Ising model. </description>
     </item>
     <item>
       <title>Bottom-up derivation of Maxwell&#39;s Equations</title>
-      <link>https://htsod.github.io/posts/maxwell_eqns_derive/</link>
+      <link>http://localhost:1313/posts/maxwell_eqns_derive/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/maxwell_eqns_derive/</guid>
+      <guid>http://localhost:1313/posts/maxwell_eqns_derive/</guid>
       <description>Can the order of physics discovery be differernt? From Zee Einstein&amp;rsquo;s Gravity in a nutshell, a hypothetical situation is proposed: a far away civilization where life was evolved from modular planet happen to understand the constancy of light before understanding electromagnetism. A brilliant physicist then could derived E.M. and gravity from the correct conception of space and time.
 The derivation was casted in a simplisitc manner: By placing the potential term either inside or outside the action square root, we obtain the familiar interactions of gravity or electromagnetism, with major concepts left unexplained.</description>
     </item>
     <item>
       <title>Passive Components: Physical Laws, Transient Dynamics, and Resonance</title>
-      <link>https://htsod.github.io/ee/passivecomponent/</link>
+      <link>http://localhost:1313/ee/passivecomponent/</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/ee/passivecomponent/</guid>
+      <guid>http://localhost:1313/ee/passivecomponent/</guid>
       <description>Passive components—resistors, capacitors, and inductors—look deceptively simple on a schematic. Yet every analog circuit you’ll ever trust (filters, amplifiers, sensor front-ends, timing networks, resonators) is built on the way these three elements enforce conservation laws and store or dissipate energy. This post takes a physics-forward route into passives: starting from charge flow and electromagnetic work, we motivate Kirchhoff’s current and voltage laws, connect them to Ohm’s law, and build intuition for why “voltage drops” and “current continuity” are more than rules-of-thumb.</description>
     </item>
     <item>
+      <title>Nonlinear Devices</title>
+      <link>http://localhost:1313/ee/nonlineardevices/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ee/nonlineardevices/</guid>
+      <description>3. Diode Diode semiconductor. basic properties. Equation of behavior. Graph.
+Rectifier ((diode circuit: ac to dc))
+half-wave
+full-wave
+Zener diode ((Zener diode for power regulation))
+Schottky Diodes switching
+Example: Cockrofz-Walton Multiplier 4. Simple Model of Transistor Bipolar Junction Transistor Semiconductor understanding of BJT. Characteristic of BJT and region of behavior. Simple model of BJT (beta). Graph of BJT.
+((common mode amplifier, follower, current mirror))
+Example: Radio: AM Demodulation Radio Signal</description>
+    </item>
+    <item>
+      <title>Operational Amplifier Basics</title>
+      <link>http://localhost:1313/ee/opampbasic/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ee/opampbasic/</guid>
+      <description>6. Ideal Op-Amp Op-Amp Basic Basic rules of Op-Amp (refer back to JFET Op-Amp, CMRR)
+Negative Feedback loop ((Unity gain Buffer/Follower))
+((Inverting Amplifier))
+((Non-inverting Amplifier))
+Finite-Gain analysis answer the why to have large gain and feedback loop.
+((Summing Amplifier))
+((Differential Amplifier))
+Op-Amp Filters ((Differentiator))
+((Integrator))
+Non-ideal Op-Amp Deviation from the ideal input-biase current
+impedance balancing
+input offset current
+Power-supply rejection
+7. Noise Analysis Voltage-noise spectral density
+Johnson-Nyquist Noise
+Shot Noise</description>
+    </item>
+    <item>
+      <title>Control Theory</title>
+      <link>http://localhost:1313/ee/controltheory/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ee/controltheory/</guid>
+      <description>9. PID Control Linear control plants Proportion Control
+Integral control
+Derivative control
+Proportion-Integral (PI) Control Proportional-Integral-Derivative (PID) Control ((PID Motor Control Loop))
+10. Optimal Control Theory Multi-In Multi-Out control problem.
+Calculus of Variation Pontryagin&amp;rsquo;s Minimum Principle Example: Radio Transmitter and Receiver </description>
+    </item>
+    <item>
+      <title>Digital Electronics</title>
+      <link>http://localhost:1313/ee/digitalelectronics/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ee/digitalelectronics/</guid>
+      <description>11. Logic Gate and Boolean Algebra Logic table Combinational logic
+Hexadecimal notation
+Programmable array
+Noise Immunity
+Physical realization of logic gate
+TTL and CMOS
+12. Flip-flop Sequential Circuit
+((Dflop/SR flip flop))
+Asychronous and Synchronous Counter
+13. Memory Data Bus
+Memory
+State Machine
+14. Digital-Analog Interface ((ADC))
+((CDA))
+15. Phase-Lock Loops Dynamics model of phase-lock loops Example: </description>
+    </item>
+    <item>
+      <title>Information Processing</title>
+      <link>http://localhost:1313/ee/informationprocessing/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ee/informationprocessing/</guid>
+      <description>16. Microprocessor ((Blink a LED))
+17. Assembly Language ((Compare with C))
+18. Bit Operation 19. Interupt Process 20. Moving Pointers; Serial Bus SPI
+I2C
+UART
+21. Data Table Example: </description>
+    </item>
+    <item>
+      <title>Mathematics and Physics Appendices</title>
+      <link>http://localhost:1313/ee/appendices/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ee/appendices/</guid>
+      <description>Physics and Mathematics Appendics Fourier Series Electromagnetism Voltage, resistance, current capacitance, inductance
+Statistical Mechanics Configuration space, analog and digital Signal, Information and noise Semiconductor (band theory)</description>
+    </item>
+    <item>
       <title>Renormalization Group: A Descriptive Overview</title>
-      <link>https://htsod.github.io/posts/rg_method/</link>
+      <link>http://localhost:1313/posts/rg_method/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/rg_method/</guid>
+      <guid>http://localhost:1313/posts/rg_method/</guid>
       <description>Renormalization Group Approach in Dynamical System The renormalization group (RG) method is an approximation technique initially developed for solving strongly interacting many-body problems in quantum field theory, where perturbative solutions deviate from the actual solutions. The fundamental concept of the renormalization group approach is to eliminate irrelevant degrees of freedom in a physical system while preserving its essential characteristics ( Citation: P. Kopietz,&amp;#32;2010 P. Kopietz,&amp;#32; F.&amp;#32; (2010). &amp;#32; Introduction to the Functional Renormalization Group (1).</description>
     </item>
   </channel>
