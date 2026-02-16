@@ -25,7 +25,7 @@
       <link>http://localhost:1313/ee/passivecomponent/</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ee/passivecomponent/</guid>
-      <description>Passive components—resistors, capacitors, and inductors—look deceptively simple on a schematic. Yet every analog circuit you’ll ever trust (filters, amplifiers, sensor front-ends, timing networks, resonators) is built on the way these three elements enforce conservation laws and store or dissipate energy. This post takes a physics-forward route into passives: starting from charge flow and electromagnetic work, we motivate Kirchhoff’s current and voltage laws, connect them to Ohm’s law, and build intuition for why “voltage drops” and “current continuity” are more than rules-of-thumb.</description>
+      <description>Passive components—resistors, capacitors, and inductors—look deceptively simple on a schematic. Yet every analog circuit is built on the way these three elements enforce conservation laws and store or dissipate energy. This post takes a physics-forward route into passives: starting from charge flow and electromagnetic work, we motivate Kirchhoff’s current and voltage laws, connect them to Ohm’s law, and build intuition for why “voltage drops” and “current continuity” are more than rules-of-thumb.</description>
     </item>
     <item>
       <title>Nonlinear Devices</title>

@@ -36,9 +36,9 @@ editPost:
 ---
 
 
-Passive components—resistors, capacitors, and inductors—look deceptively simple on a schematic. Yet every analog circuit you’ll ever trust (filters, amplifiers, sensor front-ends, timing networks, resonators) is built on the way these three elements enforce conservation laws and store or dissipate energy. This post takes a physics-forward route into passives: starting from charge flow and electromagnetic work, we motivate Kirchhoff’s current and voltage laws, connect them to Ohm’s law, and build intuition for why “voltage drops” and “current continuity” are more than rules-of-thumb.
+Passive components—resistors, capacitors, and inductors—look deceptively simple on a schematic. Yet every analog circuit is built on the way these three elements enforce conservation laws and store or dissipate energy. This post takes a physics-forward route into passives: starting from charge flow and electromagnetic work, we motivate Kirchhoff’s current and voltage laws, connect them to Ohm’s law, and build intuition for why “voltage drops” and “current continuity” are more than rules-of-thumb.
 
-From there we move into what makes circuits dynamic. Capacitors and inductors introduce memory—energy stored in electric and magnetic fields—so even the simplest RC or LC connection becomes a differential equation. We’ll use that ODE viewpoint to explain transient behavior (charging, discharging, damping), then switch perspectives to the frequency domain where the same circuits become low-pass filters, high-pass filters, and resonators. Along the way we’ll interpret time constants, 3 dB points, phase shifts, and Q factor as different faces of the same underlying physics.
+From there we move into what makes circuits dynamic. Capacitors and inductors introduce energy stored in electric and magnetic fields—so even the simplest RC or LC connection becomes a differential equation. We’ll use that ODE viewpoint to explain transient behavior (charging, discharging, damping), then switch perspectives to the frequency domain where the same circuits become low-pass filters, high-pass filters, and resonators. Along the way we’ll interpret time constants, \\(3 dB \\) points, phase shifts, and Q factor as different faces of the same underlying physics.
 
 By the end, you should be able to look at a passive network and predict—without memorizing formulas—what it will do to a signal in time and in frequency, and why.
 
@@ -143,15 +143,13 @@ Here we arrived at a important result of conductor: the conductor surface is at 
 
 ### Ohm's law
 
-In nonideal case, flowing electrons might bump into the materials atom and create friction that waste extra energy in transporting. But Ohm's states that eventually it will reach a transient state where a potential difference create a constant flow of electron, meaning the current is proportional to the potential differences:
+In non-conductive materials, they usually do not have the sea of electron to provide the charge mobility. The flowing electrons might bump into the material's atoms and create friction that dissipates energy while transporting. Ohm's states that eventually it will reach a transient state where a potential difference create a constant flow of electron, meaning the current is proportional to the potential differences:
 
 $$ V \propto I $$
 
-The proportionality constant is called resistance \\(R\\) in what unit. This gives Ohm's law:
+The proportionality constant is called resistance \\(R\\) measued in ohms \\(\Omega \\). This gives Ohm's law:
 
 $$ V = IR $$
-
-Ohm's law states that relation between voltage and current is a constant.
 
 The power dissipation across a components for a Ohmic material is then:
 
@@ -161,7 +159,7 @@ $$ P = VI = I^{2}R = \frac{V^{2}}{R}$$
 
 Suppose we have two system blocks, each with its input and output. When we connect the output of the first system to the input of the second system, both systems interact and the signal and power transfer changes accordingly.
 
-Thevenin's theorem states that the any two system blocks of resistors could be simplified as a source voltage, source resistance, supply voltage and load resistance. This generalizes to any single input and single output resistor network.
+Thevenin's theorem states that any two system blocks of resistors could be simplified as a source voltage, source resistance and load resistance. This generalizes to any single input and single output resistor network.
 
 To find the Thevenin equivalent voltage and Thevenin equivalent resistance can be calculated as such:
 
@@ -174,17 +172,16 @@ Alternatively, Thevenin equivalent resistance can also be computed as such:
 2. (b) Replace all EMF by short, and computes the equivalent resistance at the output.
 
 
-- Potential Divider: Voltage signal and Power distribution Considerations
+- __Potential Divider__: Voltage signal and Power distribution Considerations
 
 A simpliest example would be a potential divider. If two resistors are treated as two separate systems that connect in series, the potential difference distribute to each of the resistor by the ratio of the resistance.
 
-((Potential divider circuit))
 
 <!-- - Matrix solution of resistor network -->
 
 {{< figure src="/ee_basic/figures/potential_divider.png" 
            alt="" 
-           caption="" 
+           caption="A potential divider circuit" 
            target="_blank" 
            width="300" 
            height="300" 
@@ -217,13 +214,12 @@ The maximizing condition gives \\(R_{1} = R_{2}\\) for the source to deliver the
 
 When working with more than one stages, Thevenin's theorem comes in handy because it reduces stages into \\(V_{Th}\\), \\(R_{Th}\\) and \\(R_{load}\\). Suppose now we are using the potential divider as a driver, to drive a resistive load \\(R_{load}\\):
 
-((Potential Divider with load))
 
 {{< figure src="/ee_basic/figures/potential_divider_sim.png" 
            alt="" 
-           caption="" 
+           caption="Loading a potential divider circuit. Simulation shows tht the voltage drop across \\(R_{load} = 3.6 V\\)" 
            target="_blank" 
-           width="400" 
+           width="380" 
            height="300" 
            align="center" 
            class="custom-class">}}
@@ -240,7 +236,7 @@ The Thevenin equivalent circuit for the potential divider is then can be drawn a
 
 {{< figure src="/ee_basic/figures/pd_thevenin_sim.png" 
            alt="" 
-           caption="" 
+           caption="Thevenin equivalent circuit. The simulation result shows 3.6V votlage drop." 
            target="_blank" 
            width="380" 
            height="300" 
@@ -257,7 +253,8 @@ which agrees with the simulation value of the potential divider circuit with a r
 
 ## 2. RCL circuit
 
-Beside resistors, we have two different components that behaves in quite a different manner; they store energy in the form of electric field and magnetic field. These properties allow us to build more than just resistors network.
+Beside resistive loads, we have two different components that behaves in quite a different manner, the capacitance and inductance; they store energy in the form of electric field and magnetic field. Resistor network allows us to split the power distribution across different loads. Whereas capacitive and inductive loads react to the input signal of different frequencies.
+
 
 ### Capacitance
 
@@ -335,7 +332,7 @@ For a solenoid with N loops around, the inductant can be generalized to the foll
 
 $$L = \frac{\mu_{0}rN}{2} $$
 
-Physicsally, the inductance is the ability to resist the change of current by generating a potential difference. Same as capacitance, it is also a constant that only depends on how the current loop is configurated.
+Physically, the inductance is the ability to resist the change of current by generating a potential difference. The inductance is also a constant that depends on how the current loop is configurated.
 
 <!-- By assembling charges from infinity (assuming the potential goes to zero at infinity), the total energy can be expressed as:
 
@@ -378,7 +375,7 @@ If we connect resistor and capacitor in series, the current running through both
 
 {{< figure src="/ee_basic/figures/RC_series.png" 
            alt="" 
-           caption="" 
+           caption="A simple RC circuit connected in series" 
            target="_blank" 
            width="400" 
            height="300" 
@@ -398,7 +395,7 @@ What if we connect the RC in a parallel fashion?
 
 {{< figure src="/ee_basic/figures/RC_parallel.png" 
            alt="" 
-           caption="" 
+           caption="RC circuit connected in parallel" 
            target="_blank" 
            width="400" 
            height="300" 
@@ -423,7 +420,7 @@ If connecting them in series,
 
 {{< figure src="/ee_basic/figures/CL_series.png" 
            alt="" 
-           caption="" 
+           caption="A CL circuit connected in series" 
            target="_blank" 
            width="400" 
            height="300" 
@@ -434,7 +431,7 @@ $$ C\frac{d^{2}V_{C}}{dt^{2}} = \frac{dI}{dt} = \frac{V_{L}}{L}$$
 
 $$ \frac{d^{2}V_{C}}{dt^{2}} = \frac{dI}{dt} = \frac{1}{LC}V_{L} $$
 
-Connecting them in parallel:
+If they were connected in parallel:
 
 $$ L \frac{d^{2}I_{L}}{dt^{2}} = \frac{I_{C}}{C}$$
 
@@ -456,11 +453,11 @@ $$ \frac{dV_{C}}{dt} = \frac{V_{R}}{RC}$$
 
 By configuring the input and output voltage accordingly, we will have different dependent of \\(V_{in}\\) and \\(V_{out}\\) in place of \\(V_{C}\\) and \\(V_{R}\\).
 
-1. _Case 1: Output voltage across capacitor_
+1. __Case 1: Output voltage across capacitor__
 
 {{< figure src="/ee_basic/figures/RC_capacitor_sim.png" 
            alt="" 
-           caption="" 
+           caption="A RC circuit conneccted in series with output measured across the capacitor" 
            target="_blank" 
            width="500" 
            height="300" 
@@ -506,7 +503,7 @@ This can be illustrated by simulation with an input voltage of a square wave of 
 
 {{< figure src="/ee_basic/figures/rc_time_plot.png" 
            alt="" 
-           caption="" 
+           caption="RC circuit simulation with square wave input. It shows both the charging process and the discharging process." 
            target="_blank" 
            width="450" 
            height="400" 
@@ -523,11 +520,11 @@ The rate of decaying depends on the product of capacitance and resistance, which
 
 A different perspective on the result is that, the RC circuit with output measures across the capacitor is considered as integrator on the input voltage. This can be eaily shown in the equation as well as on the time series plot. This might come in handy when working with experiment that has a meaningful integral output.
 
-2. _Case 2: Output Voltage across the Resistor_
+2. __Case 2: Output Voltage across the Resistor__
 
 {{< figure src="/ee_basic/figures/RC_resistor.png" 
            alt="" 
-           caption="" 
+           caption="RC circuit connected in series with output measured across the resistor." 
            target="_blank" 
            width="450" 
            height="300" 
@@ -582,10 +579,10 @@ At the \\(t = t_{0}\\), \\(V_{out}(t)\\) jumps from \\(0V\\) to \\(V_{const}\\),
 
 {{< figure src="/ee_basic/figures/rc_diff_plt.png" 
            alt="" 
-           caption="" 
+           caption="RC circuit with output measured across the resistor. It behaves as a differentiator to the input signal." 
            target="_blank" 
-           width="380" 
-           height="300" 
+           width="450" 
+           height="400" 
            align="center" 
            class="custom-class">}}
 
@@ -597,11 +594,11 @@ The sharply peaked behavior of the capacitor is known as a differentiator becaus
 
 
 
-3. _Case 3: RCL parallel resonant circuit_
+3. __Case 3: RCL parallel resonant circuit__
 
 {{< figure src="/ee_basic/figures/rcl_parallel_sim1.png" 
            alt=""
-           caption=""
+           caption="Resistor and capacitor connected parallel to the inductor forming a resonance circuit."
            target="_blank"
            width="420"
            height="300"
@@ -644,15 +641,15 @@ For the above RCL resonant circuit, the resonant frequency is \\(f_{0} = 1/(2\pi
 
 {{< figure src="/ee_basic/figures/rcl_parallel_time_sim.png" 
            alt=""
-           caption=""
+           caption="Time series plot of both input and output signal. The output signal shifted in phase and being attenuated."
            target="_blank"
-           width="420"
+           width="450"
            height="400"
            align="center"
            class="custom-class">}}
 
 
-(The addition of the forcing term added complexity to the solution, that, I want to save it for future endeavors. Solve it using integral transform)
+<!-- (The addition of the forcing term added complexity to the solution, that, I want to save it for future endeavors. Solve it using integral transform) -->
 
 If we isolate the system itself by assuming zero input voltage and giving it a initial swing, how will the system behave? This is equivalent to solve for the homogeneous equation. The properties of the homogeneous solution of the damped oscillation is instrinsic to the system. In order words, its properties depend on the resistance, capacitant and inductant. Define the terms:
 
@@ -699,10 +696,10 @@ Plotting these different solutions and compare their behavior overtime:
 
 {{< figure src="/ee_basic/figures/oscillator.png" 
            alt=""
-           caption=""
+           caption="Three types of solution for a damped oscillation."
            target="_blank"
-           width="420"
-           height="300"
+           width="450"
+           height="380"
            align="center"
            class="custom-class">}}
 
@@ -762,9 +759,9 @@ Hence, for RC circuit:
 
 {{< figure src="/ee_basic/figures/RC_resistor.png" 
            alt="" 
-           caption="" 
+           caption="A differentiator also behaves as a high-pass filter." 
            target="_blank" 
-           width="450" 
+           width="460" 
            height="300" 
            align="center" 
            class="custom-class">}}
@@ -817,7 +814,7 @@ For example, consider an integrator where the output voltage is measured across 
 
 {{< figure src="/ee_basic/figures/RC_capacitor_acsim.png" 
            alt="" 
-           caption="" 
+           caption="An integrator behaves as a low-pass filter." 
            target="_blank" 
            width="500" 
            height="280" 
@@ -834,7 +831,7 @@ $$ T(w) = \left| \frac{i}{wCR +i} \right| = \frac{1}{\sqrt{(wCR)^{2} + 1} }$$
 
 As \\(w \gg CR\\), \\(T(w) \approx 0\\) and \\(w\ll CR\\), \\(T(w)\approx 1\\). Opposite to the potential measure across the resistor (differentiator), an integrator is a __low-pass filter__. 
 
-- Decibel per Octave
+- __Decibel per Octave__
 
 One way to quantify the relative magnitude dependence on the frequency is to define the quantity "decibel per octave". One octave means a double of frequency. Decible is the measure of the signal power relative to a reference level in logarithmic scale. eg. Each decibel \\(dB\\) corresponding to \\(10 \log{\frac{P}{P_{0}}}\\). Because power is proportional to the square of the voltage \\(P \propto V^{2}\\), we have decibel measure in transfer funti: \\(20 \log{\frac{V}{V_{0}}} = 20 \log{T(w)} \\). 
 
@@ -844,10 +841,10 @@ Plotting the transfer function in dB with the frequency on a octave scale, we ca
 
 {{< figure src="/ee_basic/figures/rc_capacitor_acsim_plot.png" 
            alt="" 
-           caption="" 
+           caption="Frequency response of a low-pass filter with its \\(3dB\\) point labelled." 
            target="_blank" 
-           width="300" 
-           height="400" 
+           width="380" 
+           height="450" 
            align="center" 
            class="custom-class">}}
 
@@ -889,21 +886,18 @@ $$ \phi = \arctan{\frac{Img(Z)}{Re(Z)}}$$
 
 For pure imaginary output, \\(\phi = \arctan{\infty} = \pi /2\\), which verifies that claim earlier.
 
+- __LCR resonant circuit__
 
 Considering LCR resonant circuit configured in different ways:
 
-- __LCR resonant circuit__
-((LCR Resonant Circuitry))
-
 {{< figure src="/ee_basic/figures/rcl_series_sim.png" 
            alt="" 
-           caption="" 
+           caption="A serially connected RCL circuit with output measured across the resistor." 
            target="_blank" 
-           width="400" 
+           width="420" 
            height="300" 
            align="center" 
            class="custom-class">}}
-
 
 Because the capacitor and inductance are connected in series, we can calculate their reactant combined.
 
@@ -923,14 +917,14 @@ When the input frequency reaches the resonant frequency of \\(w = w_{0}\\) or \\
 
 {{< figure src="/ee_basic/figures/rcl_series_acsim_plt.png" 
            alt="" 
-           caption="" 
+           caption="Frequency response of a resonance circuit. It peaks at the resonance frequency." 
            target="_blank" 
-           width="350" 
-           height="400" 
+           width="380" 
+           height="450"
            align="center" 
            class="custom-class">}}
 
-- Damping coefficient
+- __Damping coefficient__
 
 In the RCL series, the damping coefficient is different from the RCL parallel connection in the time series analysis. Back then, it was define to be \\(\gamma = 1/ RC\\), comparing with RCL series \\(\gamma = R/L \\). A series connection form a voltage divider between components. Therefore, the voltage law is applied to connect the voltage between each every components. Writing the voltage in terms of their common current formulates the second-order differential equation in the function of the current. The coefficient of the second-order derivative must be of inductance due to its nature \\(L \frac{dI}{dt} = V\\). It is the "mass" term of the current second-order ODE. The inductor is a component that slows down the change of current.
 
@@ -1072,12 +1066,12 @@ RCL application on picking up specific square wave: Frequency generator from a s
 ## Open questions: phase transitions, fluctuations, and dissipation
 
 
-Passive components may be “simple,” but together they form the smallest laboratory where physical law becomes signal processing. By enforcing charge conservation (current law) and energy accounting around loops (voltage law), resistors, capacitors, and inductors turn circuit connectivity into dynamics. In the time domain that shows up as exponential charging/discharging, damping, and ringing; in the frequency domain it becomes impedance, transfer functions, phase shifts, 3 dB points, and resonance. The same three elements let you build integrators, differentiators, and selective resonators—linear operators whose behavior can be read either from differential equations or from poles/zeros in the complex plane.
+Passive components may be “simple,” but together they form the smallest laboratory where physical law becomes signal processing. By enforcing charge conservation (current law) and energy accounting around loops (voltage law), resistors, capacitors, and inductors turn circuit connectivity into dynamics. In the time domain that shows up as exponential charging/discharging, damping, and resonating; in the frequency domain it becomes impedance, transfer functions, phase shifts, 3 dB points, and resonance. The same three elements let you build integrators, differentiators, and selective resonators—linear operators whose behavior can be read either from differential equations or from poles/zeros in the complex plane.
 
 ### Is a filter edge a “phase transition,” or just an analogy?
 In several places the response sharply changes between regimes (e.g., low-frequency plateau vs high-frequency power-law roll-off). On Bode plots this looks like a crossover with scaling laws (like \\(T(\omega)\sim \omega^{-1}\\)). If we treat the transfer function magnitude as an “order parameter,” what is the precise sense in which the crossover near the 3 dB point resembles a critical point—and what breaks the analogy (finite bandwidth, linearity, lack of diverging correlation length)?
 
-### Where do fluctuations enter an otherwise deterministic ODE?
+<!-- ### Where do fluctuations enter an otherwise deterministic ODE?
 Real circuits fluctuate: thermal (Johnson–Nyquist) noise in \\(R\\), shot noise in carriers, \(1/f\) noise from defects, and environmental pickup. If you promote the circuit equation to a stochastic differential equation (e.g., Langevin form), how do the transient and frequency responses change? Which “universal” features (like asymptotic slopes) survive noise, and which are noise-dominated?
 
 ### Fluctuation–dissipation: can we derive the noise from the impedance?
@@ -1090,7 +1084,7 @@ Near a high-\\(Q\\) resonance the system becomes very sensitive to perturbations
 Many circuits are driven far from equilibrium (switching supplies, pulsed excitation, mixed-signal environments). In those cases, does a fluctuation–dissipation relationship still hold in any approximate way—perhaps with an “effective temperature” that depends on frequency or operating point? What signatures in the output noise would tell you the system is out of equilibrium?
 
 
-These questions point toward a unifying view: a passive network is both a dynamical system and a thermodynamic object—it responds, it dissipates, and it fluctuates. The next natural step is to make that link explicit by treating circuits as linear response systems, connecting poles/zeros to susceptibilities, and deriving noise spectra from dissipation.
+These questions point toward a unifying view: a passive network is both a dynamical system and a thermodynamic object—it responds, it dissipates, and it fluctuates. The next natural step is to make that link explicit by treating circuits as linear response systems, connecting poles/zeros to susceptibilities, and deriving noise spectra from dissipation. -->
 
 
 
