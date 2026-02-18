@@ -43,6 +43,12 @@ editPost:
 
 Basic rules of Op-Amp (refer back to JFET Op-Amp, CMRR)
 
+$$ V_{out} = A(V_{+in} - V_{-in}) $$
+
+1. No current flow
+
+2. \\(V_{+in}  - V_{-in} = \\frac{V_{out}}{A} \approx 0\\). \\(V_{+in} = V_{-in}\\)
+
 ### Negative Feedback loop
 ((Unity gain Buffer/Follower))
 

@@ -2,118 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ee/ee_core/</loc>
+    <loc>https://htsod.github.io/ee/ee_core/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/percolation_network/</loc>
+    <loc>https://htsod.github.io/posts/percolation_network/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/small_world/</loc>
+    <loc>https://htsod.github.io/posts/small_world/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/group_solid/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/fermi_surface/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/fourier/</loc>
+    <loc>https://htsod.github.io/posts/fourier/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/wave_particle/</loc>
+    <loc>https://htsod.github.io/posts/wave_particle/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archetypes/default/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/ising_model/</loc>
+    <loc>https://htsod.github.io/posts/ising_model/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/maxwell_eqns_derive/</loc>
+    <loc>https://htsod.github.io/posts/maxwell_eqns_derive/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ee/passivecomponent/</loc>
+    <loc>https://htsod.github.io/ee/passivecomponent/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ee/nonlineardevices/</loc>
-    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
+    <loc>https://htsod.github.io/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ee/opampbasic/</loc>
-    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ee/controltheory/</loc>
-    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ee/digitalelectronics/</loc>
-    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ee/informationprocessing/</loc>
-    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ee/appendices/</loc>
-    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ee/</loc>
+    <loc>https://htsod.github.io/ee/</loc>
     <lastmod>2026-01-30T12:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog-post/</loc>
+    <loc>https://htsod.github.io/tags/blog-post/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/quantum-mechanics/</loc>
+    <loc>https://htsod.github.io/tags/quantum-mechanics/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://htsod.github.io/tags/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archetypes/</loc>
+    <loc>https://htsod.github.io/archetypes/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ising-model/</loc>
+    <loc>https://htsod.github.io/tags/ising-model/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/statistical-mechanics/</loc>
+    <loc>https://htsod.github.io/tags/statistical-mechanics/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/thermodynamics/</loc>
+    <loc>https://htsod.github.io/tags/thermodynamics/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/electromagnetism/</loc>
+    <loc>https://htsod.github.io/tags/electromagnetism/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/general-relativity/</loc>
+    <loc>https://htsod.github.io/tags/general-relativity/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gravity/</loc>
+    <loc>https://htsod.github.io/tags/gravity/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/review/</loc>
+    <loc>https://htsod.github.io/tags/review/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/special-relativity/</loc>
+    <loc>https://htsod.github.io/tags/special-relativity/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dynamics/</loc>
+    <loc>https://htsod.github.io/tags/dynamics/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/network/</loc>
+    <loc>https://htsod.github.io/tags/network/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/renormalization-group/</loc>
+    <loc>https://htsod.github.io/tags/renormalization-group/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/rg_method/</loc>
+    <loc>https://htsod.github.io/posts/rg_method/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://htsod.github.io/posts/</loc>
     <lastmod>2023-05-29T01:44:19-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://htsod.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://htsod.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://htsod.github.io/search/</loc>
   </url>
 </urlset>

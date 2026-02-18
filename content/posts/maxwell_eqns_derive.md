@@ -46,7 +46,7 @@ While reading the book, two questions are worthy of pursuing
 
 2. In derivation of Maxwell Equations, how does addition of a spatially dependent potential term to the action relates to the properties of equation of motion?
 
-Hopfully by answering these two question in this blog, the top-down derivation of Electromagnetism and Gravitation would gain more clarity and fun.
+Hopfully by answering these two question in this blog, the bottom-up derivation of Electromagnetism and Gravitation would gain more clarity and fun.
 
 <!-- So, from the book if a alien civilization has the correct mindset of space and time still hard to predict the present of gravity without truely observing the effects. Einstein's idea of principle of equivalence draws the connection of non-inertial frame to a field of force is such a big leap in theoretical physics. -->
 

@@ -179,7 +179,7 @@ A simpliest example would be a potential divider. If two resistors are treated a
 
 <!-- - Matrix solution of resistor network -->
 
-{{< figure src="/ee_basic/figures/potential_divider.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/potential_divider.png" 
            alt="" 
            caption="A potential divider circuit" 
            target="_blank" 
@@ -215,7 +215,7 @@ The maximizing condition gives \\(R_{1} = R_{2}\\) for the source to deliver the
 When working with more than one stages, Thevenin's theorem comes in handy because it reduces stages into \\(V_{Th}\\), \\(R_{Th}\\) and \\(R_{load}\\). Suppose now we are using the potential divider as a driver, to drive a resistive load \\(R_{load}\\):
 
 
-{{< figure src="/ee_basic/figures/potential_divider_sim.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/potential_divider_sim.png" 
            alt="" 
            caption="Loading a potential divider circuit. Simulation shows tht the voltage drop across \\(R_{load} = 3.6 V\\)" 
            target="_blank" 
@@ -234,7 +234,7 @@ $$ R_{Th} = \frac{V_{Th}}{I_{short}} = \left. \left(V_{in}\frac{R_{2}}{R_{1} + R
 
 The Thevenin equivalent circuit for the potential divider is then can be drawn as:
 
-{{< figure src="/ee_basic/figures/pd_thevenin_sim.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/pd_thevenin_sim.png" 
            alt="" 
            caption="Thevenin equivalent circuit. The simulation result shows 3.6V votlage drop." 
            target="_blank" 
@@ -373,7 +373,7 @@ We want to know what kind of voltage and current dynamics it will cause when we 
 
 If we connect resistor and capacitor in series, the current running through both components will be the same from the current law. 
 
-{{< figure src="/ee_basic/figures/RC_series.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/RC_series.png" 
            alt="" 
            caption="A simple RC circuit connected in series" 
            target="_blank" 
@@ -393,7 +393,7 @@ where \\(V_{C}\\) and \\(V_{R}\\) each denotes the voltage drop across capacitor
 
 What if we connect the RC in a parallel fashion? 
 
-{{< figure src="/ee_basic/figures/RC_parallel.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/RC_parallel.png" 
            alt="" 
            caption="RC circuit connected in parallel" 
            target="_blank" 
@@ -418,7 +418,7 @@ A more interesting case when we connect inductor to capacitor. \\(O_{CL} = 1- (-
 
 If connecting them in series, 
 
-{{< figure src="/ee_basic/figures/CL_series.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/CL_series.png" 
            alt="" 
            caption="A CL circuit connected in series" 
            target="_blank" 
@@ -455,7 +455,7 @@ By configuring the input and output voltage accordingly, we will have different 
 
 1. __Case 1: Output voltage across capacitor__
 
-{{< figure src="/ee_basic/figures/RC_capacitor_sim.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/RC_capacitor_sim.png" 
            alt="" 
            caption="A RC circuit conneccted in series with output measured across the capacitor" 
            target="_blank" 
@@ -501,7 +501,7 @@ This can be illustrated by simulation with an input voltage of a square wave of 
 
 
 
-{{< figure src="/ee_basic/figures/rc_time_plot.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/rc_time_plot.png" 
            alt="" 
            caption="RC circuit simulation with square wave input. It shows both the charging process and the discharging process." 
            target="_blank" 
@@ -522,7 +522,7 @@ A different perspective on the result is that, the RC circuit with output measur
 
 2. __Case 2: Output Voltage across the Resistor__
 
-{{< figure src="/ee_basic/figures/RC_resistor.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/RC_resistor.png" 
            alt="" 
            caption="RC circuit connected in series with output measured across the resistor." 
            target="_blank" 
@@ -577,7 +577,7 @@ $$ V_{out}(t)\vert_{t> t_{0}} = V_{const}e^{-\frac{t}{RC}} \int_{t_{0}}^{t}{e^{\
 At the \\(t = t_{0}\\), \\(V_{out}(t)\\) jumps from \\(0V\\) to \\(V_{const}\\), which reaches its maximum. After \\(t> t_{0}\\), \\(V_{out}(t) = V_{const} e^{-(t-t_{0})/RC}\\), it decays exponentially with the time constant \\(RC\\).
 
 
-{{< figure src="/ee_basic/figures/rc_diff_plt.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/rc_diff_plt.png" 
            alt="" 
            caption="RC circuit with output measured across the resistor. It behaves as a differentiator to the input signal." 
            target="_blank" 
@@ -596,7 +596,7 @@ The sharply peaked behavior of the capacitor is known as a differentiator becaus
 
 3. __Case 3: RCL parallel resonant circuit__
 
-{{< figure src="/ee_basic/figures/rcl_parallel_sim1.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/rcl_parallel_sim1.png" 
            alt=""
            caption="Resistor and capacitor connected parallel to the inductor forming a resonance circuit."
            target="_blank"
@@ -639,7 +639,7 @@ For the above RCL resonant circuit, the resonant frequency is \\(f_{0} = 1/(2\pi
 
 
 
-{{< figure src="/ee_basic/figures/rcl_parallel_time_sim.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/rcl_parallel_time_sim.png" 
            alt=""
            caption="Time series plot of both input and output signal. The output signal shifted in phase and being attenuated."
            target="_blank"
@@ -694,7 +694,7 @@ $$ V_{out} = V_{0} e^{-\gamma t + \phi}$$
 
 Plotting these different solutions and compare their behavior overtime:
 
-{{< figure src="/ee_basic/figures/oscillator.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/oscillator.png" 
            alt=""
            caption="Three types of solution for a damped oscillation."
            target="_blank"
@@ -757,7 +757,7 @@ $$ \frac{d}{dt} \widetilde{V}(t) = -iw\widetilde{V}(t)$$
 
 Hence, for RC circuit:
 
-{{< figure src="/ee_basic/figures/RC_resistor.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/RC_resistor.png" 
            alt="" 
            caption="A differentiator also behaves as a high-pass filter." 
            target="_blank" 
@@ -812,7 +812,7 @@ $$ \widetilde{V} = \widetilde{Z}\widetilde{I}  $$
 
 For example, consider an integrator where the output voltage is measured across the capacitor.
 
-{{< figure src="/ee_basic/figures/RC_capacitor_acsim.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/RC_capacitor_acsim.png" 
            alt="" 
            caption="An integrator behaves as a low-pass filter." 
            target="_blank" 
@@ -839,7 +839,7 @@ One way to quantify the relative magnitude dependence on the frequency is to def
 Plotting the transfer function in dB with the frequency on a octave scale, we can clearly observe the transfer function is at maximum at a small frequency and decreases when frequency drops, which matches our prediction that it is a low-pass filter.
 
 
-{{< figure src="/ee_basic/figures/rc_capacitor_acsim_plot.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/rc_capacitor_acsim_plot.png" 
            alt="" 
            caption="Frequency response of a low-pass filter with its \\(3dB\\) point labelled." 
            target="_blank" 
@@ -890,7 +890,7 @@ For pure imaginary output, \\(\phi = \arctan{\infty} = \pi /2\\), which verifies
 
 Considering LCR resonant circuit configured in different ways:
 
-{{< figure src="/ee_basic/figures/rcl_series_sim.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/rcl_series_sim.png" 
            alt="" 
            caption="A serially connected RCL circuit with output measured across the resistor." 
            target="_blank" 
@@ -915,7 +915,7 @@ $$ |\widetilde{T(w)}| = \frac{w\gamma_{0}}{\sqrt{(w^{2} - w_{o}^{2})^{2} + (w\ga
 
 When the input frequency reaches the resonant frequency of \\(w = w_{0}\\) or \\(f_{0} = w_{0}/2\pi = 1/(2\pi \sqrt{LC}) = 159Hz\\), the transfer function reaches its maximum \\(T(w) = 1\\) or \\(20\log_{10}(1) = 0dB\\) in decibel. Moving away from the resonant \\(w_{0}\\) will increase the factor of the denominator and results in a smaller transfer function. In a sense, the resonant circuit picks up the frequency that is close to the resonant frequency. As can be seen in the figure below:
 
-{{< figure src="/ee_basic/figures/rcl_series_acsim_plt.png" 
+{{< figure src="/ee_basic/figures/passive_circuits/rcl_series_acsim_plt.png" 
            alt="" 
            caption="Frequency response of a resonance circuit. It peaks at the resonance frequency." 
            target="_blank" 

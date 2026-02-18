@@ -39,8 +39,8 @@ editPost:
 
 
 # Table of Content
-
 ## I. Passive Components
+[Passive Components: Physical Laws, Transient Dynamics, and Resonance]()
 ### 1. Resistor circuit
 - Current law
 - Voltage law
