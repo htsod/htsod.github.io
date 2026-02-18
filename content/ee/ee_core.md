@@ -40,7 +40,7 @@ editPost:
 
 # Table of Content
 ## I. Passive Components
-[Passive Components: Physical Laws, Transient Dynamics, and Resonance]()
+[Passive Components: Physical Laws, Transient Dynamics, and Resonance](http://htsod.github.io/ee/passivecomponent)
 ### 1. Resistor circuit
 - Current law
 - Voltage law
@@ -56,9 +56,9 @@ editPost:
 - Time Series Analysis
 - Transfer function
 
-### Example: Band-stop and Band-pass
 
 ## II. Nonlinear Devices
+
 ### 3. Diode
 - Rectifier
 - Zener diode

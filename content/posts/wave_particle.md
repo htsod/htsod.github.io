@@ -4,7 +4,7 @@ date: "2024-03-24"
 lastmod: "2024-03-24"
 tags: ["Blog Post", "Quantum Mechanics"]
 author: "Max"
-weight: 1
+weight: 5
 showToc: true
 TocOpen: false
 draft: false

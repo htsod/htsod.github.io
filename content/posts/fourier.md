@@ -3,7 +3,7 @@ title: "Fourier Transforms: A Group Theoretic Perspective"
 date: "2024-03-27"
 lastmod: "2024-10-04"
 author: "Max"
-weight: 1
+weight: 5
 showToc: true
 TocOpen: false
 bibfile: "./static/fourier/citation.json"

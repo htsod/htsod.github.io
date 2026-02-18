@@ -3,7 +3,7 @@ title: "Fermi suface: A Geometry Interpretation of Conductors"
 date: "2024-10-01"
 lastmod: "2025-01-10"
 author: "Max"
-weight: 1
+weight: 5
 showToc: true
 TocOpen: false
 # bibfile: "/fourier/citation.json"

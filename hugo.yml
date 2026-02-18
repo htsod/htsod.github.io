@@ -66,6 +66,7 @@ params:
   showtoc: true
   tocopen: true
   math: true
+  mainSections: ["ee", "posts"] # to show in the main page, if empty, all sections will be shown.
 
 
   # home-info mode

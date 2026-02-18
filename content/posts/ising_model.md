@@ -4,7 +4,7 @@ date: "2023-06-21"
 lastmod: "2024-01-10"
 tags: ["Statistical Mechanics", "Ising Model", "Thermodynamics"]
 author: "Max"
-weight: 1
+weight: 5
 bibfile: "./static/ising_model/citation.json"
 showToc: true
 TocOpen: false

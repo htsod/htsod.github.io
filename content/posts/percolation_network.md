@@ -3,7 +3,7 @@ title: "Universality and Scale Invaraince at the Criticality of Site-Bond Percol
 date: "2025-01-07"
 lastmod: "2025-01-27"
 author: "Max"
-weight: 1
+weight: 4
 showToc: true
 TocOpen: false
 bibfile: "./static/percolation/citation.json"

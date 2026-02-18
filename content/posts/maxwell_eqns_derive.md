@@ -7,7 +7,7 @@ author: "Max"
 showToc: true
 TocOpen: false
 draft: false
-weight: 1
+weight: 4
 bibfile: "./static/maxwell_derive/citation.json"
 hidemeta: false
 comments: false

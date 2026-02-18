@@ -3,7 +3,7 @@ title: "Group Theory Application in Quantum Mechanics"
 date: "2024-10-04"
 lastmod: "2025-01-09"
 author: "Max"
-weight: 1
+weight: 5
 showToc: true
 TocOpen: false
 bibfile: "./static/free_tight/citation.json"

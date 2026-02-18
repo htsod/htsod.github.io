@@ -3,7 +3,7 @@ title: "Renormalization Group: A Descriptive Overview"
 date: "2023-06-11"
 lastmod: "2023-07-21"
 author: "Max"
-weight: 0.7
+weight: 5
 tags: ["Renormalization Group", "Dynamics", "Statistical Mechanics", "Network"]
 showToc: true
 TocOpen: false

@@ -2,65 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog Posts on ButterCat</title>
-    <link>https://htsod.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Blog Posts on ButterCat</description>
     <image>
       <title>ButterCat</title>
-      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
     <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://htsod.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Universality and Scale Invaraince at the Criticality of Site-Bond Percolation Network</title>
-      <link>https://htsod.github.io/posts/percolation_network/</link>
+      <link>http://localhost:1313/posts/percolation_network/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/percolation_network/</guid>
+      <guid>http://localhost:1313/posts/percolation_network/</guid>
       <description>Site and bond percolation models exhibit a phase transition at a shared critical point, where both demonstrate self-similarity and scale invariance—hallmarks of continuous phase transitions. Using the Renormalization Group (RG) method in ( Citation: Sethna,&amp;#32;2020 Sethna,&amp;#32; J.&amp;#32; (2020). &amp;#32; Entropy, Order Parameters, and Complexity (2). &amp;#32; Clarendon Press. ) , which proposed a scaling procedure from the assumption of self-similar, we derive the scaling exponents for the percolation universality class. While this top-down approach offers pedagogical simplicity, it lacks the physical intuition provided by the Ginzburg-Landau framework.</description>
     </item>
     <item>
       <title>Phases Transition and Renormalization Group method applied in Random Graphs Model</title>
-      <link>https://htsod.github.io/posts/small_world/</link>
+      <link>http://localhost:1313/posts/small_world/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/small_world/</guid>
+      <guid>http://localhost:1313/posts/small_world/</guid>
       <description>In this blog, we start with a qualitative overview of the small-world effect, also known as the &amp;ldquo;six degrees of separation,&amp;rdquo; followed by a quantitative analysis using computational methods, and finally, a description of the phenomenon through the framework of phase transitions and critical phenomena. From the surface level to deeper insights, I aim to explore the mechanics underlying this phenomenon and how this understanding can be extended to other large-scale phenomena.</description>
     </item>
     <item>
-      <title>Fourier Transforms: A Group Theoretic Perspective</title>
-      <link>https://htsod.github.io/posts/fourier/</link>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/fourier/</guid>
-      <description>Group theory is powerful in analysis problem with symmetry. This blog aims at giving an example on how Fourier Theorem could be derived on the ground of group theory.</description>
-    </item>
-    <item>
-      <title>Wave Equation Approach and Matrix Method Derivation of the Schrodinger Equation</title>
-      <link>https://htsod.github.io/posts/wave_particle/</link>
-      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/wave_particle/</guid>
-      <description>Both the Schrödinger wave equation and the Heisenberg matrix method are fundamental approaches to quantum mechanics, each offering a unique perspective. To unify them, we recognize that while they approach the problem differently, they ultimately describe the same quantum phenomena.</description>
-    </item>
-    <item>
-      <title>Solutions to the 2D and 3D Ising Model</title>
-      <link>https://htsod.github.io/posts/ising_model/</link>
-      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/ising_model/</guid>
-      <description>This blogh reprodcues the transfer matrix solution to one dimensional Ising model and the numerical solution to the two dimensional Ising model. </description>
-    </item>
-    <item>
       <title>Bottom-up derivation of Maxwell&#39;s Equations</title>
-      <link>https://htsod.github.io/posts/maxwell_eqns_derive/</link>
+      <link>http://localhost:1313/posts/maxwell_eqns_derive/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/maxwell_eqns_derive/</guid>
+      <guid>http://localhost:1313/posts/maxwell_eqns_derive/</guid>
       <description>Can the order of physics discovery be differernt? From Zee Einstein&amp;rsquo;s Gravity in a nutshell, a hypothetical situation is proposed: a far away civilization where life was evolved from modular planet happen to understand the constancy of light before understanding electromagnetism. A brilliant physicist then could derived E.M. and gravity from the correct conception of space and time.
 The derivation was casted in a simplisitc manner: By placing the potential term either inside or outside the action square root, we obtain the familiar interactions of gravity or electromagnetism, with major concepts left unexplained.</description>
     </item>
     <item>
+      <title>Group Theory Application in Quantum Mechanics</title>
+      <link>http://localhost:1313/posts/group_solid/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/group_solid/</guid>
+      <description>This investigation started in the consideration of quantum solids which invariably have to solve for a many-bodies quantum problem. Many particles quantum mechanics, just like its classical counter parts, is desparately intractable. The exactly solvable problem, to name a few, are the free particle, harmonics oscilator and hydrogen atom. The question is then, to solve the many-particles quantum problem with the tools we have in these solvable models. All these solvable model has a potential energy term that is invariant under a symmetrical transformation, thus allowing for specifying the quantum system with integers labeling the irreducible representation.</description>
+    </item>
+    <item>
+      <title>Fermi suface: A Geometry Interpretation of Conductors</title>
+      <link>http://localhost:1313/posts/fermi_surface/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fermi_surface/</guid>
+      <description>Introduction Free Electron Model: Sommerfield Model Bands structure tells us the availible states in a unit cell. The number of electrons in a unit cell determine the occupation of those bands. One way to evaluate these effect is through the examination of the Fermi surface, which determine the equal energy surface of the electrons.
+Free electron surface Sommerfeld free electron model describe \( N \) number of fermions without any interaction, not even the columbic interaction between those \(N\) electron.</description>
+    </item>
+    <item>
+      <title>Fourier Transforms: A Group Theoretic Perspective</title>
+      <link>http://localhost:1313/posts/fourier/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fourier/</guid>
+      <description>Group theory is powerful in analysis problem with symmetry. This blog aims at giving an example on how Fourier Theorem could be derived on the ground of group theory.</description>
+    </item>
+    <item>
+      <title>Wave Equation Approach and Matrix Method Derivation of the Schrodinger Equation</title>
+      <link>http://localhost:1313/posts/wave_particle/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wave_particle/</guid>
+      <description>Both the Schrödinger wave equation and the Heisenberg matrix method are fundamental approaches to quantum mechanics, each offering a unique perspective. To unify them, we recognize that while they approach the problem differently, they ultimately describe the same quantum phenomena.</description>
+    </item>
+    <item>
+      <title>Solutions to the 2D and 3D Ising Model</title>
+      <link>http://localhost:1313/posts/ising_model/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ising_model/</guid>
+      <description>This blogh reprodcues the transfer matrix solution to one dimensional Ising model and the numerical solution to the two dimensional Ising model. </description>
+    </item>
+    <item>
       <title>Renormalization Group: A Descriptive Overview</title>
-      <link>https://htsod.github.io/posts/rg_method/</link>
+      <link>http://localhost:1313/posts/rg_method/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/rg_method/</guid>
+      <guid>http://localhost:1313/posts/rg_method/</guid>
       <description>Renormalization Group Approach in Dynamical System The renormalization group (RG) method is an approximation technique initially developed for solving strongly interacting many-body problems in quantum field theory, where perturbative solutions deviate from the actual solutions. The fundamental concept of the renormalization group approach is to eliminate irrelevant degrees of freedom in a physical system while preserving its essential characteristics ( Citation: P. Kopietz,&amp;#32;2010 P. Kopietz,&amp;#32; F.&amp;#32; (2010). &amp;#32; Introduction to the Functional Renormalization Group (1).</description>
     </item>
   </channel>

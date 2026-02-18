@@ -3,7 +3,7 @@ title: "Phases Transition and Renormalization Group method applied in Random Gra
 date: "2024-10-06"
 lastmod: "2024-10-16"
 author: "Max"
-weight: 1
+weight: 4
 showToc: true
 TocOpen: false
 bibfile: "./static/small_world/citation.json"

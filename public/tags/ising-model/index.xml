@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ising Model on ButterCat</title>
-    <link>https://htsod.github.io/tags/ising-model/</link>
+    <link>http://localhost:1313/tags/ising-model/</link>
     <description>Recent content in Ising Model on ButterCat</description>
     <image>
       <title>ButterCat</title>
-      <url>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://htsod.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
     <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://htsod.github.io/tags/ising-model/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ising-model/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solutions to the 2D and 3D Ising Model</title>
-      <link>https://htsod.github.io/posts/ising_model/</link>
+      <link>http://localhost:1313/posts/ising_model/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/posts/ising_model/</guid>
+      <guid>http://localhost:1313/posts/ising_model/</guid>
       <description>This blogh reprodcues the transfer matrix solution to one dimensional Ising model and the numerical solution to the two dimensional Ising model. </description>
     </item>
   </channel>
