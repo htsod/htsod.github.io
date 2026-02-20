@@ -1,0 +1,86 @@
+[
+  {
+    "author": [
+      {
+        "literal": "Impact Instrumentation, Inc."
+      }
+    ],
+    "id": "impact326m_manual",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "note": "User and service information for Model 326M Series portable suction unit",
+    "publisher": "Impact Instrumentation, Inc.",
+    "publisher-place": "West Caldwell, NJ",
+    "title": "Model 326M series suction unit: Instruction manual",
+    "title-short": "Model 326M series suction unit",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.righto.com/2016/02/555-timer-teardown-inside-worlds-most.html",
+    "author": [
+      {
+        "family": "Shirriff",
+        "given": "Ken"
+      }
+    ],
+    "id": "shirriff2016_555_teardown",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          2,
+          20
+        ]
+      ]
+    },
+    "note": "Accessed: 2026-02-19",
+    "title": "555 timer teardown: Inside the world’s most popular IC",
+    "title-short": "555 timer teardown",
+    "type": "webpage"
+  },
+  {
+    "URL": "https://www.allaboutcircuits.com/technical-articles/closed-loop-control-for-an-ltspice-switching-regulator/",
+    "author": [
+      {
+        "family": "Keim",
+        "given": "Robert"
+      }
+    ],
+    "id": "Keim2023_closed_loop_LTspice",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "note": "Accessed: 2026-02-19",
+    "publisher": "All About Circuits Technical Article",
+    "title": "Closed-loop control for an LTspice switching regulator",
+    "type": ""
+  },
+  {
+    "URL": "https://respiratory-therapy.com/miscellaneous/ultra-litetrade-model-326-intermittent-aspirator/?utm_source=chatgpt.com",
+    "author": [
+      {
+        "literal": "Respiratory Therapy"
+      }
+    ],
+    "id": "respiratorytherapy_ultralite_326_2007",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "note": "Accessed: 2026-02-20",
+    "title": "Ultra-lite model 326 intermittent aspirator",
+    "type": ""
+  }
+]

@@ -3,7 +3,7 @@ title: "Passive Components: Physical Laws, Transient Dynamics, and Resonance"
 date: "2026-01-30"
 lastmod: "2026-02-12"
 author: "Max"
-weight: 2
+weight: 3
 showToc: true
 TocOpen: false
 bibfile: "./static/ee_basic/citation.json"

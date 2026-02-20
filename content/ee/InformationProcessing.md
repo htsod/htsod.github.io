@@ -3,7 +3,7 @@ title: "Information Processing"
 date: "2026-01-30"
 lastmod: "2026-01-30"
 author: "Max"
-weight: 7
+weight: 8
 showToc: true
 TocOpen: false
 bibfile: "./static/ee_basic/citation.json"

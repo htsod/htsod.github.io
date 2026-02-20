@@ -3,7 +3,7 @@ title: "Mathematics and Physics Appendices"
 date: "2026-01-30"
 lastmod: "2026-01-30"
 author: "Max"
-weight: 8
+weight: 9
 showToc: true
 TocOpen: false
 bibfile: "./static/ee_basic/citation.json"

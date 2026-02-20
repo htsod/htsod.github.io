@@ -3,7 +3,7 @@ title: "Digital Electronics"
 date: "2026-01-30"
 lastmod: "2026-01-30"
 author: "Max"
-weight: 6
+weight: 7
 showToc: true
 TocOpen: false
 bibfile: "./static/ee_basic/citation.json"

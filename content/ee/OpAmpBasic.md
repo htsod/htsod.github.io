@@ -3,7 +3,7 @@ title: "Operational Amplifier Basics"
 date: "2026-01-30"
 lastmod: "2026-01-30"
 author: "Max"
-weight: 4
+weight: 5
 showToc: true
 TocOpen: false
 bibfile: "./static/ee_basic/citation.json"

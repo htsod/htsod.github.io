@@ -1,9 +1,9 @@
 ---
-title: "Study Notes in Electrical Engineering"
+title: "Table of Contents on Electronics Basics Study Notes"
 date: "2026-01-05"
 lastmod: "2026-01-11"
 author: "Max"
-weight: 1
+weight: 2
 showToc: true
 TocOpen: false
 bibfile: "./static/ee_basic/citation.json"

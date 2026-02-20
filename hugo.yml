@@ -71,16 +71,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome to ButterCat"
-    Content: "Hi there! I'm dedicated this blog to share my study notes on Physics, Math, Computation. Enjoy your stay! :)"
+    Title: "Welcome to ButterCat~"
+    Content: "I hold a background in physics and am currently developing technical expertise in biomedical systems and circuit-level analysis. Alongside practical engineering work, I am pursuing independent study in complex systems, control theory, and statistical physics. This site serves as a structured record of that journey—an evolving archive of questions, models, and lessons learned."
 
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/tianming-liang-29b670210/"
     - name: github
       url: "https://github.com/htsod"
-    # - name: instagram
-    #   url: "https://instagram.com"
+    - name: instagram
+      url: "https://instagram.com/liangtianming7"
     # - name: paypal
     #   url: "https://paypal.com"
 
@@ -143,12 +143,12 @@ menu:
   main:
 
     - identifier: dir2
-      name: EE
+      name: BMET
       url: /ee/
       weight: 10
       
     - identifier: dir1
-      name: Posts
+      name: Physics
       url: /posts/
       weight: 20
 

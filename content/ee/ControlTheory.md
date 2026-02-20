@@ -3,7 +3,7 @@ title: "Control Theory"
 date: "2026-01-30"
 lastmod: "2026-01-30"
 author: "Max"
-weight: 5
+weight: 6
 showToc: true
 TocOpen: false
 bibfile: "./static/ee_basic/citation.json"

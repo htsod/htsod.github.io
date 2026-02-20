@@ -3,7 +3,7 @@ title: "Nonlinear Devices"
 date: "2026-01-30"
 lastmod: "2026-01-30"
 author: "Max"
-weight: 3
+weight: 4
 showToc: true
 TocOpen: false
 bibfile: "./static/ee_basic/citation.json"
@@ -74,8 +74,11 @@ These behaviors give rise to a variant of designs.
 
 ### Rectifier
 
+In the forward baised mode of diode, the current only permitted to flow in one direction. It modifies an ac signal to positive only signal.
+
 - half-wave
 
+A half-wave circuit is configured as follow:
 
 {{< figure src="/ee_basic/figures/nonlinear_devices/half_wave_rectifier.png" 
            alt="" 
@@ -85,6 +88,10 @@ These behaviors give rise to a variant of designs.
            height="300" 
            align="center" 
            class="custom-class">}}
+
+Even though the input signal is alternating between negative and positive voltage, the diode only allows the current flow if only the voltage at its cathode is strictly larger than \\(0.7V\\) (a common voltage drop across the resistor to overcome the depletion region)
+
+From the simulation graph, 
 
 {{< figure src="/ee_basic/figures/nonlinear_devices/half_wave_rectifier_plt.png" 
            alt="" 
