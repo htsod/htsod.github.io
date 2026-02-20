@@ -3,7 +3,7 @@ title: "System Architecture and Component-Level Analysis of the Zoll 326M Suctio
 date: "2025-06-01"
 lastmod: "2026-02-17"
 weight: 1
-draft: true
+draft: false
 bibfile: "./static/326m/citation.json"
 ---
 
