@@ -22,14 +22,6 @@
 We begin with the intended clinical usage of the unit, followed by a discussion of its general functional architecture and mechanical components.</description>
     </item>
     <item>
-      <title>Table of Contents on Electronics Basics Study Notes</title>
-      <link>https://htsod.github.io/ee/ee_core/</link>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://htsod.github.io/ee/ee_core/</guid>
-      <description>Table of Content I. Passive Components Passive Components: Physical Laws, Transient Dynamics, and Resonance
-1. Resistor circuit Current law Voltage law Voltage and Current Relation Conductor Resistor and Ohm&amp;rsquo;s law Thevenin&amp;rsquo;s theorem 2. RCL circuit Capacitance Inductance Linear ODE form by R, C and L Time Series Analysis Transfer function II. Nonlinear Devices 3. Diode Rectifier Zener diode Shottky diodes 4. Simple Modelling of Bipolar Junction Transistor Bipolar Junction Transistor 5.</description>
-    </item>
-    <item>
       <title>Passive Components: Physical Laws, Transient Dynamics, and Resonance</title>
       <link>https://htsod.github.io/ee/passivecomponent/</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
