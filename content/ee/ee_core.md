@@ -7,7 +7,7 @@ weight: 2
 showToc: true
 TocOpen: false
 bibfile: "./static/ee_basic/citation.json"
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: ""
